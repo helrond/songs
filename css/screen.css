@@ -1,0 +1,140 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font-family: Georgia, Times New Roman, Times, serif;
+  text-align: center;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #00a;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: #a0a;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+#home {
+	text-align: left;
+}
+
+ul.songs {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+  ul.songs li {
+    line-height: 1.75em;
+  }
+  
+  ul.songs a {
+  	float: left;
+  }
+
+  ul.songs span {
+    color: #aaa;
+    font-family: Courier, monotype;
+    font-size: 80%;
+	float: right;
+  }
+  .menu {
+  	display: inline;
+  }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+  .site .title a {
+    font-family: 'Special Elite', 'Courier New', monotype, serif;
+	fonts-size: 15em;
+	color: #a00;
+    text-decoration: none;
+  }
+
+  .site .title a:hover {
+    color: black;
+  }
+
+  .site .footer {
+    font-size: 80%;
+    color: #666;
+    border-top: 4px solid #eee;
+    margin-top: 2em;
+    overflow: hidden;
+  }
+
+    .site .footer .contact {
+      float: left;
+      margin-right: 3em;
+    }
+
+
+/*****************************************************************************/
+/*
+/* Songs
+/*
+/*****************************************************************************/
+
+#song {
+ text-align: left;
+}
+
+.notes {font-style:italic;
+	padding-bottom:1em;
+}
+
+.lyrics {font-family: Georgia, Times New Roman, Times, serif; 
+}
+
+.chorus {
+	padding-left:1em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+.chords {font-family: Courier, monotype;
+	padding-top:1em;
+}
+
