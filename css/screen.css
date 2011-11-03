@@ -74,7 +74,16 @@ ul.songs {
   .menu {
   	display: inline-block;
 	font-family: 'Special Elite', 'Courier New', monotype, serif;
-	background-color:#FF0000;
+	background-color:#CCCCCC
+  }
+  
+  .menu a {
+  text-decoration:none;
+  color:#000000;
+  }
+  
+  .menu a:visited {
+  color:#000000;
   }
 
 /*****************************************************************************/
@@ -95,18 +104,10 @@ ul.songs {
   }
 
   .site .footer {
-    font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
     margin-top: 2em;
-    overflow: hidden;
   }
-
-    .site .footer .contact {
-      float: left;
-      margin-right: 3em;
-    }
-
 
 /*****************************************************************************/
 /*
