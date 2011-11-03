@@ -62,10 +62,6 @@ ul.songs {
   margin-bottom: 2em;
 }
 
-  ul.songs li {
-    line-height: 1.75em;
-  }
-  
   ul.songs a {
   	float: left;
   }
@@ -73,7 +69,6 @@ ul.songs {
   ul.songs span {
     color: #aaa;
     font-family: Courier, monotype;
-    font-size: 80%;
 	float: right;
   }
   .menu {
@@ -88,7 +83,7 @@ ul.songs {
 
   .site .title a {
     font-family: 'Special Elite', 'Courier New', monotype, serif;
-	font-size: 15em;
+	font-size: 5em;
 	color: #a00;
     text-decoration: none;
   }
