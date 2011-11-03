@@ -74,13 +74,17 @@ ul.songs {
   .menu {
   	display: inline-block;
 	font-family: 'Special Elite', 'Courier New', monotype, serif;
-	font-size:1em;
+	font-size:1.5em;
 	background-color:#CCCCCC
   }
   
   .menu a {
   text-decoration:none;
   color:#000000;
+  }
+  
+  .menu a:hover {
+  color: #a00;
   }
   
   .menu a:visited {
@@ -101,7 +105,7 @@ ul.songs {
   }
 
   .site .title a:hover {
-    color: #a00;
+    color: #000000;
   }
 
   .site .footer {
