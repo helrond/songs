@@ -5,10 +5,8 @@ title: songs.hillelarnold.com
 
 <div id="home">
   <ul class="songs">
-    {% for post in site.posts %}
-      {% if post.category == "finished"%}
+    {% for post in site.categories.finished %}
       <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
-      {% endif %}
     {% endfor %}
   </ul>
 
