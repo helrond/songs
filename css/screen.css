@@ -23,7 +23,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-bottom: 1em;
 }
 
 p {
@@ -72,10 +71,9 @@ ul.songs {
 	float: right;
   }
   .menu {
-  	display: inline-block;
+  	display: inline;
 	font-family: 'Special Elite', 'Courier New', monotype, serif;
 	font-size:1.5em;
-	background-color:#CCCCCC
   }
   
   .menu a {
