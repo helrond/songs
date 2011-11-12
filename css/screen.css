@@ -130,6 +130,11 @@ ul.songs {
  text-align: left;
 }
 
+.date {
+	text-color: gray;
+	padding-bottom: .2em;
+}
+
 .notes {font-style:italic;
 	padding-bottom:1em;
 }
