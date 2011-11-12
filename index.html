@@ -1,6 +1,6 @@
 ---
 layout: default
-title: songs::home
+title: songs.hillelarnold.com &raquo; home
 ---
 
 <div id="home">
@@ -16,8 +16,6 @@ title: songs::home
 	</ol>
 	<p>Got it? Good.</p>
 
-	<p><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt="" width="88" height="31" /></p>
-  <ul class="songs">
     {% for post in site.posts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li><br />
     {% endfor %}
