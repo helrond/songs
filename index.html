@@ -15,7 +15,7 @@ title: songs.hillelarnold.com &raquo; home
 		<li>whatever you create must be licensed under these identical terms.</li>
 	</ol>
 	<p>Got it? Good.</p>
-
+  <ul>
     {% for post in site.posts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li><br />
     {% endfor %}
