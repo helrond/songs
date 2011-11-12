@@ -30,7 +30,7 @@ p {
 }
 
 a {
-  color: #a00;
+  color: #00a;
 }
 
 a:hover {
@@ -38,7 +38,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a00;
+  color: #00a;
 }
 
 table {
@@ -82,7 +82,7 @@ ul.songs {
   }
   
   .menu a:hover {
-  color: #a00;
+  color: #000000;
   }
   
   .menu a:visited {
@@ -111,6 +111,13 @@ ul.songs {
     border-top: 2px solid #000000;
     margin-top: 2em;
 	padding-top: 2em;
+  }
+  
+  p.footer {float: left;
+  }
+  
+  img.footer {
+  	float: right;
   }
 
 /*****************************************************************************/
