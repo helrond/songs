@@ -131,8 +131,8 @@ ul.songs {
 }
 
 .date {
-	text-color: gray;
-	padding-bottom: .2em;
+	text-color: 666666;
+	padding-bottom: .5em;
 }
 
 .notes {font-style:italic;
