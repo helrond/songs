@@ -31,10 +31,11 @@ p {
 
 a {
   color: #00a;
+  text-decoration: none;
 }
 
 a:hover {
-  color: black;
+  color: #a00;
 }
 
 a:visited {
@@ -109,15 +110,8 @@ ul.songs {
   .site .footer {
     color: #666;
     border-top: 2px solid #000000;
-    margin-top: 2em;
-	padding-top: 2em;
-  }
-  
-  p.footer {float: left;
-  }
-  
-  img.footer {
-  	float: right;
+    padding-top: 2em;
+    font-size: 70%;
   }
 
 /*****************************************************************************/
