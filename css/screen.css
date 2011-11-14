@@ -104,7 +104,7 @@ ul.songs {
   }
 
   .site .title a:hover {
-    color: #000000;
+    color: #00a;
   }
 
   .site .footer {
@@ -113,6 +113,14 @@ ul.songs {
     margin-top: 1em;
     padding-top: 1em;
     font-size: 70%;
+  }
+  
+  .footer a {
+  	color: #a00;
+  }
+  
+  .footer a:hover {
+  	color: #00a;
   }
 
 /*****************************************************************************/
