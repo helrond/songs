@@ -1,0 +1,12 @@
+The Photos folder allows you to share photos with anyone (even non-Dropbox users) in an online gallery.
+
+Step 1: Make a folder inside the Photos folder, and give it a name. This will be the name of your gallery.
+
+Step 2: Put some pictures inside the folder you just created.
+
+That's it! You can now view and share this photo gallery online at http://www.dropbox.com/photos
+
+Happy Dropboxing!
+- The Dropbox Team
+
+P.S. Online galleries are only created for folders within your Photos folder. For help with photo galleries visit http://www.dropbox.com/help/18
