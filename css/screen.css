@@ -1,0 +1,158 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font-family: Georgia, Times New Roman, Times, serif;
+  text-align: center;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #00a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a00;
+}
+
+a:visited {
+  color: #00a;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+#home {
+	text-align: left;
+}
+
+ul.songs {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+  ul.songs a {
+  	float: left;
+  }
+
+  ul.songs span {
+    color: #aaa;
+    font-family: Courier, monotype;
+	float: right;
+  }
+  .menu {
+  	display: inline;
+	font-family: 'Special Elite', 'Courier New', monotype, serif;
+	font-size:1.5em;
+  }
+  
+  .menu a {
+  text-decoration:none;
+  color:#000000;
+  }
+  
+  .menu a:hover {
+  color: #000000;
+  }
+  
+  .menu a:visited {
+  color:#000000;
+  }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+  .site .title a {
+    font-family: 'Special Elite', 'Courier New', monotype, serif;
+	font-size: 3em;
+	color: #a00;
+    text-decoration: none;
+  }
+
+  .site .title a:hover {
+    color: #00a;
+  }
+
+  .site .footer {
+    color: #666;
+    border-top: 2px solid #000000;
+    margin-top: 1em;
+    padding-top: 1em;
+    font-size: 70%;
+  }
+  
+  .footer a {
+  	color: #a00;
+  }
+  
+  .footer a:hover {
+  	color: #00a;
+  }
+
+/*****************************************************************************/
+/*
+/* Songs
+/*
+/*****************************************************************************/
+
+#song {
+ text-align: left;
+}
+
+.date {
+	color: #666;
+	padding-bottom: .5em;
+	font-size: 85%;
+}
+
+.notes {font-style:italic;
+	padding-bottom:1em;
+}
+
+.lyrics {font-family: Georgia, Times New Roman, Times, serif; 
+}
+
+.chorus {
+	padding-left:1em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+.chords {font-family: Courier, monotype;
+	padding-top:1em;
+}
+

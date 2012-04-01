@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div id="song">
+	<div class="title">
+<strong>{{ page.title }}</strong>
+	</div>
+    <div class="date">
+{{ page.date | date_to_string }}
+	</div>
+	<div class="lyrics">
+{{ content }}
+	</div>
+</div>
