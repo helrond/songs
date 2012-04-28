@@ -2,7 +2,7 @@
 title: The Numbers Never LIe
 date: 2007-10-02
 layout: song
-category: incomplete
+categories: incomplete
 ---
 There's a rule for every number
 And a place for everything

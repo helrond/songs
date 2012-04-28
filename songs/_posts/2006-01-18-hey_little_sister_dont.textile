@@ -2,7 +2,7 @@
 title: Hey Little Sister Don't
 date: 2006-01-18
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Hey little sister don't, don't let them do this to you
 Hey little sister don't, don't let them do this to you

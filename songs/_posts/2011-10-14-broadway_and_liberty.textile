@@ -2,7 +2,7 @@
 title: Broadway and Liberty
 date: 2011-10-14
 layout: song
-category: incomplete
+categories: incomplete
 ---
 <div class="notes">at Occupy Wall Street</div>
 

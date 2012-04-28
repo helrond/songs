@@ -2,7 +2,7 @@
 title: Desperate People
 date: 2012-03-27
 layout: song
-category: incomplete
+categories: incomplete
 ---
 <div class="notes">(voice file0006)</div>
     

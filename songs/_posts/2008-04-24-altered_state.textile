@@ -2,7 +2,7 @@
 title: Altered State
 date: 2008-04-24
 layout: song
-category: incomplete
+categories: incomplete
 ---
 I wake up with my stomach in knots and my ears ringing
 I should not be feeling this way first thing in the morning

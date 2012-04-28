@@ -2,7 +2,7 @@
 title: St. Nicholas Elm
 date: 2007-08-27
 layout: song
-category: incomplete
+categories: incomplete
 ---
 The wind blew down the avenue all night long
 And it blew down a limb of the St. Nicholas Elm

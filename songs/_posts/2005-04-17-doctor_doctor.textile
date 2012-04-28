@@ -2,7 +2,7 @@
 title: Doctor Doctor
 date: 2005-04-17
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Murder murder there's blood on the breeze
 Doctor doctor won't you help me please

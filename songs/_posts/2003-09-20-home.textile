@@ -2,7 +2,7 @@
 title: Home
 date: 2003-09-20
 layout: song
-category: incomplete
+categories: incomplete
 ---
 There are times to get back to basics
 And this is one of those

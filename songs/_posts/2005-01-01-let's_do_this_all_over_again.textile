@@ -2,7 +2,7 @@
 title: Let's Do this All Over Again
 date: 2005-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Let's do this all over again
 I'll say you are my lover

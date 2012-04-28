@@ -2,7 +2,7 @@
 title: A Sailor's Lament
 date: 2001-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 The jailer had too much to drink he was fast asleep by ten
 I stole his keys and let myself out of the holding pen

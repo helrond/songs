@@ -2,7 +2,7 @@
 title: Take Someone With You
 date: 2007-06-21
 layout: song
-category: incomplete
+categories: incomplete
 ---
 I've got friends who say that they're always alone
 And there is nowhere left to go

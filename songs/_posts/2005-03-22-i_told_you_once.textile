@@ -2,7 +2,7 @@
 title: I Told You Once
 date: 2005-03-22
 layout: song
-category: incomplete
+categories: incomplete
 ---
 I told you once
 I'm not saying it again

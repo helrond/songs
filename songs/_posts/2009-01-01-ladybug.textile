@@ -2,7 +2,7 @@
 title: Ladybug
 date: 2009-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Ladybug fly away home
 This house is burning it is burning down

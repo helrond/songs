@@ -2,7 +2,7 @@
 title: Today's Line Calls for an Increased Chance
 date: 1999-03-17
 layout: song
-category: incomplete
+categories: incomplete
 ---
 today's line calls for an increased chance
 clouded sun, popular indifference

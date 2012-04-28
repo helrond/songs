@@ -2,7 +2,7 @@
 title: Passing It On
 date: 2010-03-22
 layout: song
-category: incomplete
+categories: incomplete
 ---
 We came in through the door off the car port
 The one that always sticks

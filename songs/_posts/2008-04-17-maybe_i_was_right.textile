@@ -2,7 +2,7 @@
 title: Maybe I Was Right
 date: 2008-04-17
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Maybe I was right where I was right then
 But in two years I'll be gone

@@ -2,7 +2,7 @@
 title: I Know it's True
 date: 2005-03-27
 layout: song
-category: incomplete
+categories: incomplete
 ---
 I know the sun is shining somewhere
 I know tomorrow's never far away

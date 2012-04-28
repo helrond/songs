@@ -2,7 +2,7 @@
 title: Border Radio
 date: 2007-12-14
 layout: song
-category: incomplete
+categories: incomplete
 ---
 You can't pay to hear it anymore
 Even if you wanted to

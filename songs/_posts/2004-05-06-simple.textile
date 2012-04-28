@@ -2,7 +2,7 @@
 title: Simple
 date: 2004-05-06
 layout: song
-category: incomplete
+categories: incomplete
 ---
 It's easy to say that I know nothing at all
 And what I see may all of it be false

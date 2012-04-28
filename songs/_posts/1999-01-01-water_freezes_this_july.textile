@@ -2,7 +2,7 @@
 title: Water Freezes This July
 date: 1999-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 water freezes this july
 burning kisses fall from the sky

@@ -2,7 +2,7 @@
 title: Stanwyck Dot Cat
 date: 2006-03-06
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Stanwyck dot cat
 Lying on the mat

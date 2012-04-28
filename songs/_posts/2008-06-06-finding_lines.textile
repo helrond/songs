@@ -2,7 +2,7 @@
 title: Finding Lines
 date: 2008-06-06
 layout: song
-category: incomplete
+categories: incomplete
 ---
 He says I told him something I should have kept to myself
 I say secrets are so fucking contagious

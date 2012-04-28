@@ -2,7 +2,7 @@
 title: If You Knew
 date: 2011-09-15
 layout: song
-category: incomplete
+categories: incomplete
 ---
 If you knew what they were saying about you
 Would you smile for the camera or turn your face away

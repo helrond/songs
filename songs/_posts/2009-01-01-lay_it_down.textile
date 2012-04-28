@@ -1,7 +1,7 @@
 ---
 title: Lay it Down
 date: 2009-01-01
-layout: song category: incomplete
+layout: song categories: incomplete
 ---
 <div class="notes">Arnold/Gardner</div>
 

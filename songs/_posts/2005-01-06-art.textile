@@ -2,7 +2,7 @@
 title: Art
 date: 2005-01-06
 layout: song
-category: incomplete
+categories: incomplete
 ---
 You were looking at the sky and talking of God
 At you feet a flower bloomed and heaven grew from mud

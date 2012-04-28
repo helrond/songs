@@ -2,7 +2,7 @@
 title: Tree of Words
 date: 2007-08-09
 layout: song
-category: incomplete
+categories: incomplete
 ---
 You would sit there for hours talking to yourself
 And the words would flow right out of you like a fountain, like a well

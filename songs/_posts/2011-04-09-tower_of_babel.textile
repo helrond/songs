@@ -2,7 +2,7 @@
 title: Tower of Babel
 date: 2011-04-09
 layout: song
-category: incomplete
+categories: incomplete
 ---
 One glance from you was all it took
 One word I did not understand

@@ -2,7 +2,7 @@
 title: Cash in Kabul
 date: 2008-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Silence reigns in the beauty parlor
 Rusting Russian tanks and empty American shells

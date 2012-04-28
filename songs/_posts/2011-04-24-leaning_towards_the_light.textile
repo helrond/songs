@@ -2,7 +2,7 @@
 title: Leaning Towards the Light
 date: 2011-04-24
 layout: song
-category: incomplete
+categories: incomplete
 ---
 The daffodils on the kitchen table
 Are leaning toward the light

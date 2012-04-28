@@ -2,7 +2,7 @@
 title: Drift
 date: 2002-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 She said it's cold in here as she pulled the blankets up to her chin
 I rolled over and fell off the edge into the sea of my sin

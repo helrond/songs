@@ -2,7 +2,7 @@
 title: Down in Flames
 date: 2003-02-03
 layout: song
-category: incomplete
+categories: incomplete
 ---
 <div class="notes">"In the words of the prophet Isaiah, “Lift your eyes and look to the heavens who created all these. He who brings out the starry hosts one by one and calls them, each by name. Because of his great power and mighty strength, not one of them is missing."
 -G. W. Bush</div>

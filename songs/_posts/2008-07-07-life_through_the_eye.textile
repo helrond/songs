@@ -2,7 +2,7 @@
 title: Life Through the Eye
 date: 2008-07-07
 layout: song
-category: incomplete
+categories: incomplete
 ---
 In a furnished room on Centre Market the police radio is always on
 And a man sits there dozing listening for the night to fall

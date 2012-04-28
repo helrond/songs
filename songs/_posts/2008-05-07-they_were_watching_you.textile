@@ -2,7 +2,7 @@
 title: They Were Watching You
 date: 2008-05-07
 layout: song
-category: incomplete
+categories: incomplete
 ---
 You stood in the room where the paintings hung
 They were watching you

@@ -2,7 +2,7 @@
 title: It Comes Back to You
 date: 2010-07-09
 layout: song
-category: incomplete
+categories: incomplete
 ---
 It flew back via Paris with me
 And bought a cup of coffee, light and sweet

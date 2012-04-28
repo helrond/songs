@@ -2,7 +2,7 @@
 title: Hell and Half of Georgia
 date: 2007-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Coming up 7s all the time
 Scant City

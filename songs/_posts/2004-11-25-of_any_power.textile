@@ -2,7 +2,7 @@
 title: Of Any Power
 date: 2004-11-25
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Place the blame on anybody
 Claim that you don't care

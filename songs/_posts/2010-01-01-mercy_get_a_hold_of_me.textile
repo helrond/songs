@@ -2,7 +2,7 @@
 title: Mercy Get a Hold of Me
 date: 2010-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 When I'm up
 

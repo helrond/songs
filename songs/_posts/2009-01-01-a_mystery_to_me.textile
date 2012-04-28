@@ -2,7 +2,7 @@
 title: A Mystery to Me
 date: 2009-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 For things beyond the reach of dreams
 Like fate and gravity

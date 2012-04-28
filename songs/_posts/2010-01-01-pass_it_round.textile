@@ -2,7 +2,7 @@
 title: Pass it Round
 date: 2010-01-01
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Take it down off the wall and pass it round
 Don't leave anything useful lying round

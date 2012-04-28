@@ -2,7 +2,7 @@
 title: Righteous Road
 date: 2010-06-10
 layout: song
-category: incomplete
+categories: incomplete
 ---
 Gotta keep walking that righteous road
 Gotta take up that heavy load
