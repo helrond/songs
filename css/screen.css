@@ -140,7 +140,6 @@ ul.songs {
 }
 
 .notes {font-style:italic;
-	padding-bottom:1em;
 }
 
 .lyrics {font-family: Georgia, Times New Roman, Times, serif; 
@@ -148,11 +147,8 @@ ul.songs {
 
 .chorus {
 	padding-left:1em;
-	padding-bottom: 1em;
-	padding-top: 1em;
 }
 
 .chords {font-family: Courier, monotype;
-	padding-top:1em;
 }
 
