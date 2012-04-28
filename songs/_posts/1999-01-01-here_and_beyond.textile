@@ -4,6 +4,7 @@ date: 1999-01-01
 layout: song
 category: incomplete
 ---
+
 When the iron curtain fell I was standing there
 More surprised than I cared to admit
 
