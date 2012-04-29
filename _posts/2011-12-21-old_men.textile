@@ -2,16 +2,16 @@
 title: Old Men
 date: 2011-12-21
 layout: song 
-categories: incomplete
+categories: finished
 ---
 Old men, you've got it hard
 Filled up with losses, wealthy in scars
-Paying for wisdom with regrets
+You've paid for wisdom with regret
 Old men, you're not done yet
 
 Old men, everything aches
-When life starts giving less than it takes
-And the cold sets deep in your bones
+And life starts giving less than it takes
+The weather seeps into your bones
 Old men, you're almost home
 
 Old men, life's cashed you in
