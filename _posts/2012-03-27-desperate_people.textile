@@ -3,9 +3,7 @@ title: Desperate People
 date: 2012-03-27
 layout: song
 categories: incomplete
----
-<div class="notes">(voice file0006)</div>
-    
+---    
 Desperate people will do anything
 If a door is locked they will kick it in
 And if you dare to cross them, you will see
@@ -17,7 +15,7 @@ Desperate people are up for anything
     
 Desperate people aren't scared of anything
     
-<div class="chorus">(voice file0007)
+<div class="chorus">
 So if you keep my belly full and keep me dry and warm
 Let me have enough so I can worry about it
 I won't start a scene, a revolution or a war
@@ -28,3 +26,13 @@ I've got just enough to keep me from being desperate
 My anxiety is the color of money
     
 can't be free with a safety net
+
+<div class="chords">C/F
+G/C
+C/F
+G/C
+
+F/C
+G/C
+F/C
+C/F/G/C</div>
