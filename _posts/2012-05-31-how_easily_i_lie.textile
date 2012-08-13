@@ -17,16 +17,17 @@ To explain something that makes no sense
 And the sink in the kitchen drips
 The roof has leaks I've got no desire to fix
 I have given up the yard to weeds
-And offered up my heard to a thief
+And offered up my heart to a thief
 
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-    Am/F/C
-    Am/F/C
-    Am/F/G
-    Am/F/G
-    F/C/F/G
-    Am/C/G
-    F/C/F/G
-    Am/G/C</div>
+Am/F/C
+Am/F/C
+Am/F/G
+Am/F/G
+
+F/C/F/G
+Am/C/G
+F/C/F/G
+Am/G/C</div>
