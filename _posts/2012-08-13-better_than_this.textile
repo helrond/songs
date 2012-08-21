@@ -1,0 +1,15 @@
+---
+title: Better Than This
+date: 2012-08-13
+layout: song
+categories: incomplete
+---
+<div class="chorus">Because I know it's gonna be
+And I know it's gonna be
+Yes I know it's gonna be
+Better than this</div>
+
+<div class="chords">Am/F
+C/F
+Am/C
+G</div>
