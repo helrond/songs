@@ -19,3 +19,14 @@ pieces of paper between here and the moon
 geography
 time
 borders
+
+<div class="chords">
+Am/G/Am
+Am/G/Am
+Am/G/C/F
+Am/G/Am
+
+C/G/Am
+C/G/Am
+C/G/F/Am
+Am/G/Am
