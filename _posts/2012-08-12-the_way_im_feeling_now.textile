@@ -4,14 +4,14 @@ date: 2012-08-12
 layout: song
 categories: incomplete
 ---
-When David sang of lions and lambs
-Was this what he meant
-And when Rumi begged for signs of stars and of wine
-Was this what he meant
+And David sang of lions and lambs
+I think I know what he meant
+And Rumi begged for signs of stars and wine
+I think I've been where he went
 
-<div class="chorus">And are you feeling
+<div class="chorus">Are you feeling
 The way I'm feeling now
-And are you believing
+Are you believing
 The way I believe now</div>
 
 I don't even know
