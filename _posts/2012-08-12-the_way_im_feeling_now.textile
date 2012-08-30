@@ -4,50 +4,39 @@ date: 2012-08-12
 layout: song
 categories: incomplete
 ---
-And David sang of lions and lambs
+<div class="notes">for Azra</div>
+
+David sang of lions and lambs
 I think I know what he meant
-And Rumi begged for signs of stars and wine
+And Rumi begged for signs, for stars and wine
 I think I've been where he went
 
-<div class="chorus">Are you feeling
-The way I'm feeling now
-Are you believing
-The way I believe now</div>
+<div class="chorus">Are you feeling the way I'm feeling now
+Are you believing the way I believe now</div>
 
 Ishmael swam and watched it all go down
-Shadrach danced and prayed in the flames flames
+I've seen it happen too
+Shadrach danced and prayed in the smoke and flames
+I've walked miles in those shoes
 
-Moses snakes
+<div class="chorus">CHORUS</div>
 
-Buddha
-Mohammed
+The prophet heard and then he spoke the word
+And I've read every one
+Buddha sat and dreamed underneath the tree
+I've felt the heat of that sun
 
-I don't even know
-I can't begin to say
-What's happening and
-Why I feel this way
+<div class="chorus">CHORUS</div>
 
-<div class="chorus">I want you to feel the way I'm feeling now
-I wish I could break off a piece and pass it around
-If there was a way to share for free what's been given to me
-I'd do it without asking why or how</div>
+BRIDGE
 
-I've been a sailor
-Out on the sea
-With no wind to catch in my sails
-I've been drifting, I've been free
+<div class="chorus">CHORUS</div>
 
-Every day
-I own a little less
-And I'm giving up my failures
-And my need to confess
+<div class="chords">D/G
+G/A
+D/G
+G/A
 
-If if you've
-Been feeling like I do
-I hope that you would tell me
-And we could make it last, us two
-
-I'm flying down the highway
-Following a trail of taillights to New York City
-And all the passengers on this late night bus
-Don't know how I feel.
+G/A/D
+G/A/D
+G/A/D</div>
