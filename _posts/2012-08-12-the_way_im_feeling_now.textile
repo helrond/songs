@@ -21,14 +21,16 @@ I've walked miles in those shoes
 
 <div class="chorus">CHORUS</div>
 
+<div class="chorus">Oh my love what kind of storm
+Has washed me up on this shore
+Alone and afraid I conqured the waves
+And I've come straight to your door</div>
+
+
 The Prophet heard and then he spoke that word
 And I've read every one
 Buddha sat and dreamed underneath the tree
 I've felt the heat of that sun
-
-<div class="chorus">CHORUS</div>
-
-BRIDGE
 
 <div class="chorus">CHORUS</div>
 
@@ -39,4 +41,9 @@ G/A
 
 G/A/D
 G/A/D
-G/A/D</div>
+G/A/D
+
+G/A/D
+Bm/E/A
+D/G/D/G
+D/A/D</div>
