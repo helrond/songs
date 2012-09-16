@@ -2,7 +2,7 @@
 title: Life Through the Eye
 date: 2008-07-07
 layout: song
-categories: incomplete
+categories: finished
 ---
 In a furnished room on Centre Market the police radio is always on
 And a man sits there dozing listening for the night to fall
@@ -21,7 +21,7 @@ Looking for a shot, some light, an angle; the perfect murder, fire or wreck
 Around the edge of every picture there's a darkness creeping in
 And a subject frozen sharp and focused in unconscious language gesturing
 
-<div class"chorus">All the fire escapes and theaters, sirens and bells
+<div class="chorus">All the fire escapes and theaters, sirens and bells
 All the headlines in the paper, bleeding what they sell
 
 CHORUS
