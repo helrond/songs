@@ -98,11 +98,12 @@ ul.songs {
 /*****************************************************************************/
   .title {
   	float: left;
+  	padding-bottom: .5em;
   }
   
   .title a {
     font-family: 'Special Elite', 'Courier New', monotype, serif;
-    font-size: 3em;
+    font-size: 2em;
     color: #a00;
     text-decoration: none;
   }
