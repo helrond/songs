@@ -96,6 +96,12 @@ ul.songs {
 /*
 /*****************************************************************************/
 
+
+  .title {
+  	width: 4em;
+  	float: left;
+  }
+  
   .site .title a {
     font-family: 'Special Elite', 'Courier New', monotype, serif;
 	font-size: 3em;
