@@ -95,13 +95,15 @@ ul.songs {
 /* Site
 /*
 /*****************************************************************************/
+  .title {
+  	float: left;
+  }
   
   .title a {
     font-family: 'Special Elite', 'Courier New', monotype, serif;
     font-size: 3em;
     color: #a00;
     text-decoration: none;
-    float: left;
   }
 
   .site .title a:hover {
