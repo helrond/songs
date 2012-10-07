@@ -76,8 +76,7 @@ ul.songs {
   	display: inline;
 	font-family: 'Special Elite', 'Courier New', monotype, serif;
 	font-size:1.5em;
-	float: left;
-	padding-top: 1em;
+	padding-top: .5em;
   }
   
   .menu a {
