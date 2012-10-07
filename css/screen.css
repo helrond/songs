@@ -55,6 +55,7 @@ table {
 
 #home {
 	text-align: left;
+	float: left;
 }
 
 ul.songs {
@@ -98,12 +99,12 @@ ul.songs {
 /*****************************************************************************/
   .title {
   	float: left;
-  	padding-bottom: .5em;
+  	margin-bottom: .5em;
   }
   
   .title a {
     font-family: 'Special Elite', 'Courier New', monotype, serif;
-    font-size: 2em;
+    font-size: 2.5em;
     color: #a00;
     text-decoration: none;
   }
