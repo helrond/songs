@@ -113,12 +113,13 @@ ul.songs {
     color: #00a;
   }
 
-  .site .footer {
+ .footer {
     color: #666;
     border-top: 2px solid #000000;
     margin-top: 1em;
     padding-top: 1em;
     font-size: 70%;
+    float: left;
   }
   
   .footer a {
