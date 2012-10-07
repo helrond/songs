@@ -76,6 +76,7 @@ ul.songs {
   	display: inline;
 	font-family: 'Special Elite', 'Courier New', monotype, serif;
 	font-size:1.5em;
+	float: left;
 	margin-top: 2em;
   }
   
@@ -107,7 +108,7 @@ ul.songs {
   .title {
   	float: left;
   	margin-bottom: .5em;
-  	width: 20em;
+  	width: 30em;
   }
   
   .title a {
