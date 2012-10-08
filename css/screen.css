@@ -61,11 +61,10 @@ table {
 ul.songs {
   list-style-type: none;
   margin-bottom: 2em;
+  float: left;
+  width: 100%;
 }
 
-  ul.songs a {
-  	float: left;
-  }
 
   ul.songs span {
     color: #aaa;
