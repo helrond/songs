@@ -75,7 +75,7 @@ ul.songs a {
 	font-size:1.5em;
 	float: left;
 	margin-top: .5em;
-	width: 100%;
+	width: 50%;
   }
   
   .menu a {
@@ -106,7 +106,7 @@ ul.songs a {
   .title {
   	float: left;
   	margin-bottom: .5em;
-  	width: 35em;
+  	width: 50%;
   }
   
   .title a {
