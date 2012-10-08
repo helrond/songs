@@ -6,7 +6,7 @@ title: songs.hillelarnold.com &raquo; incomplete
 <div id="home">
   <ul class="songs">
     {% for post in site.categories.incomplete %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li><br />
+      <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
     {% endfor %}
   </ul>
 
