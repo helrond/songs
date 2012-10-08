@@ -57,9 +57,13 @@ table {
 	text-align: left;
 }
 
+.songs {
+	float: left;
+	width: 100%;
+}
+
 ul.songs {
   list-style-type: none;
-  margin-bottom: 2em;
 }
 
   ul.songs a {
