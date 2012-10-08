@@ -65,7 +65,7 @@ table {
 
 ul.songs {
   list-style-type: none;
-  margin-bottom: 2em;
+  width: 100%;
 }
 
   ul.songs span {
