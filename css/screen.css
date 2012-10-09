@@ -73,7 +73,6 @@ a:hover {
   }
   
   .menu a {
-  text-decoration: none;
   color: #000000;
   }
   
@@ -105,13 +104,11 @@ a:hover {
     font-family: 'Special Elite', 'Courier New', monotype, serif;
     font-size: 2.5em;
     color: #666666;
-    text-decoration: none;
   }
 
   .title a:hover {
     color: #000000;
     border-bottom: 2px dotted;
-    margin-bottom: -2em;
   }
 
 /*****************************************************************************/
