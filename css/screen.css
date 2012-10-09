@@ -57,6 +57,7 @@ a:hover {
 
  .listdate {
 	color: #aaa;
+	display: block;
 	font-family: Courier, monotype;
 	float: right;
 	width: 50%;
@@ -105,6 +106,7 @@ a:hover {
     font-size: 2.5em;
     color: #666666;
     text-decoration: none;
+    border-bottom: 2px dotted;
   }
 
   .title a:hover {
