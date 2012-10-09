@@ -159,6 +159,7 @@ a:hover {
 }
 
 .lyrics {font-family: Georgia, Times New Roman, Times, serif; 
+float: left;
 }
 
 .chorus {
