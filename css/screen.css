@@ -54,12 +54,14 @@ a:hover {
 .listtitle a {
 	float: left;
 	display: block;
+	width: 50%;
 }
 
  .listdate {
-    color: #aaa;
-    font-family: Courier, monotype;
+	color: #aaa;
+	font-family: Courier, monotype;
 	float: right;
+	width: 50%;
   }
   .menu {
   	display: inline;
