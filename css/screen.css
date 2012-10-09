@@ -21,29 +21,18 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
 }
 
-h1 {
-}
-
 p {
   margin: 1em 0;
 }
 
 a {
-  color: #00a;
+  color: #000000;
   text-decoration: none;
 }
 
 a:hover {
-  color: #a00;
-}
-
-a:visited {
-  color: #00a;
-}
-
-table {
-  font-size: inherit;
-  font: 100%;
+  color: #666666;
+  text-decoration: none;
 }
 
 /*****************************************************************************/
@@ -54,22 +43,30 @@ table {
 
 #home {
 	text-align: left;
-	float: left;
 }
 
 ul.songs {
   list-style-type: none;
   margin-bottom: 2em;
+  float: left;
 }
 
-  ul.songs a {
-  	float: left;
-  }
+.songs {
+	width: 100%;
+}
 
-  ul.songs span {
-    color: #aaa;
-    font-family: Courier, monotype;
+.listtitle a {
+	float: left;
+	display: block;
+	width: 50%;
+}
+
+ .listdate {
+	color: #aaa;
+	font-family: Courier, monotype;
+	text-align: right;
 	float: right;
+	width: 50%;
   }
   .menu {
   	display: inline;
@@ -78,20 +75,20 @@ ul.songs {
 	float: left;
 	margin-top: .5em;
 	text-align: left;
+	margin-bottom: .5em;
+	width: 50%;
   }
   
   .menu a {
-  text-decoration:none;
-  color:#000000;
-  }
-  
-  .menu a:hover {
   color: #000000;
   }
   
-  .menu a:visited {
-  color:#000000;
+  .menu a:hover {
+  color: #666666;
+  text-decoration: none;
+  border-bottom: 1px dotted;
   }
+
 
 /*****************************************************************************/
 /*
@@ -106,21 +103,20 @@ ul.songs {
 /*
 /*****************************************************************************/
   .title {
-  	float: left;
-  	margin-bottom: .5em;
-  	width: 40em;
-  	text-align: left;
   }
   
   .title a {
     font-family: 'Special Elite', 'Courier New', monotype, serif;
     font-size: 2.5em;
-    color: #a00;
-    text-decoration: none;
+    color: #666666;
+ 	width: 50%;
+ 	float: left;
+ 	margin-top: .1em;
   }
 
   .title a:hover {
-    color: #00a;
+    color: #000000;
+    text-decoration: none;
   }
 
 /*****************************************************************************/
@@ -130,7 +126,7 @@ ul.songs {
 /*****************************************************************************/
 
  .footer {
-    color: #666;
+    color: #666666;
     border-top: 2px solid #000000;
     margin-top: 1em;
     padding-top: 1em;
@@ -161,12 +157,14 @@ ul.songs {
 	color: #666;
 	padding-bottom: .5em;
 	font-size: 85%;
+	width: 50%;
 }
 
 .notes {font-style:italic;
 }
 
 .lyrics {font-family: Georgia, Times New Roman, Times, serif; 
+float: left;
 }
 
 .chorus {
