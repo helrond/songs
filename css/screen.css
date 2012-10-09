@@ -151,6 +151,7 @@ a:hover {
 	color: #666;
 	padding-bottom: .5em;
 	font-size: 85%;
+	float: left;
 }
 
 .notes {font-style:italic;
