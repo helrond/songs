@@ -57,7 +57,7 @@ ul.songs {
 
 ul.songs a {
 	float: left;
-	padding-bottom: .1em;
+	padding-top: .1em;
 }
 
   ul.songs span {
