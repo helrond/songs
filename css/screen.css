@@ -95,7 +95,8 @@ a:hover {
 /* Title
 /*
 /*****************************************************************************/
-  .title {  	
+  .title {
+  	border-bottom: 2px dotted;
   }
   
   .title a {
@@ -104,7 +105,7 @@ a:hover {
     color: #666666;
  	width: 50%;
  	float: left;
- 	margin-top: .5em;
+ 	margin-top: .2em;
   }
 
   .title a:hover {
@@ -144,7 +145,6 @@ a:hover {
 
 #song {
  text-align: left;
- border-top: 2px dotted;
 }
 
 .date {
