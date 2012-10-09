@@ -52,6 +52,7 @@ a:hover {
 
 ul.songs {
   list-style-type: none;
+  line-height: 110%;
   width: 100%;
 }
 
