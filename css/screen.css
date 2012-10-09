@@ -21,24 +21,21 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
 }
 
-h1 {
-}
-
 p {
   margin: 1em 0;
 }
 
 a {
-  color: #00a;
+  color: #454545;
   text-decoration: none;
 }
 
 a:hover {
-  color: #a00;
+  color: #666666;
 }
 
 a:visited {
-  color: #00a;
+  color: #454545;
 }
 
 /*****************************************************************************/
