@@ -17,7 +17,7 @@ title: hillelarnold.com/songs
 	<p>Got it? Good.</p>
   <div class="songs">
     {% for post in site.posts %}
-      <div class="listtitle"><a href="{{ post.url }}">{{ post.title }}</a></div><div class="listdate">{{ post.date | date_to_string }}</div>
+      <div class="listtitle"><a href="/songs/{{ post.url }}">{{ post.title }}</a></div><div class="listdate">{{ post.date | date_to_string }}</div>
     {% endfor %}
   </div>
 </div>
