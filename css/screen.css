@@ -51,12 +51,12 @@ a:hover {
 	width: 100%;
 }
 
-.songs a {
+.listtitle a {
 	float: left;
 	display: block;
 }
 
- .songs span {
+ .listdate {
     color: #aaa;
     font-family: Courier, monotype;
 	float: right;
