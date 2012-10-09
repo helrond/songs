@@ -15,9 +15,9 @@ title: hillelarnold.com/songs
 		<li>whatever you create must be licensed under these identical terms.</li>
 	</ol>
 	<p>Got it? Good.</p>
-  <ul class="songs">
+  <div class="songs">
     {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li><br />
+      <a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span><br />
     {% endfor %}
   </ul>
 
