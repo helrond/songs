@@ -2,12 +2,12 @@
 layout: default
 title: songs.hillelarnold.com &raquo; incomplete
 ---
-
+<p>Incomplete songs, missing either lyrics or chords.</p>
 <div id="home">
-  <ul class="songs">
+  <div class="songs">
     {% for post in site.categories.incomplete %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li><br />
+      <div class="listtitle"><a href="/songs{{ post.url }}">{{ post.title }}</a></div><div class="listdate">{{ post.date | date_to_string }}</div>
     {% endfor %}
-  </ul>
+  </div>
 
 </div>
