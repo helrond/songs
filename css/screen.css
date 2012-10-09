@@ -59,6 +59,7 @@ a:hover {
 	color: #aaa;
 	font-family: Courier, monotype;
 	text-align: right;
+	float: right;
 	width: 50%;
   }
   .menu {
