@@ -106,7 +106,7 @@ a:hover {
     color: #666666;
     text-decoration: none;
     border-bottom: 2px dotted;
-    margin-bottom: 10px;
+    margin-bottom: 2em;
   }
 
   .title a:hover {
