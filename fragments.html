@@ -6,7 +6,7 @@ title: songs.hillelarnold.com &raquo; fragments
 <div id="home">
   <div class="songs">
     {% for post in site.categories.fragments %}
-      <div class="listtitle"><a href="/songs{{ post.url }}">{{ post.title }}</a></div><div class="listdate">{{ post.date | date_to_string }}</div>
+      <div class="listtitle"><a href="{{ post.url }}">{{ post.title }}</a></div><div class="listdate">{{ post.date | date_to_string }}</div>
     {% endfor %}
   </div>
 
