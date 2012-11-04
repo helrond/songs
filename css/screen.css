@@ -75,7 +75,7 @@ ul.songs {
 	float: left;
 	margin-top: .8em;
 	text-align: right;
-	margin-bottom: .5em;
+	vertical-align: bottom;
 	width: 50%;
   }
   
