@@ -71,9 +71,9 @@ ul.songs {
   .menu {
   	display: inline;
 	font-family: 'Special Elite', 'Courier New', monotype, serif;
-	font-size:1.5em;
+	font-size:1.2em;
 	float: left;
-	margin-top: .5em;
+	margin-top: .8em;
 	text-align: left;
 	margin-bottom: .5em;
 	width: 50%;
@@ -88,13 +88,6 @@ ul.songs {
   text-decoration: none;
   border-bottom: 1px dotted;
   }
-
-
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
 
 
 /*****************************************************************************/
