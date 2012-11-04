@@ -72,7 +72,7 @@ ul.songs {
   	display: inline;
 	font-family: 'Special Elite', 'Courier New', monotype, serif;
 	font-size:1.2em;
-	float: left;
+	float: right;
 	margin-top: .8em;
 	text-align: right;
 	vertical-align: bottom;
