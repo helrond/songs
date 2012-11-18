@@ -71,11 +71,11 @@ ul.songs {
   .menu {
   	display: inline;
 	font-family: 'Special Elite', 'Courier New', monotype, serif;
-	font-size:1.5em;
-	float: left;
-	margin-top: .5em;
-	text-align: left;
+	font-size:1.2em;
+	float: right;
+	margin-top: 1em;
 	margin-bottom: .5em;
+	text-align: right;
 	width: 50%;
   }
   
@@ -88,13 +88,6 @@ ul.songs {
   text-decoration: none;
   border-bottom: 1px dotted;
   }
-
-
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
 
 
 /*****************************************************************************/
