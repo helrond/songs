@@ -9,3 +9,7 @@ placeholder text
 He came up from the south
 He was born to let it out
 With a heart as cold as plaster
+
+Ali
+
+<div class="chorus">It's not even worth dying for</div>
