@@ -2,7 +2,7 @@
 title: What Are We Building
 date: 2013-01-09
 layout: song
-categories: incomplete
+categories: finished
 ---
 There were people in the past who thought about thir children's children
 Planted flowers in the desert and called that heaven
@@ -14,7 +14,7 @@ Who will prosper, how will the prophets die
 What is polished, what is worn
 What are we building, who are we building for</div>
 
-I'm reminded of a tree each time I think of forgetting
+There's a tree that comes to mind each time I think about forgetting
 How it stood beside those graves with only silence as a blessing
 And concrete stains and tangled vines, the light coming down
 Remind me of things I thought were not to be found

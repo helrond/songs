@@ -2,7 +2,7 @@
 title: Broadway and Liberty
 date: 2011-10-14
 layout: song
-categories: incomplete
+categories: finished
 ---
 <div class="notes">at Occupy Wall Street</div>
 
@@ -22,16 +22,13 @@ It was good
 It was good
 But it's gone
 
-Oh Broadway and liberty
+Oh Broadway and Liberty
 You made off with the best of me
-I was a dreamer and you took me in
-You led me on until belief was gone
+I was a dreamer and you left me broke
+In Manhattan in the freezing cold
 And I know
 Yes I know
 I'd do it again
-
-Left me alone and just as broke
-Standing in Manhattan in the freezing cold
 
 <div class="chords">C/Am
 F/G
