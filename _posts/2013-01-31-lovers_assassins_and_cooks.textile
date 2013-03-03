@@ -1,6 +1,6 @@
 ---
 title: Lovers, Assassins and Cooks
-date: 2013-10-31
+date: 2013-01-31
 layout: song
 categories: incomplete
 ---
