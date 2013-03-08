@@ -2,7 +2,7 @@
 title: I Am You
 date: 2013-03-05
 layout: song
-categories: incomplete
+categories: finished
 ---
 <div class="notes">for Pop &amp; War</div>
 
