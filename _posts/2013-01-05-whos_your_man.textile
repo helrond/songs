@@ -12,4 +12,14 @@ With a heart as cold as plaster
 
 Ali
 
-<div class="chorus">It's not even worth dying for</div>
+<div class="chorus">
+	It's not worth the bombs or the bullets
+	Nit's not worth the threats that lead to war
+	It's not worth anything worth having
+	It's not even worth dying for
+</div>
+
+<div class="chorus">
+	Tell me again so that I understand
+	Who's your man
+</div>
