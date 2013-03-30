@@ -4,6 +4,8 @@ date: 2013-01-30
 layout: song
 categories: incomplete
 ---
+<div class="notes">3/4 time</div>
+
 There is a ship
 To cross over the sea
 There are tides full of power
