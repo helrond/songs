@@ -5,14 +5,14 @@ layout: song
 categories: incomplete
 ---
 Run through the streets of Chinatown
-To get on the bus named after a sign
+Get on a bus named after a sign
 With some luck all of the light
 Won't be gone by the time you arrive
 
-So you've got friends in another town
-Try to get there fast as you can
-But you've got a seat and decisions to make
-And the results are out of your hands
+So you've got friends in some other town
+Make it there fast as you can
+You've got a seat and you've got plans
+But the results are out of your hands
 
 <div class="chorus">And you know what it's going to take
 	But still you hope that fortune and luck will go your way
