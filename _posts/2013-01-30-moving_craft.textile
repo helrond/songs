@@ -14,6 +14,8 @@ Not made by human hands
 They are turning in the air
 They are rumbling through this land
 
+<div class="chorus">INSTRUMENTAL</div>
+
 There is a road
 That runs through mountains and dreams
 It is carved into the rock
