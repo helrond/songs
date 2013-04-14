@@ -1,0 +1,10 @@
+---
+title: When the Moon is Blue
+date: 2012-08-31
+layout: song
+categories: incomplete
+---
+<div class="chorus">When the music starts
+	My plans fall apart
+	You'll be out there, I'll go too
+	When the moon is blue</div>
