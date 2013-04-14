@@ -10,9 +10,9 @@ There are tides full of power
 There are currents running deep
 
 There are wheels
-Not made by human hands
-They are turning in the air
-They are rumbling through this land
+Made by human hands
+They are turning in the air and
+Rumbling through this land
 
 <div class="chorus">INSTRUMENTAL</div>
 
@@ -35,7 +35,7 @@ Reaching for the sky
 D/Bm
 G/D
 Em/A
-G/D
+G/A (D)
 
 Em/A/D
 Em/A/D/Bm
