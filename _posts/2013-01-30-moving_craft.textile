@@ -2,7 +2,7 @@
 title: Moving Craft
 date: 2013-01-30
 layout: song
-categories: incomplete
+categories: finished
 ---
 There is a ship
 To cross over the sea
