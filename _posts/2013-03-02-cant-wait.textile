@@ -2,7 +2,7 @@
 title: Can't Wait
 date: 2013-03-02
 layout: song
-categories: incomplete
+categories: finished
 ---
 I have always wanted to see
 Angels in the branches of a tree
@@ -21,6 +21,8 @@ I have been waiting to be moved
 To know what it is that I am meant to do
 But I've discovered lately where I stand
 And the farther back I step the closer I am
+
+<div class="chorus">CHORUS</div>
 
 <div class="chords">
 G/Em/C/D
