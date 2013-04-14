@@ -21,3 +21,10 @@ I have been waiting to be moved
 To know what it is that I am meant to do
 But I've discovered lately where I stand
 And the farther back I step the closer I am
+
+<div class="chords">
+G/Em/C/D
+
+C/G/D/G
+C/G/C/D/G
+</div>
