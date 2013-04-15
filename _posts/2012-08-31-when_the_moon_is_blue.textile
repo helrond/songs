@@ -4,7 +4,34 @@ date: 2012-08-31
 layout: song
 categories: incomplete
 ---
+Change comes down from the mountain
+Frost creeps up through the ground
+Evening quickens and twilight fades
+I'm still hanging around
+
+Birds have flown for the winter
+Crops are in from the field
+When I first met you I had so many plans
+I had a head full of ideas
+
 <div class="chorus">When the music starts
 	My plans fall apart
 	You'll be out there, I'll go too
 	When the moon is blue</div>
+
+Asters in the meadows
+Apples on the trees
+And one light in the window
+That is meant only for me
+
+<div class="chords">
+C/G
+C/G
+Am/C/B7/Em
+C/Am/D
+
+G/C
+G/D
+G/C
+G/D/G
+</div>
