@@ -2,7 +2,7 @@
 title: When the Moon is Blue
 date: 2012-08-31
 layout: song
-categories: incomplete
+categories: finished
 ---
 Change rolls down from the mountain
 Frost creeps up through the ground
