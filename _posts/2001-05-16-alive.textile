@@ -2,7 +2,7 @@
 title: Alive
 date: 2001-05-16
 layout: song
-categories: fragments
+categories: incomplete
 ---
 I left you alone
 I left you cold
