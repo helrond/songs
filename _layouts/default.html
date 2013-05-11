@@ -1,28 +1,35 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
-   <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'/>
+   <link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'/>
+   <link href='http://fonts.googleapis.com/css?family=Port+Lligat+Sans' rel='stylesheet' type='text/css'/>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>{{ page.title }}</title>
    <meta name="author" content="Hillel Arnold" />
 
    <!-- Homepage CSS -->
-   <link rel="stylesheet" href="http://songs.hillelarnold.com/css/screen.css" type="text/css" media="screen, projection" />
-   <link rel="stylesheet" href="http://songs.hillelarnold.com/css/print.css" type="text/css" media="print" />
+   <link rel="stylesheet" href="../css/screen.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="../css/print.css" type="text/css" media="print" />
    </head>
 <body>
 <div class="site">
+  <div class="header">
   <div class="title">
-    <a href="/">songs.hillelarnold.com</a>
+    <div class="text">songs.hillelarnold.com</div>
   </div>
   <div class="menu">
+    <div class="nav">
    <a href="{{ site.url }}/finished.html">finished</a> | 
   	<a href="{{ site.url }}/incomplete.html">in progress</a>
   </div>
+  <div class="nav-mini">
+    <div>☰</div>
+  </div>
+</div>
   {{ content }}
   
   <div class="footer">
-        <p> All songs licensed by <a href="http://www.hillelarnold.com">Hillel Arnold</a> under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a></p> <img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt="" width="88" height="31" />
+        <div class="footer-left"><div class="text">All songs licensed by <a href="http://www.hillelarnold.com">Hillel Arnold</a> under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a></div></div><div class="footer-right"> <img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt="" width="88" height="31" /></div>
   </div>
 </div>
 
