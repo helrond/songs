@@ -118,6 +118,8 @@ body {
   border:1px dotted #999;
   position:fixed;
   bottom:0;
+  background-color: #fff;
+  width: 85%;
 }
 .footer:after {
   content:".";
@@ -141,7 +143,8 @@ body {
 }
 .song-list {
   width:92.88361749444033%;
-  margin:1em auto 0
+  margin:1em auto 0;
+  float:left;
 }
 .song-list>div {
   float:left
@@ -149,7 +152,7 @@ body {
 .song-list-title {
   width:46%;
   font-family:Crimson Text;
-  margin:1em 2%;
+  margin:0px 2%;
   clear:none
 }
 .song-list-title .text {
@@ -159,7 +162,7 @@ body {
   width:46%;
   font-family:Crimson Text;
   text-align:right;
-  margin:1em 2%;
+  margin: 0px 2%;
   clear:none
 }
 .song-list-date .text {
