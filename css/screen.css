@@ -323,7 +323,7 @@ body {
   }
 }
 @media screen and (max-width:768px) {
-  .footer img {
+  .footer-right {
     display:none;
   }
 }
