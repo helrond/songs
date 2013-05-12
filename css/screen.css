@@ -230,16 +230,17 @@ body {
 
 .menu { position:relative; float:right;}
 .menutitle { float:right; } 
-.showdiv {display:none; float:right; width:200px; position:absolute; top:100%; right:0; margin-top:8px; background-color: #ababab; padding-right:10px; border-radius:3px; border: solid 1px #555;}
+.showdiv {display:none; float:right; width:200px; position:absolute; top:100%; right:0; margin-top:14px; background-color: #ababab; padding-right:10px; border-radius:3px; border: solid 1px #555;}
 .showitem { float:right; font-size: 1em !important; line-height: 1.5em;}
-.clear { clear:both; border-bottom: dotted 1px #000; margin-left:8px; }
-.arrow-up {
+.clear { clear:both; border-bottom: dotted 1px #555; margin-left:8px; }
+.arrowup {
+  float:right;
   width: 0; 
   height: 0; 
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  
-  border-bottom: 5px solid #ababab;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 10px solid #ababab;
+  margin: -10px -5px 0 0;
 }
 
 @media screen and (max-width:1024px) {
