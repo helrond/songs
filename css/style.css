@@ -10,7 +10,7 @@ ul.dropdown li a                    { display: block; border-right: 1px solid #3
 	 								  color: #222; }
 ul.dropdown li:last-child a         { border-right: none; } /* Doesn't work in IE */
 ul.dropdown li.hover,
-ul.dropdown li:hover                { background: #F3D673; color: black; position: relative; }
+ul.dropdown li:hover                { color: black; position: relative; }
 ul.dropdown li.hover a              { color: black; }
 
 

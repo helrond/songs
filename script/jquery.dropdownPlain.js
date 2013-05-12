@@ -2,12 +2,12 @@ $(function(){
 
     $("ul.dropdown li").click(function(){
     
-        $(this).addClass("click");
+        $(this).addClass("hover");
         $('ul:first',this).css('visibility', 'visible');
     
     }, function(){
     
-        $(this).removeClass("click");
+        $(this).removeClass("hover");
         $('ul:first',this).css('visibility', 'hidden');
     
     });
