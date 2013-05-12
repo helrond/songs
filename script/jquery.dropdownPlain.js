@@ -1,6 +1,6 @@
-$(function(){
+$window.onload=(function(){
 
-    $("ul.dropdown li").click(function(){
+    $("ul.dropdown li").onclick(function(){
     
         $(this).addClass("hover");
         $('ul:first',this).css('visibility', 'visible');
