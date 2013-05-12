@@ -108,6 +108,9 @@ body {
   float:right;
   display:none;
   width:auto;
+  border-left: solid 1px #777;
+  padding-left: .3em;
+  font-weight: bolder;
   margin:1em 0 0 auto
 }
 .nav {
