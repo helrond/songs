@@ -143,6 +143,7 @@ body {
   margin:1em auto 0;
   float:left;
   padding: 0 3em 1em 3em;
+  border-bottom: dotted 1px #999;
 }
 .song-list>div {
   float:left
