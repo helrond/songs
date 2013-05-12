@@ -11,6 +11,7 @@
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="http://songs.hillelarnold.com/css/screen.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="http://songs.hillelarnold.com/css/print.css" type="text/css" media="print" />
+   <link rel="stylesheet" href="http://songs.hillelarnold.com/css/bootstrap.css" type="text/css" media="screen/projection" />
    <link rel="script" href="http://songs.hillelarnold.com/script/bootstrap.js" type="text/javascript" />
    </head>
 <body>
@@ -25,8 +26,8 @@
   	<a href="{{ site.url }}/incomplete.html">in progress</a>
   </div>
   <div class="nav-mini dropdown">
-    <div>&#8801;</div>
-  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+    <div><a href="#">&#8801;</a></div>
+  <ul class="dropdown-menu pull-right" role="menu" aria-labelledby="dLabel">
     <li><a tabindex="-1" href="{{ site.url }}/finished">finished</a></li>
     <li><a tabindex="-1" href="{{ site.url }}/incomplete">in progress</a></li>
   </ul>
