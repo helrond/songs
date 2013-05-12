@@ -20,8 +20,13 @@ a {
 }
 
 a:hover {
-  color: #999;
   text-decoration: none;
+  text-shadow: 0 0 #333;
+}
+
+p {
+  font-family:Crimson Text
+  width: 80%;
 }
 
 
@@ -164,7 +169,7 @@ body {
   width:46%;
   font-family:Crimson Text;
   text-align:right;
-  margin: 0px 2%;
+  margin: 0px 2% 0px 0px;
   clear:none;
   border-bottom: dotted 1px #999;
 }
@@ -472,6 +477,7 @@ body {
   .song-list-title {
     width:92.60089686098655%;
     margin:0px 2%;
+    border: none;
   }
   .song-list-title .text {
     min-width:100%
@@ -583,7 +589,7 @@ body {
 @media screen and (max-width:320px) {
   .song-list-title {
     width:87.24832214765101%;
-    margin:1em 1em 1em 1em
+    margin:0px;
   }
   .song-list-title .text {
     min-width:100%
