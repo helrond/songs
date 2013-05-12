@@ -428,9 +428,8 @@ body {
   .nav-mini {
     display:block;
     font-family:Port Lligat Sans;
-    font-size:1.5em;
+    font-size:1em;
     line-height: 2em;
-    border-left: solid 1px #777;
     font-weight: bolder;
     margin:0;
     padding:0 0 0 .3em;
