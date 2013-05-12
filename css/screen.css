@@ -178,7 +178,8 @@ body {
   min-width:100%
 }
 .home {
-  padding:0 3em 0 3em
+  padding:0 3em 0 3em;
+  float: left;
 }
 .home:after {
   content:".";
@@ -244,7 +245,7 @@ body {
 }
 @media screen and (max-width:1024px) {
   .footer {
-    padding:0 2em 0 2em
+    padding:5px 2em 0 2em
   }
   .footer:after {
     content:".";
@@ -322,6 +323,11 @@ body {
   }
 }
 @media screen and (max-width:768px) {
+  .footer img {
+    display:none;
+  }
+}
+@media screen and (max-width:768px) {
   .footer:after {
     content:".";
     display:block;
@@ -334,7 +340,7 @@ body {
 @media screen and (max-width:768px) {
   .footer-left {
     font-size:.8em;
-    margin:0
+    margin:0  
   }
 }
 @media screen and (max-width:768px) {
