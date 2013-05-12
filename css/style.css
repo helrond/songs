@@ -1,31 +1,7 @@
-ul									{ list-style: none; }
-
-/* 
-	LEVEL ONE
-*/
-ul.dropdown                         { margin: 0; }
-ul.dropdown li                      { float: right; zoom: 1; }
-ul.dropdown a:hover		            { color: #000; }
-ul.dropdown li a                    { display: block; border-right: 1px solid #333;
-	 								  color: #222; }
-ul.dropdown li:last-child a         { border-right: none; } /* Doesn't work in IE */
-ul.dropdown li.hover,
-ul.dropdown li:hover                { color: black; position: relative; }
-ul.dropdown li.hover a              { color: black; }
-
-
-/* 
-	LEVEL TWO
-*/
-ul.dropdown ul 						{ width: 220px; visibility: hidden; position: absolute; top: 100%; right: 0; }
-ul.dropdown ul li 					{ font-weight: normal; background: #f6f6f6; color: #000; 
-									  border-bottom: 1px solid #ccc; float: none; }
-									  
-                                    /* IE 6 & 7 Needs Inline Block */
-ul.dropdown ul li a					{ border-right: none; width: 100%; display: inline-block; } 
-
-/* 
-	LEVEL THREE
-*/
-ul.dropdown ul ul 					{ left: 100%; top: 0; }
-ul.dropdown li:hover > ul 			{ visibility: visible; }
+.wrapper { width:auto; margin:0 auto; }
+.menu { position:relative; width:130px; padding:10px; float:left; border:1px solid blue; }
+.menuitem { float:left; } 
+.arrow {float:left;margin-left:15px;}
+.showdiv {display:none; float:right; width:150px; height:50px; position:absolute; margin-top:40px; border:1px solid red;}
+.showitem { float:right }
+.clear { clear:both }

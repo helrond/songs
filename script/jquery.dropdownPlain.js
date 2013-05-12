@@ -1,17 +1,7 @@
-$window.onload=(function(){
-
-    $("ul.dropdown li").onclick(function(){
-    
-        $(this).addClass("hover");
-        $('ul:first',this).css('visibility', 'visible');
-    
-    }, function(){
-    
-        $(this).removeClass("hover");
-        $('ul:first',this).css('visibility', 'hidden');
-    
-    });
-    
-    $("ul.dropdown li ul li:has(ul)").find("a:first").append(" &raquo; ");
-
-});
+window.onload=function() {
+  document.getElementById("arrow").onclick=function(){
+      var showDiv = document.getElementById('showDiv');
+      showDiv.style.display = (showDiv.style.display  == 'none')?'block':'none';
+  }
+  document.getElementById('showDiv').style.display="none"; // not accessible by script until we set it
+}
