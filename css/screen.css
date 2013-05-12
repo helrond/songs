@@ -29,11 +29,6 @@ a {
   text-shadow: 0px 0px 4px #999;
 }
 
-p {
-  font-family:Crimson Text
-  width: 80%;
-}
-
 
 /*****************************************************************************/
 /*
@@ -191,7 +186,7 @@ body {
 }
 .home {
   padding:0 3em 0 3em;
-  float: left;
+  float: none;
   border-bottom: dotted 1px #999
 }
 .home:after {
@@ -205,7 +200,7 @@ body {
 .song-title {
   width:auto;
   font-family:Crimson Text;
-  font-size:4em;
+  font-size:3em;
   margin:.24999999999999997em auto 0 auto
 }
 .song-title .text {
@@ -214,8 +209,8 @@ body {
 .lyrics {
   width:auto;
   font-family:Crimson Text;
-  font-size:1.5em;
-  margin:.6666666666666666em auto 0
+  font-size:1em;
+  margin:0 auto 0
 }
 .lyrics .text {
   min-width:100%
@@ -223,8 +218,9 @@ body {
 .song-date {
   width:auto;
   font-family:Crimson Text;
-  font-size:1.5em;
-  margin:.6666666666666666em auto 0 auto
+  font-size:1em;
+  color: #999;
+  margin: -.5em auto 0 auto
 }
 .song-date .text {
   min-width:100%
