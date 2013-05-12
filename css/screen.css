@@ -55,7 +55,8 @@ body {
   background:#fff;
   -webkit-box-shadow:0 0 40px #000;
   -moz-box-shadow:0 0 40px #000;
-  box-shadow:0 0 40px #000
+  box-shadow:0 0 40px #000;
+  padding-bottom:4em;
 }
 .site:after {
   content:".";
@@ -115,7 +116,7 @@ body {
 }
 .footer {
   padding:5px 3em 0 3em;
-  border:1px dotted #999;
+  border-top:1px dotted #999;
   position:fixed;
   bottom:0;
   background-color: #fff;
