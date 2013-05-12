@@ -1,13 +1,13 @@
 $(function(){
 
-    $("ul.dropdown li").onClick(function(){
+    $("ul.dropdown li").click(function(){
     
-        $(this).addClass("onClick");
+        $(this).addClass("click");
         $('ul:first',this).css('visibility', 'visible');
     
     }, function(){
     
-        $(this).removeClass("onClick");
+        $(this).removeClass("click");
         $('ul:first',this).css('visibility', 'hidden');
     
     });
