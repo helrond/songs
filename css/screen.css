@@ -115,10 +115,8 @@ body {
 }
 .footer {
   padding:5px 3em 0 3em;
-  border-top:1px dotted #999;
   background-color: #fff;
-  width: 100%;
-  float: left;
+  float: none;
 }
 .footer:after {
   content:".";
