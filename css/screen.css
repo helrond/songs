@@ -15,10 +15,12 @@ body {
 }
 
 a {
+  color: #000;
   text-decoration: none;
 }
 
 a:hover {
+  color: #999;
   text-decoration: none;
 }
 
@@ -151,8 +153,9 @@ body {
 .song-list-title {
   width:46%;
   font-family:Crimson Text;
-  margin:0px 2%;
-  clear:none
+  margin:0px 0px 0px 2%;
+  clear:none;
+  border-bottom: dotted 1px #999;
 }
 .song-list-title .text {
   min-width:100%
@@ -162,7 +165,8 @@ body {
   font-family:Crimson Text;
   text-align:right;
   margin: 0px 2%;
-  clear:none
+  clear:none;
+  border-bottom: dotted 1px #999;
 }
 .song-list-date .text {
   min-width:100%
@@ -467,7 +471,7 @@ body {
 @media screen and (max-width:480px) {
   .song-list-title {
     width:92.60089686098655%;
-    margin:1em 1em 1em 1em
+    margin:0px 2%;
   }
   .song-list-title .text {
     min-width:100%
@@ -500,7 +504,7 @@ body {
 @media screen and (max-width:480px) {
   .song-title {
     font-size:2em;
-    margin:.041666666666666664em auto 0 auto
+    margin:0px 2%;
   }
 }
 @media screen and (max-width:480px) {
