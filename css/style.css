@@ -1,5 +1,0 @@
-.menu { position:relative; float:right;}
-.menutitle { float:right; } 
-.showdiv {display:none; float:right; width:200px; position:absolute; top:100%; right:0; margin-top:8px; background-color: #999; padding-right:10px; border-radius:3px;}
-.showitem { float:right; font-size: 1em;}
-.clear { clear:both }
