@@ -3,11 +3,10 @@ ul									{ list-style: none; }
 /* 
 	LEVEL ONE
 */
-ul.dropdown                         { position: relative; }
-ul.dropdown li                      { font-weight: bold; float: left; zoom: 1; background: #ccc; }
+ul.dropdown                         { margin: 0; }
+ul.dropdown li                      { float: right; zoom: 1; }
 ul.dropdown a:hover		            { color: #000; }
-ul.dropdown a:active                { color: #ffa500; }
-ul.dropdown li a                    { display: block; padding: 4px 8px; border-right: 1px solid #333;
+ul.dropdown li a                    { display: block; border-right: 1px solid #333;
 	 								  color: #222; }
 ul.dropdown li:last-child a         { border-right: none; } /* Doesn't work in IE */
 ul.dropdown li.hover,
@@ -18,7 +17,7 @@ ul.dropdown li.hover a              { color: black; }
 /* 
 	LEVEL TWO
 */
-ul.dropdown ul 						{ width: 220px; visibility: hidden; position: absolute; top: 100%; left: 0; }
+ul.dropdown ul 						{ width: 220px; visibility: hidden; position: absolute; top: 100%; right: 0; }
 ul.dropdown ul li 					{ font-weight: normal; background: #f6f6f6; color: #000; 
 									  border-bottom: 1px solid #ccc; float: none; }
 									  
