@@ -282,7 +282,7 @@ body {
     height:0
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .site:after {
     content:".";
     display:block;
@@ -292,7 +292,7 @@ body {
     height:0
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .header {
     padding:0 2em 0 2em;
     min-height:3em;
@@ -307,7 +307,7 @@ body {
     height:0
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .menu:after {
     content:".";
     display:block;
@@ -317,30 +317,30 @@ body {
     height:0
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .title {
     font-size:2.5em;
     margin:0 0 0 0
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .nav-mini {
     margin:1em 0 0 auto
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .nav {
     font-size:1.5em;
     line-height:2em;
     margin:0
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .footer-right {
     display:none;
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .footer:after {
     content:".";
     display:block;
@@ -350,13 +350,13 @@ body {
     height:0
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .footer-left {
     font-size:.8em;
     margin:0  
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .home:after {
     content:".";
     display:block;
@@ -366,25 +366,25 @@ body {
     height:0
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .song-title {
     font-size:3em;
     margin:.08333333333333333em auto 0 auto
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .lyrics {
     font-size:1em;
     margin:.6666666666666666em auto 0 auto
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-device-width:768px) {
   .song-date {
     font-size:1em;
     margin:.6666666666666666em auto 0 auto
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .site {
     margin:0;
     padding:0
@@ -398,7 +398,7 @@ body {
     height:0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .header {
     padding:0 .7em 0 .7em;
     min-height:2em;
@@ -413,7 +413,7 @@ body {
     height:0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .menu {
     float:right;
     padding:0;
@@ -428,13 +428,13 @@ body {
     height:0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .title {
     font-size:1.5em;
     margin:0 0 0 0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .nav-mini {
     display:block;
     font-family:Port Lligat Sans;
@@ -444,12 +444,12 @@ body {
     padding:.1em 0 0 0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .nav {
     display:none
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .footer:after {
     content:".";
     display:block;
@@ -459,14 +459,14 @@ body {
     height:0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .footer-left {
     display:none;
     font-size:.5em;
     margin:0 0 0 0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .footer-right {
     float:none;
     display:block;
@@ -474,12 +474,12 @@ body {
     margin:0 auto
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .song-list>div {
     float:left
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .song-list-title {
     width:92.60089686098655%;
     margin:0px 2%;
@@ -489,18 +489,18 @@ body {
     min-width:100%
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .song-list-date {
     display:none
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .home-text {
     font-size:1em;
     margin:0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .home {
     padding:0 1em 0 1em
   }
@@ -513,19 +513,19 @@ body {
     height:0
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .song-title {
     font-size:2em;
     margin:0px 2%;
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .lyrics {
     font-size:.8em;
     margin:.8333333333333333em auto 0 auto
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-device-width:480px) {
   .song-date {
     font-size:.8em;
     margin:.8333333333333333em auto 0 auto
