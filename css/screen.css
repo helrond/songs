@@ -147,7 +147,7 @@ body {
 }
 .song-list {
   width:92.88361749444033%;
-  margin:1em auto 0;
+  margin:1em auto 5px 0;
   float:left;
   padding: 0 3em 1em 3em;
   border-bottom: dotted 1px #999;
@@ -377,7 +377,7 @@ body {
 @media screen and (max-width:768px) {
   .song-date {
     font-size:1em;
-    margin:.6666666666666666em auto 0 auto
+    margin: -0.5em auto 0 auto
   }
 }
 @media screen and (max-width:480px) {
@@ -524,7 +524,7 @@ body {
 @media screen and (max-width:480px) {
   .song-date {
     font-size:.8em;
-    margin:.8333333333333333em auto 0 auto
+    margin: -0.5em auto 0 auto
   }
 }
 @media screen and (max-width:320px) {
