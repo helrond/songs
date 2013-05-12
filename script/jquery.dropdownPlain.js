@@ -1,5 +1,5 @@
 window.onload=function() {
-  document.getElementById("arrow").onclick=function(){
+  document.getElementById("menutitle").onclick=function(){
       var showDiv = document.getElementById('showDiv');
       showDiv.style.display = (showDiv.style.display  == 'none')?'block':'none';
   }
