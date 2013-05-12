@@ -231,7 +231,7 @@ body {
 .menu { position:relative; float:right;}
 .menutitle { float:right; } 
 .showdiv {display:none; float:right; width:200px; position:absolute; top:100%; right:0; margin-top:14px; background-color: #ababab; padding-right:10px; border-radius:3px; border: solid 1px #555;}
-.showitem { float:right; font-size: 1em !important; line-height: 1.5em;}
+.showitem { float:right; font-size: .7em !important; line-height: 1.3em;}
 .clear { clear:both; border-bottom: dotted 1px #555; margin-left:8px; }
 .arrowup {
   float:right;
