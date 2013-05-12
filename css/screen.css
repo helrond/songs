@@ -56,7 +56,6 @@ body {
   -webkit-box-shadow:0 0 40px #000;
   -moz-box-shadow:0 0 40px #000;
   box-shadow:0 0 40px #000;
-  padding-bottom:4em;
 }
 .site:after {
   content:".";
@@ -117,10 +116,9 @@ body {
 .footer {
   padding:5px 3em 0 3em;
   border-top:1px dotted #999;
-  position:fixed;
-  bottom:0;
   background-color: #fff;
-  width: 85%;
+  width: 100%;
+  float: left;
 }
 .footer:after {
   content:".";
@@ -146,6 +144,7 @@ body {
   width:92.88361749444033%;
   margin:1em auto 0;
   float:left;
+  padding: 0 3em 1em 3em;
 }
 .song-list>div {
   float:left
