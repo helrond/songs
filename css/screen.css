@@ -157,23 +157,28 @@ body {
 .song-list>div {
   float:left
 }
+.song-list-song {
+	float:none;
+}
 .song-list-title {
-  width:46%;
+  width:48%;
   font-family:Crimson Text;
   margin:0px 0px 0px 2%;
   clear:none;
   border-bottom: dotted 1px #999;
+  float: left;
 }
 .song-list-title .text {
   min-width:100%
 }
 .song-list-date {
-  width:46%;
+  width:48%;
   font-family:Crimson Text;
   text-align:right;
   margin: 0px 2% 0px 0px;
   clear:none;
   border-bottom: dotted 1px #999;
+  float: right;
 }
 .song-list-date .text {
   min-width:100%
