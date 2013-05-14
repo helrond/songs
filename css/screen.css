@@ -148,7 +148,6 @@ body {
   width:7.023144453312051%
 }
 .song-list {
-  width:92.88361749444033%;
   margin:1em auto 5px 0;
   float:left;
   padding: 0 3em 1em 3em;
@@ -452,10 +451,10 @@ body {
   .nav-mini {
     display:block;
     font-family:Port Lligat Sans;
-    font-size:2em;
+    font-size:1.5em;
     line-height: 2em;
     font-weight: bolder;
-    margin:-0.5em 0 0 0;
+    margin:-0.3em 0 0 0;
     padding:0;
   }
 }
