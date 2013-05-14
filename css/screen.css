@@ -27,7 +27,7 @@ ul {
   text-shadow: 0px 0px 10px #fff;
 }
 
-.song-list a:hover {
+.song-list, .home-text a:hover {
   text-decoration: none;
   text-shadow: 0px 0px 4px #999;
 }
