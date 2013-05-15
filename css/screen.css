@@ -79,15 +79,7 @@ body {
   padding:0 3em 0 3em;
   background:#999;
   min-height:4em;
-  max-height:4em
-}
-.header:after {
-  content:".";
-  display:block;
-  clear:both;
-  visibility:hidden;
-  line-height:0;
-  height:0;
+  max-height:4em;
   background-image: linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
 background-image: -o-linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
 background-image: -moz-linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
@@ -102,6 +94,14 @@ background-image: -webkit-gradient(
 	color-stop(0.46, rgb(153,153,153))
 );
 }
+.header:after {
+  content:".";
+  display:block;
+  clear:both;
+  visibility:hidden;
+  line-height:0;
+  height:0;
+  }
 .menu {
   float:right;
   max-height:1.5em
