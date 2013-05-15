@@ -24,12 +24,12 @@ ul {
 }
 .header a:hover {
   text-decoration: none;
-  text-shadow: 0px 0px 10px #fff;
+  text-shadow: none;
 }
 
 .song-list a:hover, .home-text a:hover {
   text-decoration: none;
-  text-shadow: 0px 0px 4px #999;
+  text-shadow: 0px 1px 1px #777;
 }
 
 
@@ -106,6 +106,7 @@ body {
   font-family:Port Lligat Sans;
   font-size:3.5em;
   margin:0
+  text-shadow: 0px 1px 1px #fff, 0 -1px 1px #000;
 }
 .nav-mini {
   float:right;
@@ -118,6 +119,9 @@ body {
   font-size:2em;
   line-height:2em;
   text-align:right
+}
+.nav a {
+  text-shadow: 0px 1px 1px #fff, 0 -1px 1px #000;
 }
 .nav .text {
   min-width:100%
