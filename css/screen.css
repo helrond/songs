@@ -87,7 +87,20 @@ body {
   clear:both;
   visibility:hidden;
   line-height:0;
-  height:0
+  height:0;
+  background-image: linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
+background-image: -o-linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
+background-image: -moz-linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
+background-image: -webkit-linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
+background-image: -ms-linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
+
+background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(1, rgb(85,85,85)),
+	color-stop(0.46, rgb(153,153,153))
+);
 }
 .menu {
   float:right;
