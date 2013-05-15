@@ -77,7 +77,6 @@ body {
 }
 .header {
   padding:0 3em 0 3em;
-  background:#999;
   min-height:4em;
   max-height:4em;
   background-image: linear-gradient(top, rgb(85,85,85) 100%, rgb(153,153,153) 46%);
@@ -282,7 +281,6 @@ background-image: -webkit-gradient(
 @media screen and (max-width:1024px) {
   .header {
     padding:0 2em 0 2em;
-    background:#ababab
   }
   .header:after {
     content:".";
