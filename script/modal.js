@@ -4,7 +4,7 @@ $('a.song-list-title').bind('click', function() {
    var outputHolder = $("<div class='home'></div>");
    $("body").append(outputHolder);
    outputHolder.load($this.attr("href"), null, function() {
-      outputHolder.dialog(// whatever params you want);
+      outputHolder.dialog();
    });
    return false;
 });
