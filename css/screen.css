@@ -250,8 +250,8 @@ body {
 
 .menu { position:relative; float:right;}
 #menutitle { float:right; text-shadow: 0px 1px 1px #fff, 0 -1px 1px #000;} 
-.showdiv {display:none; float:right; width:90px; position:absolute; top:100%; right:0; margin-top:14px; background-color: #ababab; padding-right:10px; border-radius:3px; border: solid 1px #555;}
-.showitem { float:right; font-size: .7em !important; line-height: 1.3em;}
+.showdiv {display:none; float:right; width:130px; position:absolute; top:100%; right:0; margin-top:14px; background-color: #ababab; padding-right:10px; border-radius:3px; border: solid 1px #555;}
+.showitem { float:right; font-size: 1em !important; text-shadow: 0px 1px 1px #fff, 0 -1px 1px #000;}
 .clear { clear:both; border-bottom: dotted 1px #555; margin-left:8px; }
 .arrowup {
   float:right;
