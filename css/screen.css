@@ -182,7 +182,7 @@ body {
     background-color: #fff;
     position: fixed;
     left: 40%;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 .content {
     display:none;

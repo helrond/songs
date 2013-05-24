@@ -1,5 +1,6 @@
 $(document).ready(function(){
 $('.song-list-title').click(function(){
-$(this).parent().next().children().toggle("slow")
+$('.content').css("display," "none");
+$(this).parent().next().children().slideToggle("slow")
 });
 });
