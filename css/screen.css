@@ -78,6 +78,10 @@ body {
   padding:0 3em 0 3em;
   min-height:4em;
   max-height:4em;
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
   background-image: linear-gradient(top, #777777 100%, #999999 46%);
   background-image: -o-linear-gradient(top, #777777 100%, #999999 46%);
   background-image: -moz-linear-gradient(top, #777777 100%, #999999 46%);
@@ -164,7 +168,7 @@ body {
 .song-list {
   margin:1em auto 5px 0;
   float:left;
-  padding: 0 3em 1em 3em;
+  padding: 3em 3em 1em 3em;
   border-bottom: dotted 1px #999;
 }
 .song-list-left {
@@ -178,6 +182,7 @@ body {
     background-color: #fff;
     position: fixed;
     left: 40%;
+    overflow: scroll;
 }
 .content {
     display:none;
