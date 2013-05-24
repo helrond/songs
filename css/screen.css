@@ -174,13 +174,18 @@ body {
 }
 .song-list-center {
     float: left;
-    width: 60%;
+    width: 59%;
     background-color: #fff;
-    position: absolute;
+    position: fixed;
     left: 40%;
 }
 .content {
     display:none;
+}
+.song-list-center .chords {
+    position: fixed;
+    top: 6em;
+    right: 2em;
 }
 .song-list:nth-child(4n) {
 	background-color: #efefef;
@@ -197,13 +202,15 @@ body {
   min-width:100%
 }
 .song-list-date {
-  width:48%;
   font-family:Crimson Text;
-  font-size:1.5em;
+  font-size:1em;
   text-align:right;
   margin: 0px 2% 0px 0px;
   clear:none;
   float: right;
+  position: fixed;
+  bottom: 2em;
+  right: 1em;
 }
 .song-list-date .text {
   min-width:100%
