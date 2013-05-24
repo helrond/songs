@@ -182,7 +182,7 @@ body {
 .content {
     display:none;
 }
-.song-list:nth-child(even) {
+.song-list:nth-child(4n) {
 	background-color: #efefef;
 }
 .song-list-title {
