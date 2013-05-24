@@ -12,8 +12,9 @@ title: songs.hillelarnold.com &raquo; finished
     <div class="content">
       <div class="song-list-content">{{ post.content }}</div>
     </div>
+    <div class="song-list-right">
+      <div class="song-list-date">{{ post.date | date_to_string }}</div>
+    </div>
   </div>
-  <div class="song-list-right">
-    <div class="song-list-date">{{ post.date | date_to_string }}</div>
-  </div> {% endfor %} 
+   {% endfor %} 
 </div>

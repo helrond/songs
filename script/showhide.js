@@ -1,5 +1,5 @@
 $(document).ready(function(){
 $('.song-list-title').click(function(){
-$(this).parent().next().toggle("slow")
+$(this).parent().next().children().toggle("slow")
 });
 });
