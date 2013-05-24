@@ -171,27 +171,20 @@ body {
   padding: 3em 3em 1em 3em;
   border-bottom: dotted 1px #999;
 }
-.song-list-left {
-	float:left;
-	width:100%;
-	background-color: #fff;
-}
-.song-list-center {
+.song-list-content {
+    display:none;
     float: left;
     width: 59%;
     background-color: #fff;
     position: fixed;
     left: 40%;
 }
-.content {
-    display:none;
-}
-.song-list-center .chords {
+.song-list-content .chords {
     position: fixed;
     top: 4em;
     right: 2em;
 }
-.song-list-center .notes {
+.song-list-content .notes {
     position: fixed;
     bottom: 3.5em;
     right: 1em;
