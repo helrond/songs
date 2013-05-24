@@ -167,12 +167,15 @@ body {
   padding: 0 3em 1em 3em;
   border-bottom: dotted 1px #999;
 }
-.song-list-song {
+.song-list-left {
 	float:left;
 	width:100%;
 	background-color: #fff;
 }
-.song-list-song:nth-child(even) {
+.song-list-right {
+    display:none;
+}
+.song-list-left:nth-child(even) {
 	background-color: #efefef;
 }
 .song-list-title {
