@@ -169,7 +169,7 @@ body {
 }
 .song-list-left {
 	float:left;
-	width:40%;
+	width:100%;
 	background-color: #fff;
 }
 .song-list-center {
@@ -182,12 +182,7 @@ body {
 .content {
     display:none;
 }
-.song-list-right {
-    float: right;
-    width: 5%;
-    background-color: #eee;
-}
-.song-list-left:nth-child(even) {
+.song-list:nth-child(even) {
 	background-color: #efefef;
 }
 .song-list-title {
