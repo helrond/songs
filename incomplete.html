@@ -1,9 +1,14 @@
 ---
 layout: default
-title: songs.hillelarnold.com &raquo; incomplete
+title: songs.hillelarnold.com &raquo; in progress
 ---
-<div class="song-list">
-    {% for post in site.categories.incomplete %}
-      <div class="song-list-song"><div class="song-list-title"><a href="{{ post.url }}">{{ post.title }}</a></div><div class="song-list-date">{{ post.date | date_to_string }}</div></div>
-    {% endfor %}
+<div class="song-list"> {% for post in site.categories.incomplete %} 
+  <div class="song-list-title">
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </div>
+  <div class="song-list-content">
+    <div class="date">{{ post.date | date_to_string }}</div>
+    <div class="content">{{ post.content }}</div>
+  </div>
+  {% endfor %} 
+</div>
