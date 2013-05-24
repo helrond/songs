@@ -182,15 +182,19 @@ body {
     background-color: #fff;
     position: fixed;
     left: 40%;
-    overflow-y: scroll;
 }
 .content {
     display:none;
 }
 .song-list-center .chords {
     position: fixed;
-    top: 6em;
+    top: 4em;
     right: 2em;
+}
+.song-list-center .notes {
+    position: fixed;
+    bottom: 3.5em;
+    right: 1em;
 }
 .song-list:nth-child(4n) {
 	background-color: #efefef;
