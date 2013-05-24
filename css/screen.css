@@ -177,6 +177,11 @@ body {
     width: 50%;
     background-color: #fff;
 }
+.song-list-right {
+    float: left;
+    width: 5%;
+    background-color: #eee;
+}
 .song-list-left:nth-child(even) {
 	background-color: #efefef;
 }
