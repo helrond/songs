@@ -172,7 +172,7 @@ body {
 	width:100%;
 	background-color: #fff;
 }
-.song-list-right {
+.song-list-center {
     display:none;
 }
 .song-list-left:nth-child(even) {
