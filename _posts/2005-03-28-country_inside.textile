@@ -26,7 +26,7 @@ I wish I could go somewhere; the place that they've gone to
 I'm wishing for horizons, endless lines of sight
 I'm wishing I had more than the country inside
 
-<div class="chorus">CHORUS</div></div>
+<div class="chorus">CHORUS</div>
 <div class="chords">G/D/Em/C/G
 G/D/Em/A7/D
 C/G/C/G

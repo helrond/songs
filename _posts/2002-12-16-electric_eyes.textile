@@ -34,7 +34,7 @@ Might be amazing grace
 <div class="chorus">CHORUS
 
 Just the other day there was love
-Don't throw it away</div></div>
+Don't throw it away</div>
 <div class="chords">VERSE: C/Am/G/Am
 
  F C C F G
@@ -56,5 +56,3 @@ Am/G/F/C
 BRIDGE:
 Am/Em/F/G
 F/C/G</div>
-</body>
-</html>
