@@ -64,7 +64,7 @@ body {
   background:#fff;
   -webkit-box-shadow:0 0 40px #000;
   -moz-box-shadow:0 0 40px #000;
-  box-shadow:0 0 40px #000;
+  box-shadow:0px 0px 40px #000;
 }
 .site:after {
   content:".";
@@ -177,10 +177,10 @@ body {
     width: 59%;
     background-color: #fff;
     position: fixed;
-    left: 40%;
+    left: 38%;
 }
 .content {
-    font-family: Crimson Text;
+    font-family:Crimson Text;
     font-size: 1em;
     line-height: 1.2em;
 }
@@ -198,7 +198,7 @@ body {
 	background-color: #efefef;
 }
 .song-list-title {
-  width:100%;
+  width:95%;
   font-family:Crimson Text;
   font-size:1.5em;
   margin:0px 0px 0px 2%;
