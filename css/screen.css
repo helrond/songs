@@ -174,11 +174,16 @@ body {
 }
 .song-list-center {
     float: left;
-    width: 50%;
+    width: 60%;
     background-color: #fff;
+    position: absolute;
+    left: 40%;
+}
+.content {
+    display:none;
 }
 .song-list-right {
-    float: left;
+    float: right;
     width: 5%;
     background-color: #eee;
 }
