@@ -25,7 +25,7 @@ The news that's fit to print and nothing more
 Atom bombs and Communists, Brown and the Board
 The National Guard in Arkansas
 
-<div class="chorus">CHORUS</div></div>
+<div class="chorus">CHORUS</div>
 <div class="chords">C/G/C
 C/G/C
 F/G/E/Am
@@ -34,5 +34,3 @@ Dm/F/G
 C/G/Am
 C/G/Am
 C/G/Am/G/C</div>
-</body>
-</html>
