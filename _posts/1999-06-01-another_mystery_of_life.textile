@@ -26,7 +26,6 @@ What are you blaming on me</div>
 I want you to slow down, I want to go down
 I have to get past these routines
 If anyone would know that I just can't stand them
-It would have to be you</div>
+It would have to be you
+
 <div class="chords">C/Am/G/F</div>
-</body>
-</html>
