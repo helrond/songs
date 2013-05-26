@@ -210,7 +210,7 @@ body {
   float: left;
   border-bottom: 1px solid #ddd;
 }
-.song-list-title:hover, select {
+.song-list-title:hover, .select {
     background-color: #ddd;
     border-bottom: 1px solid #999;
 }
