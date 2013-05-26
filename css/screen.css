@@ -189,7 +189,7 @@ body {
 }
 .song-list-content .chords {
     position: fixed;
-    top: 4em;
+    top: 5em;
     right: 3em;
 }
 .song-list-content .notes {

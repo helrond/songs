@@ -28,8 +28,7 @@ Everyone will be drunk and already high
 
 <div class="chorus">CHORUS</div>
 
-<div class="chords">
-G/C
+<div class="chords">G/C
 G/D
 G/C
 G/D/G
@@ -37,5 +36,4 @@ G/D/G
 C/G
 Em/Am/C/D
 C/G
-Em/C/D/G
-</div>
+Em/C/D/G</div>
