@@ -1,6 +1,6 @@
 $(document).ready(function () {
     if ($(window).width() > 480) {
-        $(".song-list-title a").attr("href", "#");
+        $("a").prop("href", "#");
         $('.song-list-title').click(function () {
             $('.song-list-content').css('display', 'none;');
             $(this).css('background-color', '#ffffff');
