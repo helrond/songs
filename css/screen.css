@@ -168,16 +168,16 @@ body {
 .song-list {
   margin:1em auto 5px 0;
   float:left;
-  padding: 3em 3em 1em 3em;
+  padding: 3em 3em 1em 2em;
   border-bottom: dotted 1px #999;
 }
 .song-list-content {
     display:none;
     float: left;
-    width: 59%;
+    width: 62%;
     background-color: #fff;
     position: fixed;
-    left: 38%;
+    left: 35%;
     min-height: 88%;
     padding-left: 1em;
     box-shadow: 0px 0px 20px #999;
@@ -196,6 +196,7 @@ body {
     position: fixed;
     bottom: 3.5em;
     right: 3em;
+    width: 10%;
 }
 .song-list:nth-child(4n) {
 	background-color: #efefef;
@@ -204,7 +205,7 @@ body {
   width:95%;
   font-family:Crimson Text;
   font-size:1.5em;
-  margin:0px 0px 0px 2%;
+  margin:0px;
   padding-left:5px;
   clear:none;
   float: left;
