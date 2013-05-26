@@ -215,6 +215,9 @@ body {
 .song-list-title:hover {
     background-color: #ddd;
 }
+.select {
+    background-color: #ddd;  
+}
 .song-list-title .text {
   min-width:100%
 }
