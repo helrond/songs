@@ -9,7 +9,7 @@ $(document).ready(function () {
         });
         $('.song-list-title').click(function (event) {
         event.preventDefault();
-            $('.song-list-content').removeClass('select');
+            $('.song-list-title').removeClass('select');
             $(this).next().slideToggle();
             $(this).addClass('select');
         });
