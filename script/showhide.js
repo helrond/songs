@@ -1,4 +1,5 @@
-$(document).ready(function () {
+$(document).ready(function (event) {
+    event.preventDefault();
     if ($(window).width() > 480) {
         $('.song-list-title a').prop('href', '#');
         $('.song-list-title').mouseenter(function () {
