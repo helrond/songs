@@ -178,6 +178,8 @@ body {
     background-color: #fff;
     position: fixed;
     left: 38%;
+    padding-left: 1em;
+    box-shadow: 0px 0px 20px #999;
 }
 .content {
     font-family:Crimson Text;
