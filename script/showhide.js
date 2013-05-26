@@ -9,6 +9,7 @@ $(document).ready(function () {
         });
         $('.song-list-title').click(function () {
             $('.song-list-content').css('display', 'none');
+            $('.song-list-title').css('border', 'none');
             $(this).next().slideToggle();
             $(this).css('border', '1px dotted #999');
         });
