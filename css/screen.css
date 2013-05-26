@@ -189,12 +189,12 @@ body {
 .song-list-content .chords {
     position: fixed;
     top: 4em;
-    right: 2em;
+    right: 3em;
 }
 .song-list-content .notes {
     position: fixed;
     bottom: 3.5em;
-    right: 1em;
+    right: 3em;
 }
 .song-list:nth-child(4n) {
 	background-color: #efefef;
@@ -219,7 +219,7 @@ body {
   float: right;
   position: fixed;
   bottom: 2em;
-  right: 1em;
+  right: 3em;
 }
 .home-text {
   width:auto;
