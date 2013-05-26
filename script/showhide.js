@@ -9,9 +9,8 @@ $(document).ready(function () {
         });
         $('.song-list-title').click(function () {
             $('.song-list-content').css('display', 'none');
-            $('.song-list-title').css('background-color', '#ffffff');
             $(this).next().slideToggle();
-            $(this).css('background-color', '#dddddd');
+            $(this).css('border', '1px dotted #999');
         });
     }
 });
