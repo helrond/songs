@@ -333,7 +333,7 @@ body {
 }
 @media screen and (max-width:1024px) {
   .home {
-    padding:0 2em 0 2em
+    padding:3em 2em 0 2em
   }
   .home:after {
     content:".";
@@ -533,6 +533,9 @@ body {
   }
 }
 @media screen and (max-width:480px) {
+    .song-list {
+        padding-top: 2em;
+    }
   .song-list>div {
     float:left
   }
@@ -560,7 +563,7 @@ body {
 }
 @media screen and (max-width:480px) {
   .home {
-    padding:0 1em 0 1em
+    padding:2em 1em 0 1em
   }
   .home:after {
     content:".";
