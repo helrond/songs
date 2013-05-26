@@ -191,12 +191,14 @@ body {
     position: fixed;
     top: 5em;
     right: 3em;
+    text-align: right;
 }
 .song-list-content .notes {
     position: fixed;
     bottom: 3.5em;
     right: 3em;
     width: 10%;
+    text-alighn: right;
 }
 .song-list:nth-child(4n) {
 	background-color: #efefef;
