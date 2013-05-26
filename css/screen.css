@@ -212,6 +212,9 @@ body {
   clear:none;
   float: left;
 }
+.song-list-title:hover {
+    background-color: #ddd;
+}
 .song-list-title .text {
   min-width:100%
 }

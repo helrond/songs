@@ -2,10 +2,10 @@ $(document).ready(function () {
     if ($(window).width() > 480) {
         $('.song-list-title a').prop('href', '#');
         $('.song-list-title').mouseenter(function () {
-            $(this).css('background-color', '#ddd');
+            $(this).addClass("hover");
         });
         $('.song-list-title').mouseleave(function () {
-            $(this).css('background-color', 'none');
+            $(this).removeClass("hover");
         });
         $('.song-list-title').click(function (event) {
         event.preventDefault();
