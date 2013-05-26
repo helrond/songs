@@ -8,5 +8,5 @@ $(document).ready(function () {
             $(this).next().slideToggle();
             $(this).css('background-color', '#999999');
         });
-    };
+    }
 });
