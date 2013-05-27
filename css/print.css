@@ -106,7 +106,7 @@ iframe {
     display:none;
 }
 
-song-list-title.select {
+.song-list-title.select {
     font-size: larger;
     display: block;
 }
