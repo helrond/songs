@@ -102,7 +102,11 @@ ul.songs {
  text-align: left;
 }
 
-.song-list-title .select {
+#widget {
+    display:none;
+}
+
+.select {
     display: block;
 }
 
@@ -124,8 +128,4 @@ ul.songs {
 
 .chords {font-family: Courier, monotype;
 	padding-top:1em;
-}
-
-.song-list-title {
-    display:none;
 }
