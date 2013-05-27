@@ -102,7 +102,7 @@ ul.songs {
  text-align: left;
 }
 
-.select {
+.song-list-title .select {
     display: block;
 }
 
