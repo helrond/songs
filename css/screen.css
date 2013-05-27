@@ -93,7 +93,7 @@ body {
 	left bottom,
 	color-stop(1, #777777),
 	color-stop(0.46, #999999)
-);
+)
 }
 .header:after {
   content:".";
@@ -204,11 +204,12 @@ body {
     text-align: right;
 }
 .song-list-title {
-  width:95%;
+  width:35%;
   font-family:Crimson Text;
   font-size:1.5em;
   margin:0px;
   padding-left:5px;
+  padding-right:64%;
   clear:none;
   float: left;
   border-bottom: 1px solid #ddd;
