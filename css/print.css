@@ -107,7 +107,7 @@ iframe {
 }
 
 .select {
-    font-style: italic;
+    font-size: larger;
 }
 
 .date {
@@ -128,4 +128,8 @@ iframe {
 
 .chords {font-family: Courier, monotype;
 	padding-top:1em;
+}
+
+.song-list-title {
+    display:none;
 }
