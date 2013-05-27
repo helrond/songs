@@ -107,7 +107,7 @@ ul.songs {
 }
 
 .select {
-    display: block;
+    font-size: larger;
 }
 
 .date {
