@@ -102,6 +102,10 @@ ul.songs {
  text-align: left;
 }
 
+.select {
+    font-family: Georgia, Times New Roman, Times, serif;
+}
+
 .date {
 	color: #666;
 	padding-bottom: .5em;
@@ -122,3 +126,6 @@ ul.songs {
 	padding-top:1em;
 }
 
+.song-list-title {
+    display:none;
+}
