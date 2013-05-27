@@ -108,6 +108,7 @@ iframe {
 
 .select {
     font-size: larger;
+    display: block;
 }
 
 .date {
