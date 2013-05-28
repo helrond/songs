@@ -82,11 +82,11 @@ body {
   top:0;
   left:0;
   right:0;
-  background-image: -o-linear-gradient(top, #1e5799 0%,#2989d8 50%,#7DB9E9 100%);
-  background-image: -moz-linear-gradient(top, #1e5799 0%,#2989d8 50%,#7DB9E9 100%);
-  background-image: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 50%,#7DB9E9 100%);
-  background-image: -ms-linear-gradient(top, #1e5799 0%,#2989d8 50%,#7DB9E9 100%);
-  background-image: -webkit-gradient(top, #1e5799 0%,#2989d8 50%,#7DB9E9 100%);
+  background-image: -o-linear-gradient(top, #336699 0%,#33666 100%);
+  background-image: -moz-linear-gradient(top, #336699 0%,#33666 100%);
+  background-image: -webkit-linear-gradient(top, #336699 0%,#33666 100%);
+  background-image: -ms-linear-gradient(top, #336699 0%,#33666 100%);
+  background-image: -webkit-gradient(top, #336699 0%,#33666 100%);
 }
 .header:after {
   content:".";
