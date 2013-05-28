@@ -82,18 +82,18 @@ body {
   top:0;
   left:0;
   right:0;
-  background-image: linear-gradient(bottom, #333A99 19%, #3365BB 59%);
-background-image: -o-linear-gradient(bottom, #333A99 19%, #3365BB 59%);
-background-image: -moz-linear-gradient(bottom, #333A99 19%, #3365BB 59%);
-background-image: -webkit-linear-gradient(bottom, #333A99 19%, #3365BB 59%);
-background-image: -ms-linear-gradient(bottom, #333A99 19%, #3365BB 59%);
+  background-image: linear-gradient(bottom, #3333FF 0%, #5F5FFA 100%);
+  background-image: -o-linear-gradient(bottom, #3333FF 0%, #5F5FFA 100%);
+  background-image: -moz-linear-gradient(bottom, #3333FF 0%, #5F5FFA 100%);
+  background-image: -webkit-linear-gradient(bottom, #3333FF 0%, #5F5FFA 100%);
+  background-image: -ms-linear-gradient(bottom, #3333FF 0%, #5F5FFA 100%);
 
-background-image: -webkit-gradient(
+  background-image: -webkit-gradient(
 	linear,
 	left bottom,
 	left top,
-	color-stop(0.19, #333A99),
-	color-stop(0.59, #3365BB)
+	color-stop(0, #3333FF),
+	color-stop(1, #5F5FFA)
 );
 }
 .header:after {
