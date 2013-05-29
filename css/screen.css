@@ -136,6 +136,9 @@ body {
 .nav .text {
   min-width:100%
 }
+.nav a {
+  text-shadow: 0px 1px #999999;
+}
 .footer {
   padding:5px 3em 0 3em;
   background-color: #fff;
@@ -542,8 +545,7 @@ body {
 }
 @media screen and (max-width:480px) {
   .song-list-title {
-    width:92.60089686098655%;
-    margin:0px 2%;
+
   }
   .song-list-title .text {
     min-width:100%
