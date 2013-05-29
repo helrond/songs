@@ -33,11 +33,11 @@ When the flood comes down
 When the flood comes down, it will be washed away
 When the flood comes down, on that day
 When the flood comes down</div>
-<div class="chords">E/B
-B/E
-E/A
-E/B/E
+<div class="chords">G/D
+D/G
+G/C
+G/D/G
 
-A
-E
-B/E</div>
+C
+G
+D/G</div>
