@@ -545,7 +545,8 @@ body {
 }
 @media screen and (max-width:480px) {
   .song-list-title {
-
+ width: 90%;
+ padding-right:0px;
   }
   .song-list-title .text {
     min-width:100%
