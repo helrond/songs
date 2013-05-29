@@ -33,16 +33,16 @@ I've been burned by that sun
 
 <div class="chorus">CHORUS</div>
 
-<div class="chords">D/G
-G/A
-D/G
-G/A
+<div class="chords">E/A
+A/B
+E/A
+A/B
 
-G/A/D
-G/A/D
-G/A/D
+A/B/E
+A/B/E
+A/B/E
 
-G/A/D
-Bm/E/A
-D/G/D/G
-D/A/D</div>
+A/B/E
+C#m/F#/B
+E/A/E/A
+E/B/E</div>
