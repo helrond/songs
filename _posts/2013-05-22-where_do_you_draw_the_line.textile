@@ -4,10 +4,12 @@ date: 2013-05-22
 layout: song
 categories: incomplete
 ---
-where do you draw the line
-At the flagpole or the shrine
-where do you draw the line
-On the cross, the crescent or the hills of time
+
+
+<div class="chorus">Where do you draw the line
+In the bonds of blood or what is called a crime
+Where do you draw the line
+On the cross, the crescent or the hills of time</div>
 
 bottom line
 
@@ -17,3 +19,8 @@ You catch them in churches and hospitals
 And they run you around like a fool
 
 I'm trying to forget all of mine
+
+Let me be the last to tell you
+That you can carry everything
+But let noone else set the limits
+To your circles of affection
