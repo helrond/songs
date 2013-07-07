@@ -10,10 +10,19 @@ I hang my coat up
 
 Waiting on the platform
 
-I tell myself it's honest work
+<div class="chorus">I tell myself it's honest work
 Tell myself I'm doing it for you
-But you I have not seen in quite some time
+But you I have not seen in quite some time</div>
 
-Cigarette smoke and coffee stains
+<div class="chorus">Cigarette smoke and coffee stains
 These are the things that I call home
-And there I have not been in quite some time
+And there I have not been in quite some time</div>
+
+
+<div class="chords">Em
+C
+Em/C
+
+C
+G/D
+D/Em</div>
