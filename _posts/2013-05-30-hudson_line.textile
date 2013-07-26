@@ -4,23 +4,31 @@ date: 2013-05-30
 layout: song
 categories: incomplete
 ---
-Arriving early for a window seat
-I turn my head and seldom speak
-I hang my coat up
+Standing on the platform waiting for the flood
+Waiting for anything that would be enough
+I hold my head up
 
-Waiting on the platform
-
-This city where it rains every afternoon
-And we are always at war
-
+With a choice I'll take the window seat
+I'll turn my head and hold my peace
+And I will hang my coat up
 <div class="chorus">I tell myself it's honest work
-Tell myself I'm doing it for you
-But you I have not seen in quite some time</div>
+    Tell myself I'm doing it for you 
+    But you I have not seen in quite some time</div>
 
-
+...
+...
+...
 <div class="chorus">Cigarette smoke and coffee stains
-These are the things that I call home
-And there I have not been in quite some time</div>
+    These are the things that I call home
+    And home I have not been in quite some time</div>
+
+Down the street there's a vacant man
+He makes more money than the Taliban
+And I losing my cool
+<div class="chorus">In this city where it never rains
+    And we are always at war
+    And war is a place that's hard to find</div>
+
 
 
 <div class="chords">Em
