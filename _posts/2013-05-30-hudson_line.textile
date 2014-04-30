@@ -2,7 +2,7 @@
 title: Hudson Line
 date: 2013-05-30
 layout: song
-categories: incomplete
+categories: finished
 ---
 Standing on the platform waiting for the flood
 Waiting for anything that would be enough
@@ -15,24 +15,24 @@ And I will hang my coat up
     Tell myself I'm doing it for you 
     But you I have not seen in quite some time</div>
 
-The express train has the right of way
-And it's not like I have much to say
+Express trains have the right of way
+It's not like I had much to say
 To you anymore
 
-The local gets more and more delayed
+The local train gets more delayed
 The further it goes on its way
-Like you did before
+And you walked out that door
 <div class="chorus">Cigarette smoke and coffee stains
     These are the things that I call home
     And home I have not been in quite some time</div>
 
-Now I'm living halfway underground
-With the curtains drawn I am not about
+I'm living halfway underground
+With the curtains drawn I'm not about
 To go losing my cool
 
 I dodge the talkers and the transit cops
-Conductors with belts full of ticket stubs
-I'm proving a fool
+Conductors with their belts full of ticket stubs
+I've been such a fool
 <div class="chorus">In this city where it never rains
     And we are always at war
     The enemy is impossible to find</div>
