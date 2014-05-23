@@ -1,10 +1,6 @@
 $(document).ready(function () {
     if ($(window).width() > 480) {
-        $('.song-list-title a').each(function() {
-        console.log(this.attr('href'))
-        //this.attr('href', url);
-        });
-        
+        $('.song-list-title a').attr('href', this.a.innerHTML());
         $('.song-list-title').mouseenter(function () {
             $(this).addClass("hover");
         });
