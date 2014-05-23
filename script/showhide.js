@@ -1,7 +1,7 @@
 $(document).ready(function () {
     if ($(window).width() > 480) {
         $('.song-list-title a').each(function() {
-        console.log(this)
+        console.log(this.attr('href'))
         //this.attr('href', url);
         });
         
