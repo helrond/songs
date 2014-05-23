@@ -1,9 +1,9 @@
 $(document).ready(function () {
     if ($(window).width() > 480) {
-    
-        url = $('.song-list-title a').attr('href');
-        url = url.replace(" ", "-");
-        $('.song-list-title a').attr('href', url);
+        $('.song-list-title a').each(function() {
+        url = this.replace(" ", "-").toLowerCase();
+        this.attr('href', url);
+        });
         
         $('.song-list-title').mouseenter(function () {
             $(this).addClass("hover");
