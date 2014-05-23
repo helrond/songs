@@ -1,8 +1,8 @@
 $(document).ready(function () {
     if ($(window).width() > 480) {
         $('.song-list-title a').each(function() {
-        url = this.replace(" ", "-").toLowerCase();
-        this.attr('href', url);
+        console.log(this)
+        //this.attr('href', url);
         });
         
         $('.song-list-title').mouseenter(function () {
