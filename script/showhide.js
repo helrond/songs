@@ -1,6 +1,6 @@
 $(document).ready(function () {
     if ($(window).width() > 480) {
-        //$('.song-list-title a').prop('href', '#');
+        $('.song-list-title a').attr('href').replace(" ", "-");
         $('.song-list-title').mouseenter(function () {
             $(this).addClass("hover");
         });
