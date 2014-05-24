@@ -7,10 +7,8 @@ title: songs.hillelarnold.com &raquo; finished
       <a href="#">{{ post.title }}</a>
     </div>
     <div class="song-list-content">
-      <div class="date">
-        {{ post.date | date_to_string }}
-        <a href="{{ post.url }}">Just this song</a>
-      </div>
+      <div class="date">{{ post.date | date_to_string }}</div>
+      <div class="zoom"><a href="{{ post.url }}"><img src="css/zoom.png"/></a>
       <div class="content">{{ post.content }}</div>
     </div>
    {% endfor %} 
