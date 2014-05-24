@@ -187,6 +187,7 @@ body {
     line-height: 1.2em;
     height: 100%;
     overflow: auto;
+    padding-top:1em;
 }
 .song-list-content .chords {
     position: fixed;
@@ -199,18 +200,18 @@ body {
     float: left;
     height: 0;
     width: 0;
-    border-bottom: 5em solid transparent;
-    border-left: 5em solid #ddd;
+    border-bottom: 3em solid transparent;
+    border-left: 3em solid #ddd;
 }
 
 .song-list-content .zoom {
     float: left;
-    margin-left: -4.5em;
-    margin-top: .5em;
+    margin-left: -2.8em;
+    margin-top: .2em;
 }
 
 .song-list-content .zoom img {
-    width:2em; 
+    width:1.2em; 
 }
 
 .song-list-content .notes {
