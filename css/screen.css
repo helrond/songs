@@ -191,10 +191,17 @@ body {
 }
 .song-list-content .chords {
     position: fixed;
-    top: 5em;
+    top: 6em;
     right: 3em;
     text-align: right;
 }
+
+.song-list-content .zoom {
+    width:2em; 
+    float:right; 
+    margin:1em 3em 1em 0;
+}
+
 .song-list-content .notes {
     position: fixed;
     bottom: 3.5em;
