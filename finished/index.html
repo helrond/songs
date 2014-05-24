@@ -4,10 +4,13 @@ title: songs.hillelarnold.com &raquo; finished
 ---
 <div class="song-list"> {% for post in site.categories.finished %} 
     <div class="song-list-title">
-      <a href="#{{ post.title }}">{{ post.title }}</a>
+      <a href="#">{{ post.title }}</a>
     </div>
     <div class="song-list-content">
-      <div class="date">{{ post.date | date_to_string }}</div>
+      <div class="date">
+        {{ post.date | date_to_string }}
+        <a href="{{ post.url }}">Just this song</a>
+      </div>
       <div class="content">{{ post.content }}</div>
     </div>
    {% endfor %} 
