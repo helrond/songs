@@ -197,16 +197,16 @@ body {
 }
 
 .song-list-content .fold {
-    float: right;
+    float: left;
     height: 0;
     width: 0;
     border-bottom: 5em solid transparent;
-    border-right: 5em solid #ddd;
+    border-left: 5em solid #ddd;
 }
 
 .song-list-content .zoom {
-    float: right;
-    margin-right: -4.5em;
+    float: left;
+    margin-left: -4.5em;
     margin-top: .5em;
 }
 
