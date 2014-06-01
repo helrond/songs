@@ -14,11 +14,10 @@ There will be a heavy load
 And the hardest place to travel
 Is the country you've built on your own
 
-<div class="chorus">
-    You've got to know the shape of things before you set your course
-    You've got to know if speed or scenery is what matters most
+<div class="chorus">You've got to know the shape of things before you set your course
+    You've got to know if speed or scenery is what matters most 
     Chart out all the crossings and carry the right pass
-    And when you get to where you're going remember what you've passed
+    And when you get to where you're going remember what you've passed 
 </div>
 
 You can spend your life certain
