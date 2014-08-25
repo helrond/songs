@@ -2,7 +2,7 @@
 title: Southern Exposure
 date: 2014-04-29
 layout: song
-categories: incomplete
+categories: finished
 ---
 
 I turn my back toward the wind
@@ -22,12 +22,7 @@ The weather in my mind all of the time
 Let it be everything
 </div>
 
-Though I cannot stop the rain
-Or the sun or anything
-I can seek out the shade
-And shelter from the gale
-
-And I can balance the extremes
+I've tried to balance the extremes
 On the fulcrum of my dreams
 Place the memories of spring
 Against the ice and wind
@@ -39,6 +34,10 @@ But will live with what it is
 And I will take what I can hold
 </div>
 
+<div class="chorus">
+	CHORUS
+</div>
+
 G/D/Em
 C/D/G
 
@@ -46,3 +45,8 @@ C/D/G/D/Em
 C/D/G
 C/D/G/D/Em
 C/D/G
+
+Em/D/G
+Em/D/G
+Em/D/G
+D
