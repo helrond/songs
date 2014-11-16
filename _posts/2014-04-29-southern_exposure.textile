@@ -31,7 +31,7 @@ Against the ice and wind
 I will not dehydrate my soul
 Grow numb from cold
 But will live with what it is
-And I will take what I can hold
+What I can hold
 </div>
 
 <div class="chorus">
@@ -47,6 +47,6 @@ C/D/G/D/Em
 C/D/G
 
 Em/D/G
-Em/D/G
+Em/G/D
 Em/D/G
 D
