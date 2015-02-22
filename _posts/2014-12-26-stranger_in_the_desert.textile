@@ -2,7 +2,7 @@
 title: Strangers in the Desert
 date: 2014-12-26
 layout: song
-categories: incomplete
+categories: finished
 ---
 <div class="note">at Joshua Tree</div>
 

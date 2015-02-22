@@ -2,7 +2,7 @@
 title: Monkey Wrench
 date: 2014-11-15
 layout: song
-categories: incomplete
+categories: finished
 ---
 Now I'm trying to come clean, to cross the distance in between
 Trying to hear the substance of your words
