@@ -31,6 +31,8 @@ When I climbed up the minaret stairs
 And I saw the city from there
 Then I felt it, Lahore
 
+<div class="chorus">CHORUS</div>
+
 <div class="chords">
 	Am/G
 
