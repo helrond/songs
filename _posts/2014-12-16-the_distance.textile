@@ -4,9 +4,14 @@ date: 2014-12-16
 layout: song
 categories: incomplete
 ---
-Every time I look that number is there
-But simple mathematics are more than I can bear
-The faces on the page are all blurred or turned away
+It was the summer of dreams, they were dancing in the field
+And thinking that the future was full of possibilities
+Now they're miles past those years, those guitars and jeans
+They've taken to preaching and growing out their beards
+
+They were just kids in school, doing things that kids will do
+Not looking to be a number leading the news
+But those faces on the page were all blurred or turned away
 Like getting out alive was to be ashamed
 
 <div class="chorus">
@@ -16,10 +21,10 @@ Like getting out alive was to be ashamed
 	Can I make more of your life without making less of mine?
 </div>
 
-Man I wonder about this world, about the things I've seen and heard
-If we're lying to ourselves about the debts that we've incurred
-And I wander through my years thinking where to go from here
-Will memory be all that is left to me
+We stood in different lines, you had yours and I had mine
+As if the color of our passports made us of two different kinds
+As if a nation could be only geography
+And edges were destined not to bleed
 
 <div class="chorus">CHORUS</div>
 
