@@ -1,15 +1,22 @@
 ---
 layout: default
 ---
-<div class="home">
-  <div class="song-title">
-    {{ page.title }}
-  </div>
-  <div class="song-date">
-    {{ page.date | date_to_string }}
-  </div>
-  <div class="lyrics">
-    {{ content }}
-  </div>
+<div class="song">
+	<ol class="breadcrumb">
+	  <li><a href="/">home</a></li>
+	  <li><a href=/{{page.categories}}>{{ page.categories }}</a></li>
+	  <li class="active">{{ page.title }}</li>
+	</ol>
+	<div class="icons btn-group pull-right" role="group">
+	    <a href="#" class="btn btn-default song-print"><span class="glyphicon glyphicon-print" aria-hidden="true"></span></a>
+	 </div>
+	<h1>
+		{{ page.title }}
+	</h1>
+	<div class="song-date">
+		{{ page.date | date_to_string }}
+	</div>
+	<div class="lyrics">
+		{{ content }}
+	</div>
 </div>
-</html>

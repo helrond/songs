@@ -2,15 +2,24 @@
 layout: default
 title: songs.hillelarnold.com &raquo; finished
 ---
-<div class="song-list"> {% for post in site.categories.finished %} 
-    <div class="song-list-title">
-      <a href="#">{{ post.title }}</a>
-    </div>
-    <div class="song-list-content">
-      <div class="date">{{ post.date | date_to_string }}</div>
-      <div class="fold"></div>
-      <div class="zoom"><a href="{{ post.url }}"><img src="/css/zoom.png"/></a></div>
+<div class="list-group">
+  {% for post in site.categories.finished %}
+    <a data-identifier={{ post.id }} href="#" class="song-list-title list-group-item">
+      <h5>{{ post.title }}
+      <small>{{ post.date | date_to_string }}</small></h5>
+    </a>
+  {% endfor %}
+</div>
+{% for post in site.categories.finished %}
+  <div data-identifier={{ post.id }} class="song-list-content col-md-8 pull-right panel panel-default">
+    <div class="panel-body">
+      <div class="icons btn-group pull-right" role="group">
+        <a href="#" class="btn btn-default list-print"><span class="glyphicon glyphicon-print" aria-hidden="true"></span></a>
+        <a href={{ post.url }} class="btn btn-default"><span class="glyphicon glyphicon-link" aria-hidden="true"></span></a>
+      </div>
+      <h2>{{ post.title }}</h2>
       <div class="content">{{ post.content }}</div>
     </div>
-   {% endfor %} 
-</div>
+  </div>
+{% endfor %}
+  

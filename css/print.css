@@ -1,96 +1,51 @@
 /*****************************************************************************/
 /*
-/* Common
-/*
-/*****************************************************************************/
-
-/* Global Reset */
-
-html, body {
-  height: 100%;
-}
-
-body {
-  background-color: white;
-  font-family: Georgia, Times New Roman, Times, serif;
-  padding-left: 5em;
-  padding-right: 5em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
-}
-
-h1 {
-}
-
-p {
-  margin: 1em 0;
-}
-
-a {
-  color: #00a;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #a00;
-}
-
-a:visited {
-  color: #00a;
-}
-
-table {
-  font-size: inherit;
-  font: 100%;
-}
-
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
-
-#home {
-	text-align: left;
-}
-
-.songs {
-	float: left;
-	width: 100%;
-}
-
-ul.songs {
-  list-style-type: none;
-}
-
-  ul.songs a {
-  	float: left;
-  }
-
-  ul.songs span {
-    color: #aaa;
-    font-family: Courier, monotype;
-	float: right;
-  }
-  .menu {
-  	display: none;
-  }
-
-/*****************************************************************************/
-/*
 /* Site
 /*
 /*****************************************************************************/
 
-  .site .title a {
+.site .title a {
     display: none;
 }
 
- .footer {
+footer {
     display: none;
-  }
+}
+
+.icons {
+  display:none;
+}
+
+.breadcrumb {
+  display:none;
+}
+
+/*****************************************************************************/
+/*
+/* Song List
+/*
+/*****************************************************************************/
+
+hr {
+  display:none;
+}
+
+.song-list-content {
+  width:100%;
+}
+
+.list-group {
+  margin-bottom: 0;
+}
+
+.panel {
+  border: none;
+  top:0 !important;
+}
+
+.panel-body {
+  padding: 15px 0;
+}
 
 /*****************************************************************************/
 /*
@@ -102,32 +57,23 @@ ul.songs {
  text-align: left;
 }
 
-iframe {
-    display:none;
-}
-
-.song-list-title.select {
-    font-size: larger;
-    display: block;
-}
-
 .date {
 	color: #666;
 	padding-bottom: .5em;
 	font-size: 85%;
 }
 
-.notes {font-style:italic;
-}
-
-.lyrics {font-family: Georgia, Times New Roman, Times, serif; 
+.notes {
+  font-style:italic;
+  padding-bottom: 10px;
 }
 
 .chorus {
 	padding-left:1em;
 }
 
-.chords {font-family: Courier, monotype;
+.chords {
+  /*font-family: Courier, monotype;*/
 	padding-top:1em;
 }
 
