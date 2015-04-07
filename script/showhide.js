@@ -1,7 +1,7 @@
 $(document).ready(function () {
-    if ($(window).width() > 768) {
-        $('.song-list-title').click(function (event) {
-            event.preventDefault();
+    $('.song-list-title').click(function (event) {
+        event.preventDefault();
+        if ($(window).width() > 768) {
             $('.song-list-content').hide();
             var id = $(this).attr('data-identifier');
             var scrolltop = $(window).scrollTop();
@@ -22,12 +22,17 @@ $(document).ready(function () {
                     $(this).show();
                 }
             });
-        });
-        $('.song-print').on('click', function(){
-            window.print();
-        });
-        $('.list-print').on('click', function(){
-            window.print();
-        });
-    }
+        } else {
+            $('.song-list-content').hide();
+            var url = $(this).attr('data-identifier')+'.html';
+            window.location.href = url
+        }
+    });
+
+    $('.song-print').on('click', function(){
+        window.print();
+    });
+    $('.list-print').on('click', function(){
+        window.print();
+    });
 });

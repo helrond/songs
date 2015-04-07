@@ -43,3 +43,15 @@
   right: 0;
   background-color:#fff;
 }
+
+@media (max-width: 768px) {
+  .icons {
+    display: none;
+  }
+  .song .chords {
+    position: relative;
+    top: 0;
+    right: 0;
+    text-align: left;
+  }
+}
