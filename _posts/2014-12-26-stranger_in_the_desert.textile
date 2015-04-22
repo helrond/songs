@@ -4,7 +4,7 @@ date: 2014-12-26
 layout: song
 categories: finished
 ---
-<div class="note">at Joshua Tree</div>
+<div class="notes">at Joshua Tree</div>
 
 Strangers in the desert where are you bound?
 Do you know he place where the lightning comes down
