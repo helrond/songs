@@ -1,0 +1,41 @@
+---
+title: Another Name
+date: 2015-04-21
+layout: song
+categories: incomplete
+---
+<div class="notes">
+	at Gadani Shipbreaking Yard
+</div>
+
+They've got you hanging on the scale, they're deciding who will pay
+For what is left of you
+And there is no place you call home, nowhere you can go
+Even if you wanted to
+
+You're washed up on the beach like a mountain to be reached
+A weary pilgrim's end
+The colors start to face while they're resting in your shade
+Watching the ocean bend
+
+<div class="chorus">
+	In time you will remember
+	Everything to which you swore
+	Another name will be added
+	To the ones that came before
+</div>
+
+You traveled the seas like some holy refugee
+Bearing a secret fire
+You went by many names, you were going places then
+You were the object of desire
+
+<div class="chords">
+	G/Em/C/D
+	G/C/D
+
+	C/D/G
+	Em/D
+	C/D/G
+	C/D/G
+</div>
