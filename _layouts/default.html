@@ -12,7 +12,7 @@
    <meta name="twitter:card" content="summary" />
    <meta name="twitter:site" content="@helrond" />
    <meta name="twitter:title" content="{{ page.title }}" />
-   <meta name="twitter:description" content="Songs by Hillel Arnold" />
+   <meta name="twitter:description" content="{{ page.content | strip_html | newline_to_br | truncate: 200}}" />
    <meta name="twitter:url" content="http://songs.hillelarnold.com{{ page.url }}" />
 
    <!-- Open Graph -->
