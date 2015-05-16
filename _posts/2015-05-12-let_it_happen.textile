@@ -6,18 +6,23 @@ categories: incomplete
 ---
 She said Karachi broke my heart
 It will happen to you
-
 But by then it was too late
+I'd been taken in too
 
 Dil Phaink
 
 <div class="chorus">
 	Let's throw it against the wall, see if it will fall
-	See just how much more it can take
+	See how much more we can take
 	Let's give it all away, pyaar honay dey
 	Just let it happen and see what it will make
 </div>
 
 <div class="chords">
+	Em/G/D/Em
 
+	Em/G/D/G/C
+	G/C/D
+	Em/G/D/G/C
+	G/C/G
 </div>
