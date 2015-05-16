@@ -19,8 +19,9 @@
    <meta property="og:title" content="{{ page.title }}" />
    <meta property="og:site_name" content="songs.hillelarnold.com"/>
    <meta property="og:url" content="http://songs.hillelarnold.com{{ page.url }}" />
+   <meta property="og:description" content="{{ page.content | strip_html | truncate: 200}}" />
    <meta property="og:type" content="website" />
-   <meta property="article:author" content="https://www.facebook.com/hillel.arnold" />
+   <meta property="website:author" content="https://www.facebook.com/hillel.arnold" />
 
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" >
