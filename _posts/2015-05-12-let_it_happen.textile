@@ -4,7 +4,7 @@ date: 2015-05-12
 layout: song
 categories: incomplete
 ---
-She said Karachi's broke my heart
+She said Karachi broke my heart
 It will happen to you
 
 But by then it was too late

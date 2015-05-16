@@ -13,11 +13,6 @@ For what is left of you
 And there is no place you call home, nowhere you can go
 Even if you wanted to
 
-You're washed up on the beach like a mountain to be reached
-A weary pilgrim's end
-They've burned out both your eyes, cut you down to size
-Nothing on which to depend
-
 <div class="chorus">
 	In time you will remember
 	Everything to which you swore
@@ -25,10 +20,22 @@ Nothing on which to depend
 	To the ones that came before
 </div>
 
+You're washed up on the beach like a mountain to be reached
+Like some weary pilgrim's end
+They've burned out both your eyes, cut you down to size
+Nothing on which you can depend
+
+<div class="chorus">
+	In time you will remember
+	Everything that came before
+	Another name will be added
+	To the ones that came before
+</div>
+
 You traveled the seas from the west to the east
-Bearing the spark to set the fire
+Bearing the fuel and the flame
 You went by many names, you were going places then
-You were an object of desire
+And now you're up for salvage and for sale
 
 <div class="chords">
 	G/Em/C/D
@@ -36,6 +43,6 @@ You were an object of desire
 
 	C/D/G
 	Em/D
-	C/D/G
+	C/D/G/Em
 	C/D/G
 </div>
