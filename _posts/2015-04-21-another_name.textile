@@ -2,7 +2,7 @@
 title: Another Name
 date: 2015-04-21
 layout: song
-categories: incomplete
+categories: finished
 ---
 <div class="notes">
 	at Gadani Shipbreaking Yard
@@ -22,20 +22,21 @@ Even if you wanted to
 
 You're washed up on the beach like a mountain to be reached
 Like some weary pilgrim's end
-They've burned out both your eyes, cut you down to size
+They've burned out both your eyes, cut you down to size until there's
 Nothing on which you can depend
 
 <div class="chorus">
-	In time you will remember
-	Everything that came before
-	Another name will be added
-	To the ones that came before
+	CHORUS
 </div>
 
 You traveled the seas from the west to the east
 Bearing the fuel and the flame
 You went by many names, you were going places then
 And now you're up for salvage and for sale
+
+<div class="chorus">
+	CHORUS
+</div>
 
 <div class="chords">
 	G/Em/C/D
