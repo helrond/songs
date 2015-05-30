@@ -35,6 +35,21 @@
    <script type="text/javascript" src="/script/showhide.js"></script>
    <script type="text/javascript" src="/script/github-commits-widget.js"></script>
    <script type="text/javascript" src="/script/bootstrap.min.js"></script>
+   <script src="http://listjs.com/no-cdn/list.js"></script>
+   <script type="text/javascript">
+   $(document).ready(function () {
+     var options = {
+       valueNames: [ 'title' ]
+     };
+
+     var songList = new List('song-list', options);
+
+    $('#clear-search').click(function() {
+      $('#query').val('');
+      songList.search();
+    });
+   });
+   </script>
 
    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
    <!--[if lt IE 9]>

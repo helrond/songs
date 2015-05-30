@@ -2,10 +2,21 @@
 layout: default
 title: songs.hillelarnold.com &raquo; finished
 ---
-<div class="list-group">
+<div id="song-list">
+  <div class="well col-md-4">
+    <form class="form-inline text-center">
+      <div class="form-group">
+        <input id="query" size="40" class="form-control search" placeholder="Search" />
+        <button id="clear-search" type="reset" class="btn btn-danger"><i class="glyphicon glyphicon-remove"></i></button>
+      </div>
+    </form>
+  </div>
+  <div class="row">&nbsp;</div>
+
+<div class="list list-group">
   {% for post in site.categories.finished %}
     <a data-identifier={{ post.id }} href="#" class="song-list-title list-group-item">
-      <h5>{{ post.title }}
+      <h5 class="title">{{ post.title }}
       <small>{{ post.date | date_to_string }}</small></h5>
     </a>
   {% endfor %}
@@ -22,4 +33,4 @@ title: songs.hillelarnold.com &raquo; finished
     </div>
   </div>
 {% endfor %}
-  
+</div>
