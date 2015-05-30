@@ -18,7 +18,7 @@ $(document).ready(function () {
                         $(this).css('top', scrolltop+5)
                         $(this).css('min-height', height);
                     }
-                    
+
                     $(this).show();
                 }
             });
@@ -34,5 +34,8 @@ $(document).ready(function () {
     });
     $('.list-print').on('click', function(){
         window.print();
+    });
+    $('.list-close').on('click', function(){
+        $('.song-list-content').hide();
     });
 });
