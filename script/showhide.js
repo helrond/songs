@@ -29,11 +29,14 @@ $(document).ready(function () {
         }
     });
 
-    $('.song-print').on('click', function(){
+    $('.song-print').on('click', function(e){
+      e.preventDefault
         window.print();
     });
-    $('.list-print').on('click', function(){
+    $('.list-print').on('click', function(e){
+      e.preventDefault
         window.print();
+        window.onfocus=function(){ $('.song-list-content').hide();}
     });
     $('.list-close').on('click', function(){
         $('.song-list-content').hide();
