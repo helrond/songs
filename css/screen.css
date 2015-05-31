@@ -4,6 +4,10 @@
 /*
 /*****************************************************************************/
 
+#clear-search {
+  cursor: pointer;
+}
+
 .notes {
   font-style:italic;
   padding-bottom: 10px;
