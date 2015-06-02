@@ -5,7 +5,12 @@
 /*****************************************************************************/
 
 #clear-search {
+  color: #666;
   cursor: pointer;
+  position: absolute;
+  top: 2em;
+  right: 6em;
+  display: none;
 }
 
 .notes {

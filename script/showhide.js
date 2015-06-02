@@ -41,4 +41,13 @@ $(document).ready(function () {
     $('.list-close').on('click', function(){
         $('.song-list-content').hide();
     });
+
+
+    $('#query').on('keyup', function(){
+      if($('#query').val().length) {
+        $('#clear-search').show();
+      } else {
+        $('#clear-search').hide();
+      }
+    });
 });

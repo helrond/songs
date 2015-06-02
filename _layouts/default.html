@@ -44,10 +44,12 @@
 
      var songList = new List('song-list', options);
 
-    $('#clear-search').click(function() {
-      $('#query').val('');
-      songList.search();
-    });
+     $('#clear-search').click(function() {
+       $('#query').val('');
+       songList.search();
+       $('#clear-search').hide();
+     });
+
    });
    </script>
 
