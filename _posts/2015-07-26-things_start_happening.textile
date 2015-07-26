@@ -1,0 +1,42 @@
+---
+title: Things Start Happening
+date: 2015-07-26
+layout: song
+categories: incomplete
+---
+
+<div class="notes">
+	Inspired by http://dp.la/item/febadeab32df38308ab67e4486eade2f
+</div>
+
+It was a picture of a picture on a screen
+Of something that might have been
+A print from a foot from an ape
+An enigma, a legend, a fake
+
+<div class="chorus">
+	What did you see, what did you see
+	When did things start happening
+	What did you see, could it be
+	You were just imagining
+</div>
+
+To some it was as solid as a wall
+And to others it was nothing at all
+But a rope or a fan were only clues
+The elephant was not amused
+
+Some people see legitimate force
+And others a betrayal of the law
+The bullet, the badge and the gun
+Or the kid who wanted to run
+
+<div class="chords">
+	C/F/G
+
+	C/G/C
+	F/C
+
+	C/Am/G
+	F/G/C
+</div>
