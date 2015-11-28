@@ -2,7 +2,7 @@
 title: The Distance
 date: 2014-12-16
 layout: song
-categories: incomplete
+categories: finished
 ---
 It was the summer of dreams, they were dancing in the field
 And thinking that the future was full of possibilities
@@ -23,14 +23,17 @@ Like getting out alive was to be ashamed
 
 We stood in different lines, you had yours and I had mine
 As if the color of our passports made us of two different kinds
-As if a nation could be only geography
-And edges were destined not to bleed
+And I was led right through the door, like a million times before
+Wondering if you were less or I had more
 
 <div class="chorus">CHORUS</div>
 
-<div class="chorus">May the thread and the needle hold
-May the light remain illuminated
-May the caravan go on</div>
+Man I wonder about this world, about the things we've seen and heard
+If we're lying to ourselves about the debts that we've incurred
+And if a nation can be only geography
+If edges were not destined to bleed
+
+<div class="chorus">CHORUS</div>
 
 <div class="chords">E/A/E
 E/B
@@ -40,8 +43,4 @@ E/B/E
 A/E
 E/B
 E/A
-A/E/B/E
-
-C#m
-A/B
-B/G#m/A/B</div>
+A/E/B/E</div>
