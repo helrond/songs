@@ -33,6 +33,10 @@ Me I'm old
 And I'm showing my years
 My heart is angry and distracted; a buzzing sack of bees
 
+<div>
+  <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/44154966&amp;color=222222&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+</div>
+
 <div class="chords">
 F
 Bb/F
@@ -46,5 +50,3 @@ Bb
 F
 Bb/C
 F</div>
-
-<!--<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44154966&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=false"></iframe>-->
