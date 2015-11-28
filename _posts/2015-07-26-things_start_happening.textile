@@ -2,7 +2,7 @@
 title: Things Start Happening
 date: 2015-07-26
 layout: song
-categories: incomplete
+categories: finished
 ---
 
 <div class="notes">
@@ -24,7 +24,7 @@ An enigma, a legend, a fake
 To some it was as solid as a wall
 And to others it was nothing at all
 A rope or a fan were only clues
-Meanwhile the elephant was not amused
+But the elephant was not amused
 
 Some people see legitimate force
 And others a betrayal of the law
