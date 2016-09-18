@@ -16,7 +16,7 @@ They crawled off alone
 
 <div class="chorus">None could outsmart or claim her heart
 Or follow the way she goes
-None is as tender, none is as fierce 
+None is as tender, none is as fierce
 As my Birmingham Rose</div>
 
 Grew corn and beans and babies
@@ -41,10 +41,10 @@ And rain falls from the sky
 <div class="chorus">CHORUS</div>
 <div class="chords">G/C
 G/D
-G/D7/G/C
+C/D7/G/C
 G/D/G
 
 G/C/G/C
 G/D/D7
-G/D7/Em/C
+C/D7/G/Em
 C/D/G</div>

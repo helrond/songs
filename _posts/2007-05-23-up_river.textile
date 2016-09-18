@@ -4,14 +4,14 @@ date: 2007-05-23
 layout: song
 categories: finished
 ---
-I'm drifting further south every day
+I'm drifting further south every day, I'll be
 Past Baton Rouge soon
 Somewhere out across the water lies
 A stairway to the moon
 
 I have been sailing over troubled waters
 Too deep for an anchor to hold
-I go where the trade winds want to blow
+I go where the trade winds want me to go
 Tomorrow I will be in Mexico
 
 <div class="chorus">I'm going up the river

@@ -4,6 +4,8 @@ date: 2007-08-20
 layout: song
 categories: finished
 ---
+<div class="notes">with Alvin Arnold</div>
+
 It's the way the river talks to me at sunrise
 It's the faith I have when I am all alone
 It's the knowledge that everywhere is nowhere
@@ -36,9 +38,9 @@ It's the way the river talks to me at sunrise
 It's the faith I have when I am all alone
 It's the knowledge that everywhere is nowhere
 And I must be going home
-<div class="chords">G/C/Am/D 
-Em/Am/C/D 
-G/C/Am/D 
+<div class="chords">G/C/Am/D
+Em/Am/C/D
+G/C/Am/D
 G/C/D/G
 
 Em/D</div>

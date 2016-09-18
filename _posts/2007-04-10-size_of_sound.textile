@@ -41,7 +41,7 @@ I can hear him singing now; I believe he's still singing
 <div class="chords">C/Am/F/C
 C/Am/F/G
 Am/F/C/Am
-F/G
+G
 
 Am/F/C/F
 Am/F/C/G

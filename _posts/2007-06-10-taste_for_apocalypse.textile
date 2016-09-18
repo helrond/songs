@@ -41,11 +41,13 @@ I could be the Bonnie to your Clyde
 Oh my Lord, what can I do?
 
 <div class="chorus">CHORUS</div>
-<div class="chords">------- -------
-------- -------
-------- A/C#m ------- A/E
-------- -------
-------- -------
--0-4-5- -0-4-5-
+<div class="chords">
+-------         -------
+-------         -------
+------- A/C#m   ------- A/E
+-------         -------
+-------         -------
+-0-4-5-         -0-4-5-
 
+E/A
 E/B</div>
