@@ -1,0 +1,10 @@
+---
+title: No Need to Cry
+date: 2012-04-23
+layout: song
+categories: incomplete
+---
+Now there's no need to cry  
+Every generation leaves something behind  
+There's no need to cry  
+Every generation has to learn to say goodbye

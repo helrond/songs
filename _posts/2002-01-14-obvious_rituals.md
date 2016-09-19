@@ -1,0 +1,54 @@
+---
+title: Obvious Rituals
+date: 2002-01-14
+layout: song
+categories: finished
+---
+These walls are screaming out things about you and your honesty  
+I watched as you pulled your mother down said babe I got what you need  
+The alien who flew in on a red-eye from Portland is drinking up all of your gin  
+Your disciples say they want wine from water but you have been living in sin
+
+They lied when they told you there's 12 steps to heaven and I will be meeting you there  
+They lied and they said you could stop when you wanted but I know you haven't a prayer  
+The bastards they said there was money in dreams and it was yours to be had  
+But you took the bait, hook, line and sinker and now you can't go back
+
+<div class="chorus">It's not like it was before  
+It's not like heaven at all  
+It's not like it was before  
+It's not like heaven will fall</div>
+
+I've heard that your condition advanced and you cannot be saved  
+I got nothing but reasonable suspicion of those who say they're for you babe  
+If you want to sing with the angels you can't sin with the beasts  
+Believe but take full precaution that your faith decrease
+
+<div class="chorus">CHORUS</div>
+
+<div class="chorus">And one man's desert is another man's well  
+One man's heaven is another man's hell</div>
+
+I heard you at my back door last night begging for a hit  
+If you're looking for America I think this isn't it  
+And this isn't London or Paris France and this isn't Kalamazoo  
+It's not what you wanted it's not what you need but you're going to have to make do
+
+<div class="chorus">CHORUS
+
+Blood is thicker than water oil is thicker than blood  
+Clouds turn into rain rain turns dirt to mud</div>
+
+You sit like a board in the corner with nothing to say  
+You act like you can't hear me talk but your lips are turning gray  
+Honey I know your plans to conquer the universe  
+You're smoking hashish with the Shah of Iran and fighting unquenchable thirst  
+You can swim in the sea, fly to the sun, run with the wind  
+But you're about to hit rock bottom and you won't bounce my friend
+
+<div class="chorus">CHORUS</div>
+
+<div class="chords">
+VERSE: Dm/Am/E/Am  
+CHORUS: C/Am/F/G  
+BRIDGE: Am/G/F/E</div>

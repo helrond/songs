@@ -1,0 +1,46 @@
+---
+title: Cat Mousam
+date: 2000-01-28
+layout: song
+categories: finished
+---
+You can walk across this country  
+You can walk around the world  
+You can walk until you can't feel your feet  
+You can walk to the world's end  
+You can walk back home and  
+But you can't walk half a day with me
+
+<div class="chorus">And you'll never get to these convictions  
+Don't even try  
+Disprove these predictions  
+Or are you just going to die</div>
+
+You can call me a criminal  
+Before I even get tried  
+Call me a menace to society  
+You can find me guilty  
+In a matter of minutes  
+You can lock me up and throw away the key
+
+<div class="chorus">CHORUS</div>
+
+My kids call me daddy  
+And my wife calls me dear  
+And to God I'm just another son  
+But you gave me a number  
+And you locked me in a cage  
+You don't even look like you're having fun
+
+<div class="chorus">CHORUS</div>
+
+<div class="chords">
+VERSE:
+-5-5-5-------  
+-5-5-5-------  
+-5-5-5-------  
+-7-5-7-------  
+-7-5-7-------  
+-5-5-5-0h3p0-  
+
+CHORUS: C / G / D / Am </div>

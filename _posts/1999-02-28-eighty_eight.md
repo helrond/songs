@@ -1,0 +1,20 @@
+---
+title: Eighty Eight
+date: 1999-02-28
+layout: song
+categories: finished
+---
+O Lord, I call for help by day  
+I cry out in the night before you  
+Let my prayer come before you  
+Incline your ear to my cry
+
+<div class="chorus">What do you want from me</div>
+
+But I, I cry to you  
+In the morning my prayer comes to you  
+Why do you hide from me  
+Leave me to drown in the terror of the night
+
+<div class="chorus">What do you want from me</div>
+<div class="chords">G/D/C/D</div>

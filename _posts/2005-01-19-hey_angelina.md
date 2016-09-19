@@ -1,0 +1,37 @@
+---
+title: Hey Angelina
+date: 2005-01-19
+layout: song
+categories: finished
+---
+Angelina says to me  
+There's nothing left to do  
+And so she pours the coffee out  
+And cries the whole day through
+
+Angelina says to me  
+There's nothing left to say  
+And so she lies about her age  
+And sleeps the livelong day
+
+<div class="chorus">If the sky should fill with fire hey Angelina don't you cry  
+The tide run out the stakes run high hey Angelina don't you cry  
+The gilded cross the bloody eye hey Angelina don't you cry  
+The time has come to choose your side hey Angelina don't you cry</div>
+
+Angelina says that she's  
+Been driven from her home  
+And no one listens anymore  
+To that old jawbone
+
+Angelina says that she  
+Has seen this all before  
+And there's no need for her to try  
+To get up off the floor
+
+<div class="chorus">CHORUS</div>
+
+<div class="chords">
+A/D/A/D/A/D/E/A  
+
+A/A/D/A/E/E/C#m/A</div>

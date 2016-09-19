@@ -1,0 +1,37 @@
+---
+title: See What Akron Done
+date: 2007-06-19
+layout: song
+categories: finished
+---
+
+I've been up and I've been down  
+And I've blown through every town  
+Now I'm crawling on my knees  
+See what Akron done to me
+
+I've been into every place  
+And made all kinds of mistakes  
+All the cops, the guns, the beers  
+See what Akron done to me
+
+I've known trouble, I've known pain  
+And I've known the worst of ways  
+How broke and cold a man can be  
+See what Akron done to me
+
+Now I've burned up every cent  
+All my dreams are gone and spent  
+In the rain at half past three  
+See what Akron done to me
+
+My good friends, look at me  
+Lying broken on this street  
+All the rubber, all the steel  
+See what Akron done to me
+
+<div class="chords">
+G/C/G  
+C/G  
+G/C/G  
+D/G</div>

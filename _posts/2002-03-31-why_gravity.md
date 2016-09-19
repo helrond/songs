@@ -1,0 +1,42 @@
+---
+title: Why Gravity
+date: 2002-03-31
+layout: song
+categories: finished
+---
+Because the moon can pull the ocean up on the sand  
+Because I'd bleed for you while I still can  
+Because I'm a fool for chemistry  
+Because of you that's why gravity
+
+<div class="chorus">I know there are few heavenly bodies left  
+And apples on the tree  
+I'd settle for an asteroid  
+Or gravity</div>
+
+Because trees grow up and rain falls down  
+Because I knew I was falling before I hit the ground  
+Because a river always runs to the sea  
+Because of you that's why gravity
+
+<div class="chorus">CHORUS</div>
+
+Because inertia will always work against grace  
+Because the only place without is outer space  
+Because opposites attract but never agree  
+Because of you that's why gravity
+
+<div class="chorus">CHORUS</div>
+
+Because the world is in orbit and I am too  
+Because it is proven, tried and true  
+Because you can fight but can't claim victory  
+Because of you that's why gravity
+
+<div class="chorus">CHORUS</div>
+
+<div class="chords">
+C/G/Am/G  
+
+F/G/C/Am  
+F/G/C</div>

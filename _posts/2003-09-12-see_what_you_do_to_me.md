@@ -1,0 +1,38 @@
+---
+title: See What You Do to Me
+date: 2003-09-12
+layout: song
+categories: finished
+---
+You got me crawling on the floor you got me begging for more  
+See what you do to me  
+You got me about to lose my mind you got me dying all the time  
+See what you do to me  
+And when I say that I want to be your man  
+I'm running naked through the town  
+See what you do to me
+
+You got me singing in the rain you got me shouting out your name  
+See what you do to me  
+You got me praying in the dark you got me naked in the park  
+See what you do to me  
+I when I say that I have no more to lose  
+I mean that I have to be with you  
+See what you do to me
+
+You got me falling on my knees you got me begging please  
+See what you do to me  
+You got me feeling like a king you got me wanting it again  
+See what you do to me  
+And when I say that I'll give you all I can  
+I'll throw my life like water onto sand  
+See what you do to me
+
+<div class="chords">
+G/D/Em/C  
+G/D/C/G  
+G/D/Em/C  
+G/D/C/G  
+C/G/D  
+C/G/D  
+G/D/C/G</div>

@@ -1,0 +1,17 @@
+---
+title: Let's Do this All Over Again
+date: 2005-01-01
+layout: song
+categories: incomplete
+---
+Let's do this all over again  
+I'll say you are my lover  
+You'll say you are my friend  
+
+Let's do this all over again  
+You will tell me stories  
+I will tell you lies  
+
+Let's do this all over again  
+You will cry and I  
+I will apologize  

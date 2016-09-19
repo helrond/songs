@@ -1,0 +1,24 @@
+---
+title: In Our Time
+date: 2003-02-18
+layout: song
+categories: finished
+---
+I don't know if I should laugh or scream in our time, in our time  
+Hold my position or hide my trail in the stream in our time, in our time  
+To howl at the moon or bury my head in the sand in our time, in our time  
+If it's a joke or a nightmare, hypnosis or a spell, these times are slipping through my hands
+
+Hidden screaming horses and cowering men in our time, in our time  
+I've seen you out there on the highway trading flesh and sin in our time, in our time  
+I have prayed to God Almighty that justice would be done in our time, in our time  
+Blocked up my ears and eyes, mouth, mind and nose, these times are almost gone
+
+There are tears in my eyes from the smoke blown in my face in our time, in our time  
+My conscience hangs in tatters my allegiance in disgrace in our time, in our time  
+The battle cries ring hollow though I have the will to fight in our time, in our time  
+I've seen a wheel in a wheel, I've seen the Valley of Dry Bones but these are times I can't tell wrong from right
+
+<div class="chords">
+Capo II  
+G/D/Em/D/G</div>

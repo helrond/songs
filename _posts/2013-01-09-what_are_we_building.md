@@ -1,0 +1,32 @@
+---
+title: What Are We Building
+date: 2013-01-09
+layout: song
+categories: finished
+---
+There were people in the past who thought about their children's children  
+Planted flowers in the desert and called that heaven  
+They let the details gather with the passage of time  
+Laid down their memories and rested their minds
+
+<div class="chorus">What are we building with the earth and the sky  
+Who will prosper, how will the prophets die  
+What is polished, what is worn  
+What are we building, who are we building for</div>
+
+There's a tree that comes to mind each time I think about forgetting  
+How it stood beside those graves with only silence as a blessing  
+And concrete stains and tangled vines, the light coming down  
+Remind me of things I thought were not to be found
+
+Now I'm learning where to lean and how to amplify the motion  
+For time shapes every space and grains of sand hold up the ocean  
+The things that we have built will go on living until they die  
+Our lives are made of moments, only moments are our lives
+
+<div class="chords">Am/C/Dm/G  
+
+F/C/G  
+F/C/G  
+F/C/Dm  
+F/G/Am</div>

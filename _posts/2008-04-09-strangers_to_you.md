@@ -1,0 +1,43 @@
+---
+title: Strangers to You
+date: 2008-04-09
+layout: song
+categories: finished
+---
+You were drifting, you were blown  
+You were out there on your own  
+Riding lonely through the dust  
+Red rock canyons, wind and rust
+
+You were lost in those stories told  
+Purple sage and desert gold  
+In the lamplight your heroes shone  
+Past midnight they went on and on
+
+<div class="chorus">Without fear without pride making honor your guide  
+You rode off to that long sunrise  
+Everybody that came they called you by name  
+None were strangers, strangers to you</div>
+
+You were justice served complete  
+Judge and jury, rope and steel  
+Always cautious with your trust  
+Shooting only when you must
+
+<div class="chorus">CHORUS</div>
+
+Knew the thirst and felt the freeze  
+And you struggled just to breathe  
+First man in and the last one out  
+None could fit into your coat
+
+<div class="chorus">CHORUS</div>
+<div class="chords">F/C/F/C  
+F/C/G/Am  
+F/C/F/C  
+F/C/G/C  
+
+Am/G/Am/G  
+Am/G/F  
+Am/G/Am/G  
+Am/G/C</div>

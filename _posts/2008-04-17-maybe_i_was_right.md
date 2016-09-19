@@ -1,0 +1,42 @@
+---
+title: Maybe I Was Right
+date: 2008-04-17
+layout: song
+categories: incomplete
+---
+Maybe I was right where I was right then  
+But in two years I'll be gone  
+And maybe all the places I've been to  
+Only served to bring me here
+
+<div class="chorus">Maybe I was right  
+Maybe I was right  
+Maybe I was right  
+I was wrong</div>
+
+Maybe all the things that I have lost  
+Make room for the new  
+Maybe all the people I forgot  
+I was not meant to know
+
+<div class="chorus">CHORUS</div>
+
+Maybe the ideals that I have lost  
+Were the ones I don't believe  
+Maybe all the anger that is gone  
+Was not sincerely felt
+
+Maybe all the things that I regret
+
+Not the waiting, but the preparedness
+
+Confidence/assurity that I have lost
+
+Remember something else
+
+Mistakes I knew better than to make
+
+<div class="chords">C/Am  
+F/Dm  
+
+C/Am/C/G</div>

@@ -1,0 +1,57 @@
+---
+title: Taste for Apocalypse
+date: 2007-06-10
+layout: song
+categories: finished
+---
+From the shake shake shimmy of your hips  
+I could tell you had a taste for the apocalypse  
+And oh my Lord, what could I do?  
+Got a hot old time, got a fancy freeze  
+A muscleheaded mama down in New Orleans  
+And oh my Lord, what could I do?  
+
+<div class="chorus">Home and all I wanted  
+Home and all I wanted  
+Home and all I wanted here</div>
+
+In the crackling wind the heavy blows  
+The thunder and the lightning and the falling snow  
+Oh my Lord, I am through!  
+Don't hold on to that ace too long  
+When the weatherman's got the odds all wrong  
+Oh my Lord, I am through!
+
+<div class="chorus">CHORUS</div>
+
+Your golden voice and your smoky eyes  
+The calming smog and sunny skies  
+Oh my Lord, those words came true!  
+From your iron mouth and your spinning wheels  
+And all the shame that you just don't feel  
+Oh my Lord, those words came true!  
+
+<div class="chorus">CHORUS</div>
+
+I could learn the secrets of your soul  
+If you take me as your Barbie doll  
+Oh my Lord, what can I do?  
+We could stretch it out and let it ride  
+I could be the Bonnie to your Clyde  
+Oh my Lord, what can I do?
+
+<div class="chorus">CHORUS</div>
+
+<div class="chords">
+-------         -------  
+-------         -------  
+------- A/C#m   ------- A/E  
+-------         -------  
+-------         -------  
+-0-4-5-         -0-4-5-  
+
+E/A/C#m  
+E/A/E  
+
+E/A  
+E/B</div>
