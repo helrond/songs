@@ -13,19 +13,20 @@ Of a boy searching for peace and love
 He left his home  
 His mother but his home did not leave him
 
-<div class="chorus">Throw out peaceloveharmony  
-And eveyone's equality  
-Shinyhappypeaceful feeling  
-All the rainbow colors reeling  
-Push through the haze of rights and hippyites  
-The potsmokingvegan needs a light  
-Stagger down the stairs to the wall  
-Where you see it scrawled
-
-I just want to be happy  
-I just want to be free  
-I just want to be happy  
-I just want to be me</div>
+<div class="chorus">Throw out peaceloveharmony<br/>
+  And everyone's equality<br/>
+  Shinyhappypeaceful feeling<br/>
+  All the rainbow colors reeling<br/>
+  Push through the haze of rights and hippyites<br/>
+  The potsmokingvegan needs a light<br/>
+  Stagger down the stairs to the wall<br/>
+  Where you see it scrawled<br/>
+  <br/>
+  I just want to be happy<br/>
+  I just want to be free<br/>
+  I just want to be happy<br/>
+  I just want to be me
+</div>
 
 He traveled far  
 He traveled further than the farthest star  
@@ -38,9 +39,10 @@ But stop to wonder if all this was what he meant
 
 <div class="chorus">CHORUS</div>
 <div class="chords">
-Am/Em/F  
-Am/C/F/G  
-
-Am/Em/F/G  
-
-C/G/F/G</div>
+  Am/Em/F<br/>
+  Am/C/F/G<br/>
+  <br/>
+  Am/Em/F/G<br/>
+  <br/>
+  C/G/F/G
+</div>

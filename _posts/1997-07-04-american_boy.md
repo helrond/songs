@@ -14,9 +14,9 @@ Played by the rules, never said no.
 Never mind what he did, he obeyed orders  
 Good American boy.
 
-<div class="chorus">American boy comes home to America,  
-War does something to everyone.  
-American boy loves his America,  
+<div class="chorus">American boy comes home to America,<br/>
+War does something to everyone.<br/>
+American boy loves his America,<br/>
 Oh little boy, where have you gone?</div>
 
 April 15, nineteen hundred and ninety five  
@@ -39,5 +39,5 @@ Ax man, governmental toy
 Good American boy
 
 <div class="chorus">CHORUS</div>
-<div class="chords">Verse: G/Em/Am/D  
+<div class="chords">Verse: G/Em/Am/D<br/>
 Chorus: G/D/Am/C/D</div>

@@ -22,10 +22,11 @@ It's a hard night when you've lost your sight
 It's a hard time losing it slow as you can
 
 <div class="chords">
- E F# B A B7  
-e-0-0--0-0-0-  
-B-0-0--0-2-0-  
-G-1-3--4-2-2-  
-D-2-4--4-2-1-  
-A-2-4--4-0-2-  
-E-0-0--0-0-0-</div>
+   E F# B A B7  <br/>
+  e-0-0--0-0-0-<br/>
+  B-0-0--0-2-0-<br/>
+  G-1-3--4-2-2-<br/>
+  D-2-4--4-2-1-<br/>
+  A-2-4--4-0-2-<br/>
+  E-0-0--0-0-0-
+</div>

@@ -14,10 +14,12 @@ One chance is all you get, at least that's what they say
 More than throwing it away  
 You'll never need it in the place you're going to stay
 
-<div class="chorus">And out of here he'll fly  
-Out of the weight of darkness fallen from his mind  
-And out of here he'll fly  
-Upward past the little hells he has left behind</div>
+<div class="chorus">
+  And out of here he'll fly<br/>
+  Out of the weight of darkness fallen from his mind<br/>
+  And out of here he'll fly<br/>
+  Upward past the little hells he has left behind
+</div>
 
 Onwards, upwards pushing in  
 All the lives that haunt him still won't let him in  
@@ -34,8 +36,9 @@ Will lean to rest and hear the sweet sound below
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-Em / Cadd9 / Dsus2  
-Em / Cadd9 / Bdim7  
-
-Em / G / Cadd9  
-Em / G / D</div>
+  Em / Cadd9 / Dsus2<br/>
+  Em / Cadd9 / Bdim7<br/>
+  <br/>
+  Em / G / Cadd9<br/>
+  Em / G / D
+</div>

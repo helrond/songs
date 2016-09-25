@@ -19,9 +19,11 @@ The father, the man, or the heavy hand
 I want to know just what it is that's talking  
 Your ego, your past, or your fear of being last
 
-<div class="chorus">What are you saying  
-Who are you playing  
-What are you blaming on me</div>
+<div class="chorus">
+  What are you saying<br/>
+  Who are you playing<br/>
+  What are you blaming on me
+</div>
 
 I want you to slow down, I want to go down  
 I have to get past these routines  

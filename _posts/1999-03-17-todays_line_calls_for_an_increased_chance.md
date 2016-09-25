@@ -9,14 +9,16 @@ clouded sun, popular indifference
 a shot of blood and a pint of hate
 sharks rising to the scent of the bait
 
-<div class="chorus">give me half a chance
-to gain my omnipotence
-give yourself a chance
-to be more than indifferent
-peace is taken out to die
-hope is falling from the sky
-joy is lost in the river's fall
-as justice takes the final call</div>
+<div class="chorus">
+  give me half a chance<br/>
+  to gain my omnipotence<br/>
+  give yourself a chance<br/>
+  to be more than indifferent<br/>
+  peace is taken out to die<br/>
+  hope is falling from the sky<br/>
+  joy is lost in the river's fall<br/>
+  as justice takes the final call
+</div>
 
 when did love become hate's favorite game
 and peace a way of staying sane

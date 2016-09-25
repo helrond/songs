@@ -14,10 +14,12 @@ Instead of him you sent a killer
 I can remember I'm still dreaming of   
 He said forgive me it was love
 
-<div class="chorus">Night is screaming and the screams become the stars  
-That shine down upon our bloodied scars  
-Night is screaming through a darkened glass  
-Holding up back against our past</div>
+<div class="chorus">
+  Night is screaming and the screams become the stars<br/>
+  That shine down upon our bloodied scars<br/>
+  Night is screaming through a darkened glass<br/>
+  Holding up back against our past
+</div>
 
 There are no Christians in this Christian land  
 There are no wounds on these Christian hands  

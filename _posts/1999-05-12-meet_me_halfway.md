@@ -17,10 +17,12 @@ Could you tell me it's worth what's past
 Is there another way to show what it's like to die so slow  
 Is there another way to see this price of being free
 
-<div class="chorus">Meet me halfway to Baghdad  
-Meet me halfway where the ocean meets the sky  
-Meet me halfway to Baghdad  
-Meet me halfway to the tears I have to cry</div>
+<div class="chorus">
+  Meet me halfway to Baghdad<br/>
+  Meet me halfway where the ocean meets the sky<br/>
+  Meet me halfway to Baghdad<br/>
+  Meet me halfway to the tears I have to cry
+</div>
 
 Where  
 Were you when heaven rained fire  
@@ -42,10 +44,11 @@ Your churches have no windows, but our gravestones don't lie
 
 <div class="chorus">CHORUS</div>
 
-<div class="chords">G D G D C   
-e-----5h7------5h7------5h7-----------  
-B-------------------------------------  
-G-0-----------------0----------------- CHORUS: G / D / Em / D  
-D---0------4----------0------4---2----  
-A------------5-----------------5---3--  
-E-------------------------------------</div>
+<div class="chords">G D G D C<br/>
+  e-----5h7------5h7------5h7-----------<br/>
+  B-------------------------------------<br/>
+  G-0-----------------0----------------- CHORUS: G / D / Em / D<br/>
+  D---0------4----------0------4---2----<br/>
+  A------------5-----------------5---3--<br/>
+  E-------------------------------------
+</div>

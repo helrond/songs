@@ -15,8 +15,10 @@ If I am only for myself,
 If not now,  
  When?  
 
-<div class="chords">C/Am/Em/F  
-
-F/G/F/G/F/G/A  
-
-F/E/F/G</div>
+<div class="chords">
+  C/Am/Em/F<br/>
+  <br/>
+  F/G/F/G/F/G/A<br/>
+  <br/>
+  F/E/F/G
+</div>

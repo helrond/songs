@@ -24,11 +24,13 @@ it's because we had to keep up with someone else
 it's because we need inventory  
 this is our final love song for the earth
 
-<div class="chorus">BRIDGE:  
-this ain't no hippie thing  
-love your mother, hug a tree  
-if there's nothing to wake up to tomorrow  
-it's gonna be a hell of a long sleep</div>
+<div class="chorus">
+  BRIDGE:<br/>
+  this ain't no hippie thing<br/>
+  love your mother, hug a tree<br/>
+  if there's nothing to wake up to tomorrow<br/>
+  it's gonna be a hell of a long sleep
+</div>
 
 it's because we loved our children  
 it's because we had to keep up with someone else  
@@ -36,18 +38,19 @@ it's because we need inventory
 this is our final love song for the earth
 
 <div class="chords">
-VERSE:  
-e--2-3-3-0-2-  
-B--3-3-3-2-3-  
-G--2-2-0-2-2-  
-D--0-0-0-2-0-  
-A--x-x-2-0-x-  
-E--x-x-3-0-x-  
-
-BRIDGE: Drop D tuning  
-e------2------0------2------------  
-B------3------3------3------------  
-G------2------0------2------------  
-D---------------------------------  
-A---------------------------------  
-D--0-0----2-2----0-0----5-7-5-4p2-</div>
+VERSE:<br/>
+e--2-3-3-0-2-<br/>
+B--3-3-3-2-3-<br/>
+G--2-2-0-2-2-<br/>
+D--0-0-0-2-0-<br/>
+A--x-x-2-0-x-<br/>
+E--x-x-3-0-x-<br/>
+<br/>
+BRIDGE: Drop D tuning<br/>
+e------2------0------2------------<br/>
+B------3------3------3------------<br/>
+G------2------0------2------------<br/>
+D---------------------------------<br/>
+A---------------------------------<br/>
+D--0-0----2-2----0-0----5-7-5-4p2-
+</div>
