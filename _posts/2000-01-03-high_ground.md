@@ -14,10 +14,10 @@ Was it speaking softly and carrying a big stick
 Was it saving the Germans from Hitler  
 Was it rescuing the world from the communist's grip
 
-<div class="chorus">When did we get the high ground  
+<span class="chorus">When did we get the high ground  
 Does the world need a savior from itself  
 When did we get the high ground  
-Who will save us from ourselves</div>
+Who will save us from ourselves</span>
 
 Did it belong to England  
 Did they once put on these airs  
