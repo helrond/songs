@@ -10,6 +10,7 @@ Two bees buzz around my head and remind
 Me of meadows and grasses and flowers
 
 <div class="chorus">Walk bare-foot in the grass and think of me  
+
 Feel the breeze in your hair  
 Gaze at the deep blue sky and think of me  
 I will be there</div>
