@@ -11,20 +11,24 @@ I think I know what he meant
 Rumi begged for signs, for stars and wine  
 I think I've been where he went
 
-<div class="chorus">Are you feeling the way I'm feeling now  
-Are you seeing the things I'm seeing now</div>
+<div class="chorus">
+  Are you feeling the way I'm feeling now<br/>
+  Are you seeing the things I'm seeing now
+</div>
 
 Ishmael swam and watched it all go down  
 I've seen it happen too  
 Shadrach danced and prayed in the smoke and flames  
 I've walked miles in those shoes
 
-<div class="chorus">CHORUS
-
-Oh my love what kind of storm  
-Has washed me up on this shore  
-Alone and afraid I conquered the waves  
-And I've come straight to your door</div>
+<div class="chorus">
+  CHORUS<br/>
+  <br/>
+  Oh my love what kind of storm<br/>
+  Has washed me up on this shore<br/>
+  Alone and afraid I conquered the waves<br/>
+  And I've come straight to your door
+</div>
 
 The Prophet heard and then he spoke that word  
 And I've read every one  
@@ -33,16 +37,18 @@ I've been burned by that sun
 
 <div class="chorus">CHORUS</div>
 
-<div class="chords">E/A  
-A/B  
-E/A  
-A/B  
-
-A/B/E  
-A/B/E  
-A/B/E  
-
-A/B/E  
-C#m/F#/B  
-E/A/E/A  
-E/B/E</div>
+<div class="chords">
+  E/A<br/>
+  A/B<br/>
+  E/A<br/>
+  A/B<br/>
+  <br/>
+  A/B/E<br/>
+  A/B/E<br/>
+  A/B/E<br/>
+  <br/>
+  A/B/E<br/>
+  C#m/F#/B<br/>
+  E/A/E/A<br/>
+  E/B/E
+</div>

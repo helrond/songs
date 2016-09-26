@@ -9,12 +9,14 @@ Flip it upside down and backwards, sync it up and make it rhyme
 But no matter how you sell it or which way you make it spin  
 You'll be going out the same way you came in
 
-<div class="chorus">There's no mistaking the direction  
-The heading or the speed  
-The weight of what is gone or what's to be  
-It doesn't take a magician  
-Or a prophet to see  
-The national velocity</div>
+<div class="chorus">
+  There's no mistaking the direction<br/>
+  The heading or the speed<br/>
+  The weight of what is gone or what's to be<br/>
+  It doesn't take a magician<br/>
+  Or a prophet to see<br/>
+  The national velocity
+</div>
 
 You can dress it up in leather, top it off with a Stetson hat  
 Get it all decked out uniform, epaulets and spats  
@@ -31,17 +33,17 @@ The whole thing is rotten through and through
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-F/C/G  
-
-Am/C/Dm/G  
-Am/C/Dm/G  
-Am/C/Dm/G  
-C/G  
-
-Am/G/Am  
-Am/G/Am  
-C/G  
-Am/G/Am  
-Am/G/Am  
-C/G  
+  F/C/G<br/>
+  <br/>
+  Am/C/Dm/G<br/>
+  Am/C/Dm/G<br/>
+  Am/C/Dm/G<br/>
+  C/G<br/>
+  <br/>
+  Am/G/Am<br/>
+  Am/G/Am<br/>
+  C/G<br/>
+  Am/G/Am<br/>
+  Am/G/Am<br/>
+  C/G  
 </div>

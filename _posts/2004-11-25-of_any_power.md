@@ -23,9 +23,10 @@ Do not be frightened
 Of any power
 
 <div class="chords">
-D/C#m  
-
-D/A/E  
-C#m/A  
-D/A/E  
-C#m/A</div>
+  D/C#m<br/>
+  <br/>
+  D/A/E<br/>
+  C#m/A<br/>
+  D/A/E<br/>
+  C#m/A
+</div>

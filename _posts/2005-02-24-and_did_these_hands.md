@@ -14,12 +14,14 @@ I have offered no man dominion of the heavens I own
 I have offered no man dominion not of flesh nor of bone  
 Not of flesh not of bone
 
-<div class="chorus">And did these hands (you are you are you are my hands)  
-And did these feet (you are you are you are my hands)  
-Walk these hills and draw these lines of sight  
-And did these hands (you are you are you are my hands)  
-And did these feet (you are you are you are my hands)  
-Find eternity in the kingdoms of the mind</div>
+<div class="chorus">
+  And did these hands (you are you are you are my hands)<br/>
+  And did these feet (you are you are you are my hands)<br/>
+  Walk these hills and draw these lines of sight<br/>
+  And did these hands (you are you are you are my hands)<br/>
+  And did these feet (you are you are you are my hands)<br/>
+  Find eternity in the kingdoms of the mind
+</div>
 
 Take me as your son teach me how to grow  
 Burn my distrust my abstract perfection burn my reverent soul  
@@ -36,12 +38,13 @@ Become what I see
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-F/G/Am/F/G/Am  
-Dm/G/C/Am/Dm/G/C  
-Dm/G/C/Am/F/G/Am  
-F/G/Am  
-
-C/Am  
-C/Am  
-C/G/Am  
-C/G/F/G</div>
+  F/G/Am/F/G/Am<br/>
+  Dm/G/C/Am/Dm/G/C<br/>
+  Dm/G/C/Am/F/G/Am<br/>
+  F/G/Am<br/>
+  <br/>
+  C/Am<br/>
+  C/Am<br/>
+  C/G/Am<br/>
+  C/G/F/G
+</div>

@@ -25,7 +25,8 @@ Time will bend and shift like sand, the waves be quieted to land
 Someday soon and it won't be long
 
 <div class="chords">
-E  
-A/E  
-B/A  
-E/B/E</div>
+  E<br/>
+  A/E<br/>
+  B/A<br/>
+  E/B/E
+</div>

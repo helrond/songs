@@ -15,9 +15,10 @@ Make it there fast as you can
 You've got a seat and you've got plans  
 But everything else is out of your hands
 
-<div class="chorus">And you know what it's going to take  
-	But you still hope that fortune and luck will go your way  
-	And you hope for space and you hope for speed  
+<div class="chorus">
+	And you know what it's going to take<br/>
+	But you still hope that fortune and luck will go your way<br/>
+	And you hope for space and you hope for speed<br/>
 	Keep your desires from becoming your need
 </div>
 
@@ -28,12 +29,14 @@ Everyone will be drunk and already high
 
 <div class="chorus">CHORUS</div>
 
-<div class="chords">G/C  
-G/D  
-G/C  
-G/D/G  
-
-C/G  
-Em/Am/C/D  
-C/G  
-Em/C/D/G</div>
+<div class="chords">
+	G/C<br/>
+	G/D<br/>
+	G/C<br/>
+	G/D/G<br/>
+	<br/>
+	C/G<br/>
+	Em/Am/C/D<br/>
+	C/G<br/>
+	Em/C/D/G
+</div>

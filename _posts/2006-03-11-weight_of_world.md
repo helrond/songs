@@ -25,7 +25,8 @@ That hanging there that afternoon
 He was helpless, just like you
 
 <div class="chords">
-G/D/Em  
-C/G/C/D  
-G/D/Em/C  
-C/D/G</div>
+  G/D/Em<br/>
+  C/G/C/D<br/>
+  G/D/Em/C<br/>
+  C/D/G
+</div>

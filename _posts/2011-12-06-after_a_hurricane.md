@@ -11,10 +11,12 @@ And people without power three weeks after the fact
 And on Sunday when it ripped through town howling like a train  
 You closed your eyes and waited til you only heard the rain
 
-<div class="chorus">You will have to think twice about where to turn that wheel  
-You will have to get used to the way things look from here  
-Because nothing you know will ever be the same  
-After a hurricane</div>
+<div class="chorus">
+  You will have to think twice about where to turn that wheel<br/>
+  You will have to get used to the way things look from here<br/>
+  Because nothing you know will ever be the same<br/>
+  After a hurricane
+</div>
 
 After it was over, when all the lights were out  
 You made your way down to the road to drive back into town  
@@ -29,12 +31,15 @@ But we sweated out that summer in the Alabama sun
 Unemployed and with no way to pay for what must be done
 
 <div class="chorus">CHORUS</div>
-<div class="chords">C/F  
-C/F/G  
-C/F  
-C/G/C  
 
-Am/C/F/G  
-Am/C/F/G  
-Am/C/F/C  
-F/G/C</div>
+<div class="chords">
+  C/F<br/>
+  C/F/G<br/>
+  C/F<br/>
+  C/G/C<br/>
+  <br/>
+  Am/C/F/G<br/>
+  Am/C/F/G<br/>
+  Am/C/F/C<br/>
+  F/G/C
+</div>

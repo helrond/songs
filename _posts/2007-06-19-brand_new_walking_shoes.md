@@ -31,8 +31,8 @@ And if I get to Pittsburgh you will never catch me then cause I
 Got me a pair of brand new walking shoes
 
 <div class="chords">
-C/G  
-F/G7  
-C/F  
-C/G/C
+  C/G<br />
+  F/G7<br />
+  C/F<br />
+  C/G/C
 </div>

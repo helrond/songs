@@ -14,10 +14,12 @@ I've looked into their eyes
 Phone bills hone your skills and simon says  
 Kiss my ass goodbye
 
-<div class="chorus">Onwards forwards upwards outwards I'll take the highway over your way  
-If I drive this far tonight you'll never find me  
-Buy sell trade and go to hell don't pass go just go to jail  
-If I lose myself tonight you'll never find me</div>
+<div class="chorus">
+  Onwards forwards upwards outwards I'll take the highway over your way<br/>
+  If I drive this far tonight you'll never find me<br/>
+  Buy sell trade and go to hell don't pass go just go to jail<br/>
+  If I lose myself tonight you'll never find me
+</div>
 
 They say always go up  
 Have you ever looked down from the top  
@@ -39,12 +41,13 @@ Tomorrow the headline's gonna say
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-e---0--0----0--2-3-2-----  
-B---0--0----0--2-2-2-----  
-G---0--0----0--2-2-2-----  
-D---2--0----2------------  
-A---2--2----2------------  
-E------3-----------------  
-
-Chorus  
-Em / Dsus2 / Em / Dsus2 / Em / Dsus2 / C / G</div>
+e---0--0----0--2-3-2-----<br/>
+B---0--0----0--2-2-2-----<br/>
+G---0--0----0--2-2-2-----<br/>
+D---2--0----2------------<br/>
+A---2--2----2------------<br/>
+E------3-----------------<br/>
+<br/>
+Chorus<br/>
+Em/Dsus2/Em/Dsus2/Em/Dsus2/C/G
+</div>

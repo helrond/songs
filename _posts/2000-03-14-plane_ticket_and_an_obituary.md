@@ -14,10 +14,12 @@ How did your eyes go blind
 How did your fingers go numb  
 How did you pale under the sun
 
-<div class="chorus">Everybody knows the signs  
-Nobody will be there sometimes  
-Nobody tries to die and  
-Everybody tries not to try</div>
+<div class="chorus">
+  Everybody knows the signs<br/>
+  Nobody will be there sometimes<br/>
+  Nobody tries to die and<br/>
+  Everybody tries not to try
+</div>
 
 I don't need a plane ticket to fly  
 I don't need a mountain to reach the sky  
@@ -25,11 +27,12 @@ I don't need an obituary
 I don't need a river to reach the sea
 
 <div class="chords">
------0-0- -0-  
------3-5- -1-  
------2-4- -0-  
---------- x3 -2-  
---------- -3-  
--0h2----- ---  
-
-Em/D</div>
+  -----0-0- -0-<br/>
+  -----3-5- -1-<br/>
+  -----2-4- -0-<br/>
+  --------- x3 -2-<br/>
+  --------- -3-<br/>
+  -0h2----- ---<br/>
+  <br/>
+  Em/D
+</div>

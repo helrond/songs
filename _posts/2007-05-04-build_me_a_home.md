@@ -31,9 +31,10 @@ Build me a home
 Build me a home
 
 <div class="chords">
-Am/C/G/Am  
-
-Dm/G/C  
-Dm/G/C  
-Dm/Em(III)/Am(V) step up to C  
-Dm/G/C</div>
+  Am/C/G/Am<br/>
+  <br/>
+  Dm/G/C<br/>
+  Dm/G/C<br/>
+  Dm/Em(III)/Am(V) step up to C<br/>
+  Dm/G/C
+</div>

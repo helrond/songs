@@ -14,10 +14,12 @@ Running on the memories of places I have known
 And the lines on the highway don't seem so straight anymore  
 And the smoke on the horizon is something we just can't ignore
 
-<div class="chorus">Hey America who's your savior now  
-Hey America can you see the sky falling down  
-Is it too late tonight to wake up from the American Dream  
-Is it too late is there only time to scream</div>
+<div class="chorus">
+  Hey America who's your savior now<br/>
+  Hey America can you see the sky falling down<br/>
+  Is it too late tonight to wake up from the American Dream<br/>
+  Is it too late is there only time to scream
+</div>
 
 The demons are running wild tonight through graveyards of defeat  
 They've surfaced to feed on the fresh young blood running through our streets  
@@ -44,9 +46,10 @@ All in one piece and when I'm released I won't even show it
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-Verse:  
-Em / open / Em / G / D  
-
-Chorus  
-G / Em / C / D (2x)  
-Em / C / G / D (2x)</div>
+  Verse:<br/>
+  Em / open / Em / G / D<br/>
+  <br/>
+  Chorus<br/>
+  G / Em / C / D (2x)<br/>
+  Em / C / G / D (2x)
+</div>

@@ -19,10 +19,12 @@ A sign of contradiction
 Like a black crow rests on a juniper tree  
 My love is a holy nation
 
-<div class="chorus">Now I stand before your mystery  
-Now I stand before your grace  
-Now I stand before your radiance  
-Now I stand before your face</div>
+<div class="chorus">
+  Now I stand before your mystery<br/>
+  Now I stand before your grace<br/>
+  Now I stand before your radiance<br/>
+  Now I stand before your face
+</div>
 
 My love hears an outdated tune  
 She dances with the moon  
@@ -34,17 +36,21 @@ Pulling up lustrife and sedge
 She's bringing me flowers to wear  
 My love's at the water's edge
 
-<div class="chorus">And if I fall before your mystery  
-I will not fall beyond your grace  
-And if I fall beyond your radiance  
-I will not fall before your face</div>
-<div class="chords">
-VERSE:  
--3-3--3-3----3-3--3-3----3-3--3-3----3-3--3-3-----  
--3-3--3-3----3-3--3-3----3-3--3-3----3-3--3-3-----  
--0-0--0-0----0-0--0-0----0-0--0-0----0-0--0-0-----  
--3-2----0----3-2----0----3-2----------------------  
-------3-----------3-----------3-2----3-2----------  
-------------------------------------------3-3-----  
+<div class="chorus">
+  And if I fall before your mystery<br/>
+  I will not fall beyond your grace<br/>
+  And if I fall beyond your radiance<br/>
+  I will not fall before your face
+</div>
 
-BRIDGE: F/C/G</div>
+<div class="chords">
+VERSE:<br/>
+-3-3--3-3----3-3--3-3----3-3--3-3----3-3--3-3-----<br/>
+-3-3--3-3----3-3--3-3----3-3--3-3----3-3--3-3-----<br/>
+-0-0--0-0----0-0--0-0----0-0--0-0----0-0--0-0-----<br/>
+-3-2----0----3-2----0----3-2----------------------<br/>
+------3-----------3-----------3-2----3-2----------<br/>
+------------------------------------------3-3-----<br/>
+<br/>
+BRIDGE: F/C/G
+</div>

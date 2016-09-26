@@ -30,8 +30,9 @@ The cool of the morning
 On the hill, on the tree
 
 <div class="chords">
-Em  
-D/Em  
-
-C/D/G  
-C/D/Em</div>
+  Em<br/>
+  D/Em<br/>
+  <br/>
+  C/D/G<br/>
+  C/D/Em
+</div>

@@ -14,22 +14,26 @@ With the dead leaves and the tide
 I was thinking about her  
 And how nothing ever happens overnight
 
-<div class="chorus">Just like water on water  
-We crash into each other  
-And leave no mark behind  
-On the rising tide</div>
+<div class="chorus">
+  Just like water on water<br/>
+  We crash into each other<br/>
+  And leave no mark behind<br/>
+  On the rising tide
+</div>
 
 And I walked along the edge  
 Where optimism meets despair  
 Thought of promises I'd made  
 How things get pushed beyond repair
 
-<div class="chords">C/G/Am  
-F/C/G  
-C/G/Am  
-F/C/G  
-
-Am/G/C  
-F/G/C  
-F/G  
-C</div>
+<div class="chords">
+  C/G/Am<br/>
+  F/C/G<br/>
+  C/G/Am<br/>
+  F/C/G<br/>
+  <br/>
+  Am/G/C<br/>
+  F/G/C<br/>
+  F/G<br/>
+  C
+</div>

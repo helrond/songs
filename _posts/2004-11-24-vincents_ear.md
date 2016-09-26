@@ -14,10 +14,12 @@ She called the cops and had him packed off to L'Hospital
 The ear was kept as evidence in an alcohol-filled jar  
 It disappeared in the hole of history's black star
 
-<div class="chorus">But what happened to Vincent's ear  
-Was it buried six feet under, was it sold for an ice-cold beer  
-Did some junior detective steal it out of spite  
-Or did it end up drifting through the starry, starry night</div>
+<div class="chorus">
+  But what happened to Vincent's ear<br/>
+  Was it buried six feet under, was it sold for an ice-cold beer<br/>
+  Did some junior detective steal it out of spite<br/>
+  Or did it end up drifting through the starry, starry night
+</div>
 
 They say Vincent was crazy and it might have been the truth  
 His style was unconventional his manner was uncouth  
@@ -39,12 +41,13 @@ His ear would be up for auction on eBay
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/D/G  
-G/A7/D  
-G/B7/Am/C  
-G/D/C/G  
-
-C/G  
-D/C/G  
-C/G  
-G/D/C/G</div>
+  G/D/G<br/>
+  G/A7/D<br/>
+  G/B7/Am/C<br/>
+  G/D/C/G<br/>
+  <br/>
+  C/G<br/>
+  D/C/G<br/>
+  C/G<br/>
+  G/D/C/G
+</div>

@@ -9,10 +9,12 @@ Towers and monuments; an island of dreams
 Where the perfect day is always half a week away  
 Distraction never leaves, tomorrow never stays
 
-<div class="chorus">And all of the silences, all of the sounds  
-All of the history going down  
-With space to grow into mercy to move  
-Too late for primetime and too early for the news</div>
+<div class="chorus">
+  And all of the silences, all of the sounds<br/>
+  All of the history going down<br/>
+  With space to grow into mercy to move<br/>
+  Too late for primetime and too early for the news
+</div>
 
 It's all about the angles, it's all about the light  
 The tourists and their cameras, man, what's left to find  
@@ -36,12 +38,13 @@ I give it all to you my fellow citizens
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-Em/C/G/D  
-Em/C/G/D  
-Am/C/G/D  
-Em/C/G/D  
-
-G/D/Em/D  
-G/D/C/D  
-Em/D/C/D  
-G/D/C/D/G</div>
+  Em/C/G/D<br/>
+  Em/C/G/D<br/>
+  Am/C/G/D<br/>
+  Em/C/G/D<br/>
+  <br/>
+  G/D/Em/D<br/>
+  G/D/C/D<br/>
+  Em/D/C/D<br/>
+  G/D/C/D/G
+</div>

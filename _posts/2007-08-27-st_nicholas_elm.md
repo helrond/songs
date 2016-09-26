@@ -14,10 +14,12 @@ There is less to be known and nothing to tell
 Your body is failing to back up your mind  
 And you can't trust your eyesight most of the time
 
-<div class="chorus">Nothing lasts forever in these seasons or this weather  
-Everything falls apart  
-The world just keeps on spinning without reason or beginnings  
-And I've got to find my place and my part</div>
+<div class="chorus">
+  Nothing lasts forever in these seasons or this weather<br />
+  Everything falls apart<br />
+  The world just keeps on spinning without reason or beginnings<br />
+  And I've got to find my place and my part
+</div>
 
 Like Washington you stood your ground  
 As New York City burned on down  

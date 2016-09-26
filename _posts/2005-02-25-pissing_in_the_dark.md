@@ -14,10 +14,12 @@ But the thing I remember most is where we'd go to pee
 There was a shack out in the backyard with a half moon on the door  
 It was dark and it was hard to see what you were shooting for
 
-<div class="chorus">Pissing in the dark, pissing in the dark  
-I can't see my hands and I can't see my shoes  
-Pissing in the dark, pissing in the dark  
-Lord, won't you guide me, tell me where to shoot</div>
+<div class="chorus">
+  Pissing in the dark, pissing in the dark<br/>
+  I can't see my hands and I can't see my shoes<br/>
+  Pissing in the dark, pissing in the dark<br/>
+  Lord, won't you guide me, tell me where to shoot
+</div>
 
 My father was a gambler and he spent his last dime  
 On a fifth of gutrot whiskey to distract his worried mind  
@@ -32,8 +34,10 @@ And I screamed at my commander as the bullets 'round us barked
 This ain't a good war anymore we're pissing in the dark
 
 <div class="chorus">CHORUS</div>
+
 <div class="chords">
-G/C/G  
-C/G/D/D7  
-G/C/G  
-C/G/D/G</div>
+  G/C/G<br/>
+  C/G/D/D7<br/>
+  G/C/G<br/>
+  C/G/D/G
+</div>

@@ -14,14 +14,16 @@ Will take more than ifs and buts to move these weary feet
 I've heard these stories all before they're lies all the same  
 Time is not a prison and a home is not a grave
 
-<div class="chorus">There is time to sow and time to reap  
-Time for war and time for peace  
-Time to heal, to cast away stones  
-Time for coming home  
-Oh yellow moon, autumn sky  
-I am drifting and dry  
-Oh golden sun, harvest days  
-Still my wandering ways</div>
+<div class="chorus">
+  There is time to sow and time to reap<br/>
+  Time for war and time for peace<br/>
+  Time to heal, to cast away stones<br/>
+  Time for coming home<br/>
+  Oh yellow moon, autumn sky<br/>
+  I am drifting and dry<br/>
+  Oh golden sun, harvest days<br/>
+  Still my wandering ways
+</div>
 
 Been a hard and rocky journey but it won't be long  
 I've got wings of rhythm I've got wheels of song  
@@ -38,9 +40,10 @@ When I should put some roots down; when I am home
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-E/F#m/A/C#m  
-
-C#m/B  
-
-C#m/A/E/A/B  
-C#m/B/E</div>
+  E/F#m/A/C#m<br/>
+  <br/>
+  C#m/B<br/>
+  <br/>
+  C#m/A/E/A/B<br/>
+  C#m/B/E
+</div>

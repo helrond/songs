@@ -11,8 +11,10 @@ Believe me
 I wanted to trust in the interest  
 In payment for my time
 
-<div class="chorus">Disappointed  
-Disappointed again</div>
+<div class="chorus">
+  Disappointed<br />
+  Disappointed again
+</div>
 
 Believe me  
 I wanted to keep it together  
@@ -21,8 +23,10 @@ Believe me
 I wanted to stay in control  
 Rely on the rules
 
-<div class="chorus">Disappointed  
-Disappointed again</div>
+<div class="chorus">
+  Disappointed<br />
+  Disappointed again
+</div>
 
 Believe me  
 I wanted to make it through  
@@ -31,14 +35,19 @@ Believe me
 I wanted to stand above it  
 Do better than this
 
-<div class="chorus">Disappointed  
-Disappointed again</div>
-<div class="chords">G  
-C/G/C  
-G/C/D  
-G  
-C/G/C  
-G/C/D  
+<div class="chorus">
+  Disappointed<br />
+  Disappointed again
+</div>
 
-C/G/Am/G/D/C/D  
-C/G/Am/D/G</div>
+<div class="chords">
+  G<br />
+  C/G/C<br />
+  G/C/D<br />
+  G<br />
+  C/G/C<br />
+  G/C/D<br />
+  <br />
+  C/G/Am/G/D/C/D<br />
+  C/G/Am/D/G
+</div>

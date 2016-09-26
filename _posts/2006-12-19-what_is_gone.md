@@ -14,10 +14,12 @@ He's got stories, he's got digital dreams
 He's thinking on yesterday  
 Thinking of yesterday
 
-<div class="chorus">What's gone is gone  
-What is gone will be again  
-What's ahead there is nobody knows  
-It has already been</div>
+<div class="chorus">
+  What's gone is gone<br/>
+  What is gone will be again<br/>
+  What's ahead there is nobody knows<br/>
+  It has already been
+</div>
 
 I know a girl who says all she needs  
 Is a husband, a home, a family  
@@ -44,12 +46,13 @@ Thinking of yesterday
 <div class="chorus">CHORUS</div>
 
 <div class="chorus">
-C/Am/C/G/C  
-C/Am/C/G/Am  
-F/G/C  
-F/G/C  
-
-F/G/C  
-F/G/C  
-Am/G/Am  
-F/G/C</div>
+  C/Am/C/G/C<br/>
+  C/Am/C/G/Am<br/>
+  F/G/C<br/>
+  F/G/C<br/>
+  <br/>
+  F/G/C<br/>
+  F/G/C<br/>
+  Am/G/Am<br/>
+  F/G/C
+</div>

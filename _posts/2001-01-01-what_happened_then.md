@@ -68,9 +68,10 @@ Don't give up 'til you're met with success
  And I shouldn't have to tell you what happened then  
 
 <div class="chords">
-G/C/D  
-G/C/D  
-G/D/C/D  
-C/D/C/G  
-D  
-C/D/G</div>
+  G/C/D<br/>
+  G/C/D<br/>
+  G/D/C/D<br/>
+  C/D/C/G<br/>
+  D<br/>
+  C/D/G
+</div>

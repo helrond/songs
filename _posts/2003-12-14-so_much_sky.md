@@ -9,10 +9,12 @@ We were eating up miles to the minute on the road to paradise
 All around was danger wrapped in the robes of false security  
 But just ahead the pathway was golden as far as I could see
 
-<div class="chorus">And there is so much sky  
-So many paths to cross and bridges to burn  
-So much sky  
-Where our footsteps will be upon return</div>
+<div class="chorus">
+  And there is so much sky<br/>
+  So many paths to cross and bridges to burn<br/>
+  So much sky<br/>
+  Where our footsteps will be upon return
+</div>
 
 Driving west into Ashland County we caught fire along with the clouds  
 She said she was thinking of paradise but I know she was dreaming aloud  
@@ -29,12 +31,13 @@ There is more than is seen or felt, more than your ears have heard
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-Verse:  
-G/Em/D/G/Em/D/G  
-G/Em/D/G/Em/D/G  
-Am/D/G/D  
-G/Em/D/G/Em/D/G
-
-Chorus:  
-G/D  
-G/C/D</div>
+  Verse:<br/>
+  G/Em/D/G/Em/D/G<br/>
+  G/Em/D/G/Em/D/G<br/>
+  Am/D/G/D<br/>
+  G/Em/D/G/Em/D/G<br/>
+  <br/>
+  Chorus:<br/>
+  G/D<br/>
+  G/C/D
+</div>

@@ -15,9 +15,9 @@ But those faces on the page were all blurred or turned away
 Like getting out alive was to be ashamed
 
 <div class="chorus">
-	And the distance, oh the distance  
-	It stretches out before me, other lands and other lives  
-	In the distance, oh the distance  
+	And the distance, oh the distance<br/>
+	It stretches out before me, other lands and other lives<br/>
+	In the distance, oh the distance<br/>
 	Can I make more of your life without making less of mine?
 </div>
 
@@ -35,12 +35,14 @@ If edges were not destined to bleed
 
 <div class="chorus">CHORUS</div>
 
-<div class="chords">E/A/E  
-E/B  
-E/A/E  
-E/B/E  
-
-A/E  
-E/B  
-E/A  
-A/E/B/E</div>
+<div class="chords">
+	E/A/E<br/>
+	E/B<br/>
+	E/A/E<br/>
+	E/B/E<br/>
+	<br/>
+	A/E<br/>
+	E/B<br/>
+	E/A<br/>
+	A/E/B/E
+</div>

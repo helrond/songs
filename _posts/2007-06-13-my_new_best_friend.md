@@ -11,12 +11,12 @@ We have done for each other the best that we can
 To keep out the dark and the cold
 
 <div class="chorus">
-You  
-It could be you  
-You could be the one to defend  
-You  
-You could change my mind  
-You could be my new best friend
+  You<br/>
+  It could be you<br/>
+  You could be the one to defend<br/>
+  You<br/>
+  You could change my mind<br/>
+  You could be my new best friend
 </div>
 
 I hear the voices of my friends  
@@ -34,14 +34,15 @@ Faces I know
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/Am  
-F/G  
-F/G/C/Am  
-C/G/C  
-
-Am  
-Em  
-F/G  
-Am  
-Em  
-F/G/C</div>
+  C/Am<br/>
+  F/G<br/>
+  F/G/C/Am<br/>
+  C/G/C<br/>
+  <br/>
+  Am<br/>
+  Em<br/>
+  F/G<br/>
+  Am<br/>
+  Em<br/>
+  F/G/C
+</div>

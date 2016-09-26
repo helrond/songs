@@ -9,15 +9,17 @@ And the words would flow right out of you like a fountain, like a well
 You would sit there for hours talking to yourself  
 Things would fold and spin and shatter; I know, I was there  
 
-<div class="chorus">Oh you had me brother  
-You sang so sweet  
-Oh those words my brother  
-Underneath that tree
-
-Oh this world is wheels in wheels  
-Wings and waterfalls  
-Secrets I will never know  
-And names yet to be called</div>
+<div class="chorus">
+  Oh you had me brother<br />
+  You sang so sweet<br />
+  Oh those words my brother<br />
+  Underneath that tree<br />
+  <br />
+  Oh this world is wheels in wheels<br />
+  Wings and waterfalls<br />
+  Secrets I will never know<br />
+  And names yet to be called
+</div>
 
 You would sit there for hours facing east  
 All the agents of empire came on bended knee  

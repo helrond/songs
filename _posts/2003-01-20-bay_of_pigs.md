@@ -35,11 +35,12 @@ The water is fouled with the blood of 2 thousand
 All across this bay, the bay of pigs
 
 <div class="chords">
-Am/G/Am  
-Am/G/Am  
-Am/G/Am  
-C/G/Am/Em  
-C/G/Am/G  
-Am/C  
-G/Am  
-Am/G/Am</div>
+  Am/G/Am<br/>
+  Am/G/Am<br/>
+  Am/G/Am<br/>
+  C/G/Am/Em<br/>
+  C/G/Am/G<br/>
+  Am/C<br/>
+  G/Am<br/>
+  Am/G/Am
+</div>

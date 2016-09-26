@@ -11,9 +11,11 @@ Got a hot old time, got a fancy freeze
 A muscleheaded mama down in New Orleans  
 And oh my Lord, what could I do?  
 
-<div class="chorus">Home and all I wanted  
-Home and all I wanted  
-Home and all I wanted here</div>
+<div class="chorus">
+  Home and all I wanted<br/>
+  Home and all I wanted<br/>
+  Home and all I wanted here
+</div>
 
 In the crackling wind the heavy blows  
 The thunder and the lightning and the falling snow  
@@ -43,15 +45,16 @@ Oh my Lord, what can I do?
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
--------         -------  
--------         -------  
-------- A/C#m   ------- A/E  
--------         -------  
--------         -------  
--0-4-5-         -0-4-5-  
-
-E/A/C#m  
-E/A/E  
-
-E/A  
-E/B</div>
+  -------         -------<br/>
+  -------         -------<br/>
+  ------- A/C#m   ------- A/E<br/>
+  -------         -------<br/>
+  -------         -------<br/>
+  -0-4-5-         -0-4-5-<br/>
+  <br/>
+  E/A/C#m<br/>
+  E/A/E<br/>
+  <br/>
+  E/A<br/>
+  E/B
+</div>

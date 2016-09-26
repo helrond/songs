@@ -9,10 +9,12 @@ Has distance shaken us down and made us run
 Clouds have drifted in and are hanging down  
 Listening to every word and every sound
 
-<div class="chorus">So I will send this to the clouds  
-And they will carry what they can  
-Someday over water or land  
-It will fall down again</div>
+<div class="chorus">
+  So I will send this to the clouds<br/>
+  And they will carry what they can<br/>
+  Someday over water or land<br/>
+  It will fall down again
+</div>
 
 And these clouds will disappear like you and I  
 All that leaves is taken up by space and time  
@@ -26,12 +28,14 @@ Has distance shaken us down and made us run
 Rain falls down and joins the ground  
 The clouds don't say a thing
 
-<div class="chords">C/Am/F/G  
-C/Am/F/G  
-C/Am/F/G  
-Am/C/F/Em  
-
-F/G/C  
-F/G/C  
-F/G/Em/Am  
-F/G/C</div>
+<div class="chords">
+  C/Am/F/G<br/>
+  C/Am/F/G<br/>
+  C/Am/F/G<br/>
+  Am/C/F/Em<br/>
+  <br/>
+  F/G/C<br/>
+  F/G/C<br/>
+  F/G/Em/Am<br/>
+  F/G/C
+</div>

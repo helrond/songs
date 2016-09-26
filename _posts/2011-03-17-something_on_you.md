@@ -9,10 +9,12 @@ In wingtips and threepiece suits and spotless bowler hats
 And a whisper in the alley leads off the evening news  
 Every word you've spoken being turned back on you
 
-<div class="chorus">Something on you, something on you  
-Somewhere there's a man watching your every move  
-Something on you, something on you  
-Somewhere there's a man who has something to lose</div>
+<div class="chorus">
+  Something on you, something on you<br/>
+  Somewhere there's a man watching your every move<br/>
+  Something on you, something on you<br/>
+  Somewhere there's a man who has something to lose
+</div>
 
 They'll listen in to every call at any time of day  
 They'll get it down on paper, they'll get it down on tape  
@@ -27,13 +29,15 @@ And if you spill your guts or play it close to the vest
 It will end up in a memo on the Director's desk
 
 <div class="chorus">CHORUS</div>
-<div class="chords">
-Am/C//G  
-F//C/G  
-Am/C//G  
-F//C/G  
 
-F/C/Am/G  
-F/C/Am/G  
-F/C/Am/G  
-F/C/G/C</div>
+<div class="chords">
+  Am/C//G<br/>
+  F//C/G<br/>
+  Am/C//G<br/>
+  F//C/G<br/>
+  <br/>
+  F/C/Am/G<br/>
+  F/C/Am/G<br/>
+  F/C/Am/G<br/>
+  F/C/G/C
+</div>

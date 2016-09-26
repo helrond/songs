@@ -9,10 +9,12 @@ The next time I was high as a kite
 And this time you could say I was distracted by her face  
 Looks like it's another lonely night
 
-<div class="chorus">Good at going so wrong  
-Good at going where I don't belong  
-Good at going places I shouldn't be  
-Good at going, that's me</div>
+<div class="chorus">
+  Good at going so wrong<br/>
+  Good at going where I don't belong<br/>
+  Good at going places I shouldn't be<br/>
+  Good at going, that's me
+</div>
 
 I've been around this world and I've been all over town  
 I've been to places too low to fall  
@@ -27,12 +29,15 @@ Before you walk away and before you cast the blame remember
 You're the one that's going now
 
 <div class="chorus">CHORUS</div>
-<div class="chords">C/F/C  
-C/F/G  
-F/E/Am/C  
-F/G  
 
-F/G/C  
-F/G/E/Am  
-F/G/C/Am  
-F/G/C</div>
+<div class="chords">
+  C/F/C<br/>
+  C/F/G<br/>
+  F/E/Am/C<br/>
+  F/G<br/>
+  <br/>
+  F/G/C<br/>
+  F/G/E/Am<br/>
+  F/G/C/Am<br/>
+  F/G/C
+</div>

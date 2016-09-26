@@ -26,11 +26,15 @@ Thank God for loneliness
 
 Struggling to sit up straight
 
-<div class="chorus">Letting it all go to waste  
-I can't go on living in an altered state  
-Living in an altered state of blue</div>
+<div class="chorus">
+  Letting it all go to waste<br />
+  I can't go on living in an altered state<br />
+  Living in an altered state of blue
+</div>
 
-<div class="chords">CHORUS:  
-Am/G/Am  
-C/G/F/G  
-C/G/Am</div>
+<div class="chords">
+  CHORUS:<br />
+  Am/G/Am<br />
+  C/G/F/G<br />
+  C/G/Am
+</div>

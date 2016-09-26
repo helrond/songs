@@ -14,9 +14,9 @@ And there is no place you call home, nowhere you can go
 Even if you wanted to
 
 <div class="chorus">
-	In time you will remember  
-	Everything to which you swore  
-	Another name will be added  
+	In time you will remember<br/>
+	Everything to which you swore<br/>
+	Another name will be added<br/>
 	To the ones that came before
 </div>
 
@@ -39,11 +39,11 @@ Now there's nothing left but steel and sand
 </div>
 
 <div class="chords">
-	G/Em/C/D  
-	G/C/D  
-
-	C/D/G  
-	Em/D  
-	C/D/G/Em  
+	G/Em/C/D<br/>
+	G/C/D<br/>
+	<br/>
+	C/D/G<br/>
+	Em/D<br/>
+	C/D/G/Em<br/>
 	C/D/G
 </div>

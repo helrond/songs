@@ -9,10 +9,12 @@ And there is nowhere left to go
 The have all been everywhere  
 But none of them have left their home
 
-<div class="chorus">Put on your traveling shoes  
-Get off the highway, turn off the news  
-Go somewhere you've never been and  
-Take someone with you</div>
+<div class="chorus">
+  Put on your traveling shoes<br />
+  Get off the highway, turn off the news<br />
+  Go somewhere you've never been and<br />
+  Take someone with you
+</div>
 
 There are certain songs that cannot be sung alone  
 And stories that cannot be told  

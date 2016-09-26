@@ -28,13 +28,16 @@ No small kind of love and no stars far above
 Would ever guide her feet
 
 <div class="chorus">CHORUS</div>
-<div class="chords">C/G/Am/F  
-C/G/C  
-C/G/Am/F  
-C/G/C  
 
-C/G/Am/C  
-C/G/Am  
-C/G/Am/F  
-C/G/Am/F  
-C/G/C</div>
+<div class="chords">
+  C/G/Am/F<br />
+  C/G/C<br />
+  C/G/Am/F<br />
+  C/G/C<br />
+  <br />
+  C/G/Am/C<br />
+  C/G/Am<br />
+  C/G/Am/F<br />
+  C/G/Am/F<br />
+  C/G/C
+</div>

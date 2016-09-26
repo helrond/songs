@@ -29,10 +29,11 @@ I'll throw my life like water onto sand
 See what you do to me
 
 <div class="chords">
-G/D/Em/C  
-G/D/C/G  
-G/D/Em/C  
-G/D/C/G  
-C/G/D  
-C/G/D  
-G/D/C/G</div>
+  G/D/Em/C<br/>
+  G/D/C/G<br/>
+  G/D/Em/C<br/>
+  G/D/C/G<br/>
+  C/G/D<br/>
+  C/G/D<br/>
+  G/D/C/G
+</div>

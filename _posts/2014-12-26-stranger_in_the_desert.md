@@ -17,9 +17,9 @@ In the river beds I feel your hands
 Pulling at my steps through the loose sand
 
 <div class="chorus">
-	When you are gone, I know you were there  
-	A coyote running through my prayers  
-	And I know one day all will be revealed  
+	When you are gone, I know you were there<br/>
+	A coyote running through my prayers<br/>
+	And I know one day all will be revealed<br/>
 	And the space between mountains and sky will disappear
 </div>
 
@@ -28,13 +28,14 @@ Measure out the distance to the promised land
 At the gates of dawn you stand alone  
 Through the cactus and the dust, safe at home
 
-<div class="chords">D/Em/C/D
-	D/Em/C/D  
-	G/D/Em/C  
-	Em/D/G  
-
-	C/D/G  
-	C/D/G  
-	C/D/G  
+<div class="chords">
+	D/Em/C/D<br/>
+	D/Em/C/D<br/>
+	G/D/Em/C<br/>
+	Em/D/G<br/>
+	<br/>
+	C/D/G<br/>
+	C/D/G<br/>
+	C/D/G<br/>
 	C/G/D/G
 </div>

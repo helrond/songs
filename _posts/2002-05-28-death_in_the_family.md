@@ -14,10 +14,12 @@ In a solitary room
 By the time we recaptured the saints from the sinners  
 We'd killed more than a few
 
-<div class="chorus">If the stones could cry out, who would they cry for  
-Was it for this destiny that the spotless lamb was slain  
-Whose brother's blood is this that cries out from the floor  
-Why are we drawn like a moth to the flame</div>
+<div class="chorus">
+  If the stones could cry out, who would they cry for<br/>
+  Was it for this destiny that the spotless lamb was slain<br/>
+  Whose brother's blood is this that cries out from the floor<br/>
+  Why are we drawn like a moth to the flame
+</div>
 
 Weighed in the balance you've been found wanting  
 For more than your worth  
@@ -36,10 +38,12 @@ This civilized inquisition
 Chosen to burn for the sins that are handed down  
 Your father's indiscretion
 
-<div class="chorus">Some say no more victims, some no more abuse  
-Some just want the facts, some just want the truth  
-Some just want your blood, some want a vaccine  
-Some want you swinging from a tree</div>
+<div class="chorus">
+  Some say no more victims, some no more abuse<br/>
+  Some just want the facts, some just want the truth<br/>
+  Some just want your blood, some want a vaccine<br/>
+  Some want you swinging from a tree
+</div>
 
 The world is more than jails and churches  
 You are more than your word  
@@ -49,7 +53,8 @@ Or meant to take up the sword
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/Em/C/D  
-
-C/G/C/G  
-C/G/D</div>
+  G/Em/C/D<br/>
+  <br/>
+  C/G/C/G<br/>
+  C/G/D
+</div>

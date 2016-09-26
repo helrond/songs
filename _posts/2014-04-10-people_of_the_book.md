@@ -9,10 +9,12 @@ And then he came down off the mountain and broke it in the sand
 People do you know how they rose from Egypt  
 Wandered the wilderness for forty years without a homeland
 
-<div class="chorus">When you read what you believe  
-And you open to the page you had to see  
-When you know before you look  
-When you find it in the book</div>
+<div class="chorus">
+  When you read what you believe<br/>
+  And you open to the page you had to see<br/>
+  When you know before you look<br/>
+  When you find it in the book
+</div>
 
 Take yourself down to the river  
 Catch a spark, catch a fire, catch ahold of light  
@@ -25,12 +27,13 @@ There are windows in the walls my friend
 There are prophets everywhere you look, oh children of the book
 
 <div class="chords">
-Em/G/D/Em  
-Em/G/D/Em  
-G/D/Em  
-Em/G/D/Em  
-
-G  
-D/Em  
-G  
-D/G</div>
+  Em/G/D/Em<br/>
+  Em/G/D/Em<br/>
+  G/D/Em<br/>
+  Em/G/D/Em<br/>
+  <br/>
+  G<br/>
+  D/Em<br/>
+  G<br/>
+  D/G
+</div>

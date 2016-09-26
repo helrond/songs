@@ -29,9 +29,10 @@ It was a beautiful night when you walked away from me
 But you were just practicing freedom
 
 <div class="chords">
-C/F/C / C/F/G  
-
-C/Am/G/Gdim7/F/G/C  
-C/Am/G/Gdim7/F/G/C  
-Am/G/F/G  
-C/Am/G/Gdim7/F/G/C</div>
+  C/F/C/C/F/G<br/>
+  <br/>
+  C/Am/G/Gdim7/F/G/C<br/>
+  C/Am/G/Gdim7/F/G/C<br/>
+  Am/G/F/G<br/>
+  C/Am/G/Gdim7/F/G/C<br/>
+</div>

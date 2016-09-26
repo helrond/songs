@@ -28,17 +28,20 @@ And I want to be just as wise when I'm old
 With the bad came the good, with the good came the bad  
 But he gave us the best, show us all that we had
 
-<div class="chorus">I say you are my Northern Star  
-My favorite scar, the best without bar  
-My Northern Star</div>
+<div class="chorus">
+  I say you are my Northern Star<br/>
+  My favorite scar, the best without bar<br/>
+  My Northern Star
+</div>
 
 <div class="chords">
--------------3---0--------------  
--------0---0-----------0---3----  
------0---0-----0-----0---0------  
--0h2---------------0------------  
---------------------------------  
---------------------------------  
-
-Em / D  
-Em / C / D</div>
+-------------3---0--------------<br/>
+-------0---0-----------0---3----<br/>
+-----0---0-----0-----0---0------<br/>
+-0h2---------------0------------<br/>
+--------------------------------<br/>
+--------------------------------<br/>
+<br/>
+Em/D<br/>
+Em/C/D
+</div>

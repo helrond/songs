@@ -11,10 +11,12 @@ I wish you'd watch that train bear down I wish that you would laugh
 I wish you'd sew me in a bag and weigh it down with stones  
 I wish you'd watch me from the deck as I dine with Davey Jones
 
-<div class="chorus">Why don't you go on and break me this time  
-I am not deaf I am not blind  
-Why don't you go on and kill me this time  
-I will not grumble I will not mind</div>
+<div class="chorus">
+  Why don't you go on and break me this time<br/>
+  I am not deaf I am not blind<br/>
+  Why don't you go on and kill me this time<br/>
+  I will not grumble I will not mind
+</div>
 
 I wish that you would blindfold me and fill me full of lead  
 I wish you'd call down vengeance and dance for my head  

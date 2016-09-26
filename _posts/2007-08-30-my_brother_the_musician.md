@@ -18,7 +18,10 @@ He knows how to relate and he makes friends easily
 No cripple of embarrassment; nothing if not free  
 Not tied down by anything  
 My brother the musician; how I wish I was him
-<div class="chords">C/Am  
-F/Dm  
-C/Am  
-C/Am/G/C</div>
+
+<div class="chords">
+  C/Am<br />
+  F/Dm<br />
+  C/Am<br />
+  C/Am/G/C
+</div>

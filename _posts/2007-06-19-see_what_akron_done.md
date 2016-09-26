@@ -31,7 +31,8 @@ All the rubber, all the steel
 See what Akron done to me
 
 <div class="chords">
-G/C/G  
-C/G  
-G/C/G  
-D/G</div>
+  G/C/G<br />
+  C/G<br />
+  G/C/G<br />
+  D/G
+</div>

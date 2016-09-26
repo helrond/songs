@@ -29,10 +29,11 @@ You know that power is not mine to give but it is yours to take
 But all I want is truth or consequence
 
 <div class="chords">
-E/A/E/A  
-E/A/E/A  
-E/C#m/A/B/A/B  
-E/C#m/A/B/A/B  
-A/B  
-
-E/C#m/E/B/C#m/B</div>
+  E/A/E/A<br/>
+  E/A/E/A<br/>
+  E/C#m/A/B/A/B<br/>
+  E/C#m/A/B/A/B<br/>
+  A/B<br/>
+  <br/>
+  E/C#m/E/B/C#m/B
+</div>

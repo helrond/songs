@@ -9,9 +9,11 @@ At the Palestine Theater down on Clinton Street
 Tumbleweeds in black and white, a Picture in Grey  
 Jean and Hopsy, Heaven Can Wait
 
-<div class="chorus">It's all over now  
-It's all over now  
-It's all over now but the history</div>
+<div class="chorus">
+  It's all over now<br/>
+  It's all over now<br/>
+  It's all over now but the history
+</div>
 
 Bought it cheap and sold it on a whim  
 You won't hear that 78 again  
@@ -28,11 +30,12 @@ The National Guard in Arkansas
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/G/C  
-C/G/C  
-F/G/E/Am  
-Dm/F/G  
-
-C/G/Am  
-C/G/Am  
-C/G/Am/G/C</div>
+  C/G/C<br/>
+  C/G/C<br/>
+  F/G/E/Am<br/>
+  Dm/F/G<br/>
+  <br/>
+  C/G/Am<br/>
+  C/G/Am<br/>
+  C/G/Am/G/C
+</div>

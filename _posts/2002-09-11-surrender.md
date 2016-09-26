@@ -9,10 +9,12 @@ And the way you've given in on the things not yet begun
 I am casting about to find the right words to say  
 To fill your nets and calm your waves
 
-<div class="chorus">So how you gonna win you can't beat this thing  
-By drawing lines in the sand  
-So if you want out the only way now  
-Is to throw in your hand</div>
+<div class="chorus">
+  So how you gonna win you can't beat this thing<br/>
+  By drawing lines in the sand<br/>
+  So if you want out the only way now<br/>
+  Is to throw in your hand
+</div>
 
 So you can go and fight that war for a spot on which to stand  
 You can rape and pillage, loot and burn turn cities into sand  
@@ -29,12 +31,13 @@ A potion or a line
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/D/C/D  
-G/D/C/D  
-G/D/C/D  
-C/D/G  
-
-G/C  
-G/D  
-G/C  
-G/D</div>
+  G/D/C/D<br/>
+  G/D/C/D<br/>
+  G/D/C/D<br/>
+  C/D/G<br/>
+  <br/>
+  G/C<br/>
+  G/D<br/>
+  G/C<br/>
+  G/D
+</div>

@@ -14,10 +14,12 @@ In matters such as these
 But I tasted the forbidden waters  
 And suffered not to dream
 
-<div class="chorus">And the fire that lies ahead  
-Will burn brighter than the fire this time  
-And the fear of your heart's desire  
-Will turn your limbs to ice</div>
+<div class="chorus">
+  And the fire that lies ahead<br/>
+  Will burn brighter than the fire this time<br/>
+  And the fear of your heart's desire<br/>
+  Will turn your limbs to ice
+</div>
 
 They say it's only a shot away  
 To break out of this hypnotic trance  
@@ -49,11 +51,12 @@ And the future that lies before us
 Is burning in green and gold
 
 <div class="chords">
-Em/Am/G/C  
-Em/Am/D/C  
-
-C/G/D  
-C/D  
-
-Em/C/G/D  
-Em/D</div>
+  Em/Am/G/C<br/>
+  Em/Am/D/C<br/>
+  <br/>
+  C/G/D<br/>
+  C/D<br/>
+  <br/>
+  Em/C/G/D<br/>
+  Em/D
+</div>

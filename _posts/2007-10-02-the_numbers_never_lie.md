@@ -9,9 +9,11 @@ And a place for everything
 There's a word for every notion  
 A perfect description
 
-<div class="chorus">Well nothing is everything  
-And anyway there is not one thing you could do to make me believe  
-The numbers never lie</div>
+<div class="chorus">
+  Well nothing is everything<br />
+  And anyway there is not one thing you could do to make me believe<br />
+  The numbers never lie
+</div>
 
 Mr. Dewey we don't need you anymore  
 So pack up your papers and leave  
@@ -27,11 +29,13 @@ I won't ask you what you want it for
 
 discovery
 
-<div class="chords">G/D/Em  
-C/D/G  
-G/D/G  
-Em/D/G  
-
-C/G  
-C/G/D/Em/C/G  
-C/D/G</div>
+<div class="chords">
+  G/D/Em<br />
+  C/D/G<br />
+  G/D/G<br />
+  Em/D/G<br />
+  <br />
+  C/G<br />
+  C/G/D/Em/C/G<br />
+  C/D/G
+</div>

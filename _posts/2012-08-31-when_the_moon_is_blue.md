@@ -14,10 +14,12 @@ Living fast on borrowed wheels
 Oh my friends, I had so many plans  
 I had a head full of ideas
 
-<div class="chorus">Then the music starts  
-	My plans fall apart  
-	You'll be out there, I'll go too  
-	When the moon is blue</div>
+<div class="chorus">
+	Then the music starts<br/>
+	My plans fall apart<br/>
+	You'll be out there, I'll go too<br/>
+	When the moon is blue
+</div>
 
 Wild asters in the meadows  
 Apples on the trees  
@@ -31,13 +33,13 @@ That is meant only for me
 </div>
 
 <div class="chords">
-C/G  
-C/Em  
-Am/C/B7/Em  
-C/Am/D  
-
-G/C  
-G/D  
-G/C  
-G/D/G  
+	C/G<br/>
+	C/Em<br/>
+	Am/C/B7/Em<br/>
+	C/Am/D<br/>
+	<br/>
+	G/C<br/>
+	G/D<br/>
+	G/C<br/>
+	G/D/G  
 </div>

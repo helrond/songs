@@ -22,8 +22,9 @@ With fire he pierced their cruel hearts with nails they pierced his palms
 They say he was a carpenter but he was a railroad man  
 
 <div class="chorus">BRIDGE</div>
-<div class="chords">
-C/G/Am/F/C/G/C  
-E/Am/C/G/  
-
-C/Am</div>
+  <div class="chords">
+  C/G/Am/F/C/G/C<br/>
+  E/Am/C/G/<br/>
+  <br/>
+  C/Am
+</div>

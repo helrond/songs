@@ -14,10 +14,12 @@ Piss-soaked carpets these dark desolate halls
 There are some people who don't know this reality but  
 If this isn't real, then who are we
 
-<div class="chorus">God lives on Lafayette  
-Do you  
-Girl lives on Lafayette  
-Do you</div>
+<div class="chorus">
+  God lives on Lafayette<br/>
+  Do you<br/>
+  Girl lives on Lafayette<br/>
+  Do you
+</div>
 
 Some will say that's the way it's go to be  
 Forget to mention "it's fine as long as it's not me"  
@@ -34,13 +36,14 @@ Not sure if I'm going up or down
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-Verse: G / D / Em / C  
-Chorus: Em / C / G / D/F#  
-
-Pre and Post Chorus:  
--0--0--0--  
--0--3--1--  
--0--0--0--  
--2--------  
--2--------  
--0--------</div>
+  Verse: G/D/Em/C<br/>
+  Chorus: Em/C/G/D/F#<br/>
+  <br/>
+  Pre and Post Chorus:<br/>
+  -0--0--0--<br/>
+  -0--3--1--<br/>
+  -0--0--0--<br/>
+  -2--------<br/>
+  -2--------<br/>
+  -0--------
+</div>

@@ -18,7 +18,8 @@ When I am not half of the man I want to be
 Mercy get a hold of me
 
 <div class="chords">
-C/G/C  
-Dm/Am/C/G  
-F/C/Am/G  
-F/G/C</div>
+  C/G/C<br/>
+  Dm/Am/C/G<br/>
+  F/C/Am/G<br/>
+  F/G/C
+</div>

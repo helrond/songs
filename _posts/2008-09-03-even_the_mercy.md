@@ -11,9 +11,11 @@ And the weather takes its time
 You can't make it rain or shine  
 You can't stop it coming down like Judgment Day
 
-<div class="chorus">And even the mercy  
-Even the mercy  
-Even the mercy it burns</div>
+<div class="chorus">
+  And even the mercy<br />
+  Even the mercy<br />
+  Even the mercy it burns
+</div>
 
 And the margins are too slim  
 To pay off the debt you're in  
@@ -32,13 +34,15 @@ Washington don't care
 You will get by with who you know
 
 <div class="chorus">CHORUS</div>
-<div class="chords">C  
-F/C  
-Am/C/G  
-C  
-F/C  
-Am/G/C  
-
-F/C/G  
-C/G/F  
-C/G/C/F/C</div>
+<div class="chords">
+  C<br />
+  F/C<br />
+  Am/C/G<br />
+  C<br />
+  F/C<br />
+  Am/G/C<br />
+  <br />
+  F/C/G<br />
+  C/G/F<br />
+  C/G/C/F/C
+</div>

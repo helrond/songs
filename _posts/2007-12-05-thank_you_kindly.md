@@ -9,9 +9,11 @@ For those who don't believe a thing they've heard
 For everyone who stayed at home and all those who kept moving on  
 I sat down and wrote them this song
 
-<div class="chorus">And I will thank you kindly  
-Thank you kindly  
-Thank you kindly my friends</div>
+<div class="chorus">
+  And I will thank you kindly<br />
+  Thank you kindly<br />
+  Thank you kindly my friends
+</div>
 
 For everyone who values what they owe  
 For those who have got no soul  
@@ -40,9 +42,12 @@ For those too serious to smile and those who laugh so hard they cry
 You have taught me everything I know
 
 <div class="chorus">CHORUS</div>
-<div class="chords">G/D  
-C/D  
-G/Am  
-C/D  
 
-G/C/G/D</div>
+<div class="chords">
+  G/D<br />
+  C/D<br />
+  G/Am<br />
+  C/D<br />
+  <br />
+  G/C/G/D
+</div>

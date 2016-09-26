@@ -20,7 +20,8 @@ I will not be swayed by hunger or betrayed by hope
 I will stay faithfully, like a hawk
 
 <div class="chords">
-Am/C/F/Em  
-Am/C/Dm/G  
-C/Am/Dm/G  
-Am/C/F/G/Am</div>
+  Am/C/F/Em<br/>
+  Am/C/Dm/G<br/>
+  C/Am/Dm/G<br/>
+  Am/C/F/G/Am
+</div>

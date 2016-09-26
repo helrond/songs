@@ -14,10 +14,12 @@ Hound dogs are set on me
 My face posted from here to Texas  
 Felts' goon squad at my heels
 
-<div class="chorus">And the law it brings you down  
-And the law kicks you around  
-And the law it busts this union town  
-On this killing ground</div>
+<div class="chorus">
+  And the law it brings you down<br/>
+  And the law kicks you around<br/>
+  And the law it busts this union town<br/>
+  On this killing ground
+</div>
 
 I have been too brave, too frightened  
 I have lost, I have found  
@@ -34,6 +36,7 @@ Until we've reached the Promised Land
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-Fdim/C/G/Am  
-
-F//G//C/G/Am</div>
+  Fdim/C/G/Am<br/>
+  <br/>
+  F//G//C/G/Am
+</div>

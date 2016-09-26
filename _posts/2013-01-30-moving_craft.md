@@ -21,10 +21,12 @@ That runs through mountains and dreams
 It is carved into the rock  
 And built on gravel and steam
 
-<div class="chorus">Everything's moving, and it's moving fast  
-And holding on tighter won't make it last  
-Everything's moving, and it won't be still  
-So loosen your eyes and your grip on the wheel</div>
+<div class="chorus">
+  Everything's moving, and it's moving fast<br/>
+  And holding on tighter won't make it last<br/>
+  Everything's moving, and it won't be still<br/>
+  So loosen your eyes and your grip on the wheel
+</div>
 
 There are threads  
 Infinite and fine  
@@ -32,13 +34,13 @@ Growing from our feet and
 Reaching for the sky
 
 <div class="chords">
-D/Bm  
-G/D  
-Em/A  
-G/A (D)  
-
-Em/A/D  
-Em/A/D/Bm  
-Em/A/D  
-Em/A/D
+  D/Bm<br/>
+  G/D<br/>
+  Em/A<br/>
+  G/A (D)<br/>
+  <br/>
+  Em/A/D<br/>
+  Em/A/D/Bm<br/>
+  Em/A/D<br/>
+  Em/A/D
 </div>

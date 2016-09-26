@@ -9,9 +9,11 @@ I've got everything you left behind when you walked out the door
 I'm in pieces all over the floor  
 And you're out there getting what you wanted and more
 
-<div class="chorus">Baby I'm delighted  
-I'm so excited  
-Baby I'm delighted for you.</div>
+<div class="chorus">
+  Baby I'm delighted<br/>
+  I'm so excited<br/>
+  Baby I'm delighted for you.
+</div>
 
 I've got photographs I've got to hide  
 I've got thoughts that keep me up all night  

@@ -27,8 +27,11 @@ So I sat myself down underneath that tree
 Neither poet nor woodsman I do not see  
 Angels in branches, the slowness of years  
 But the distance between
-<div class="chords">C/G/Am  
-F/C/F/G  
-C/G/C/F  
-C/G/C/F  
-Am/G/C</div>
+
+<div class="chords">
+  C/G/Am<br />
+  F/C/F/G<br />
+  C/G/C/F<br />
+  C/G/C/F<br />
+  Am/G/C
+</div>

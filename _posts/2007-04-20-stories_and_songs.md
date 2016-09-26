@@ -10,10 +10,12 @@ Playing Take It to the Limit, it was 1984
 Colors and numbers, her ABCs  
 But the things that she learned were more than any of these
 
-<div class="chorus">Lessons learned in stories and songs  
-Ways to take your mind off of what's going wrong  
-How to begin all over again  
-Who else could teach us all of these things</div>
+<div class="chorus">
+  Lessons learned in stories and songs<br/>
+  Ways to take your mind off of what's going wrong<br/>
+  How to begin all over again<br/>
+  Who else could teach us all of these things
+</div>
 
 They would hang on her every word  
 Of deserts and jungles and the animal world  
@@ -35,12 +37,13 @@ These are the things that my mother taught me
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/Em/C/G  
-G/Em/C/D  
-G/Em/C/G  
-G/Em/D/G  
-
-G/C/G  
-G/Em/A/G  
-G/Em/C/G  
-G/Em/D/G</div>
+  G/Em/C/G<br/>
+  G/Em/C/D<br/>
+  G/Em/C/G<br/>
+  G/Em/D/G<br/>
+  <br/>
+  G/C/G<br/>
+  G/Em/A/G<br/>
+  G/Em/C/G<br/>
+  G/Em/D/G
+</div>

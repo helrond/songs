@@ -18,10 +18,12 @@ My work was in my home
 Nothing but dreams  
 Left up to me
 
-<div class="chorus">Everything wants to be free  
-Except what you love and what you need  
-All alone without words or deeds  
-Spring comes quietly</div>
+<div class="chorus">
+Everything wants to be free<br />
+  Except what you love and what you need<br />
+  All alone without words or deeds<br />
+  Spring comes quietly
+</div>
 
 Lacking courage and direction I  
 Sat down upon the shore  
@@ -40,10 +42,13 @@ Forgot my path
 My debts and maps
 
 <div class="chorus">CHORUS</div>
-<div class="chords">D/G/D  
-G/D  
 
-A/G  
-D/A/G  
-G/A/D/G  
-G/A/D</div>
+<div class="chords">
+  D/G/D<br />
+  G/D<br />
+  <br />
+  A/G<br />
+  D/A/G<br />
+  G/A/D/G<br />
+  G/A/D
+</div>

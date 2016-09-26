@@ -14,10 +14,12 @@ I have just one demand
 If I die in this godforsaken place  
 Sign the letter by hand
 
-<div class="chorus">You can send me off to fight your dirty jihad  
-You can hang me out to dry  
-You can sign me up let them cut me to pieces  
-Just put your John Hancock on the line</div>
+<div class="chorus">
+  You can send me off to fight your dirty jihad<br/>
+  You can hang me out to dry<br/>
+  You can sign me up let them cut me to pieces<br/>
+  Just put your John Hancock on the line
+</div>
 
 Mister Secretary  
 I know you don't read the news  
@@ -34,6 +36,7 @@ Is not a sufficient defense
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/D/C/C  
-
-C/G/D/G</div>
+  G/D/C/C<br/>
+  <br/>
+  C/G/D/G
+</div>

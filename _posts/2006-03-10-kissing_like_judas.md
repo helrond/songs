@@ -9,10 +9,12 @@ I went walking with my true love out underneath that moon
 We tickled and we tussled, we huggled and we kissed  
 Oh girl you looked like Minnie Pearl, but you kissed just like Judas
 
-<div class="chorus">Hey hey hey hey what can I say  
-She tore me up, she led me astray  
-Hey hey hey hey what could I do  
-She was unfaithful, she was untrue</div>
+<div class="chorus">
+  Hey hey hey hey what can I say<br/>
+  She tore me up, she led me astray<br/>
+  Hey hey hey hey what could I do<br/>
+  She was unfaithful, she was untrue
+</div>
 
 It was earlier that spring when our courting had commenced  
 When I first had kissed her across the old stone fence  
@@ -36,12 +38,13 @@ Remember they told that to Jesus too
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/F/C  
-C/G/G7  
-C/F/C  
-C/G/C  
-
-C/F/C  
-F/C/G/G7  
-C/F/G  
-F/C/G/C</div>
+  C/F/C<br/>
+  C/G/G7<br/>
+  C/F/C<br/>
+  C/G/C<br/>
+  <br/>
+  C/F/C<br/>
+  F/C/G/G7<br/>
+  C/F/G<br/>
+  F/C/G/C
+</div>

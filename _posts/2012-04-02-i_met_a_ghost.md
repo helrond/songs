@@ -20,11 +20,13 @@ Said I'm in love
 And I can't fight this disease  
 I got them crawling out my fingertips, I am a factory
 
-<div class="chorus">I met a ghost yeah  
-I met a ghost  
-I met a ghost yeah  
-A ghost yeah a ghost  
-I met a ghost</div>
+<div class="chorus">
+  I met a ghost yeah<br/>
+  I met a ghost<br/>
+  I met a ghost yeah<br/>
+  A ghost yeah a ghost<br/>
+  I met a ghost
+</div>
 
 I met a ghost  
 And I knew it was me  
@@ -38,15 +40,16 @@ My heart is angry and distracted; a buzzing sack of bees
 </div>
 
 <div class="chords">
-F  
-Bb/F  
-C/Bb/C  
-F  
-Bb/F  
-C/Bb/F  
-
-F  
-Bb  
-F  
-Bb/C  
-F</div>
+  F<br/>
+  Bb/F<br/>
+  C/Bb/C<br/>
+  F<br/>
+  Bb/F<br/>
+  C/Bb/F<br/>
+  <br/>
+  F<br/>
+  Bb<br/>
+  F<br/>
+  Bb/C<br/>
+  F
+</div>

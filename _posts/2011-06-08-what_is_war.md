@@ -24,5 +24,7 @@ What will grow on these fields
 What's a grave grown over  
 What will become of history
 
-<div class="chords">C/G/D/Em  
-C/G/D</div>
+<div class="chords">
+  C/G/D/Em<br/>
+  C/G/D
+</div>

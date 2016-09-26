@@ -28,11 +28,11 @@ And I don't know what to say about you
 Are you mine or somebody else
 
 <div class="chords">
-C / C/B / Am / G  
-F / G   
-C / C/B / Am / G  
-F / G  
-F / G  
-C / G / Am  
-F / G  
-C / G / C</div>
+C/C/B/Am/G<br/>
+F/G<br/>
+C/C/B/Am/G<br/>
+F/G<br/>
+F/G<br/>
+C/G/Am<br/>
+F/G<br/>
+C/G/C</div>

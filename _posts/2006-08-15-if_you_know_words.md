@@ -14,10 +14,12 @@ Keeping the faith and passing it on
 The good and bad times, the major, minor keys  
 Change the words, but keep this melody
 
-<div class="chorus">And if you know the words, then go ahead and sing it  
-If you know the truth, then go ahead and live it  
-Even if your voice is the only thing you own  
-You've got more than enough 'cause you've still got a song</div>
+<div class="chorus">
+  And if you know the words, then go ahead and sing it<br/>
+  If you know the truth, then go ahead and live it<br/>
+  Even if your voice is the only thing you own<br/>
+  You've got more than enough 'cause you've still got a song
+</div>
 
 And on the day they lay her down  
 To rise up to glory and that heavenly crown  
@@ -34,12 +36,13 @@ But just to keep on living and remembering my name
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/G/Am/Em  
-C/G/F/G  
-Am/G/F/G  
-C/G/F/G/C  
-
-Am/G/F/C  
-Am/G/F/C  
-C/G/Am/Em  
-C/G/F/G/C</div>
+  C/G/Am/Em<br/>
+  C/G/F/G<br/>
+  Am/G/F/G<br/>
+  C/G/F/G/C<br/>
+  <br/>
+  Am/G/F/C<br/>
+  Am/G/F/C<br/>
+  C/G/Am/Em<br/>
+  C/G/F/G/C
+</div>

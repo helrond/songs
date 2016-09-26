@@ -13,7 +13,7 @@ A man was peddling blonde-haired dolls
 Walking by I heard him say
 
 <div class="chorus">
-	China aa gaya hai  
+	China aa gaya hai<br/>
 	China chah gaya hai
 </div>
 
@@ -46,12 +46,12 @@ I was conquered then, Lahore
 </div>
 
 <div class="chords">
-	Am/G
-
-	Am
-	F
-	G/Am/G
-
-	C/F/F/C/G
+	Am/G<br/>
+	<br/>
+	Am<br/>
+	F<br/>
+	G/Am/G<br/>
+	<br/>
+	C/F/F/C/G<br/>
 	C/F/F/C/G
 </div>

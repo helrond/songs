@@ -41,8 +41,9 @@ Or have I started anew
 I wanted to tell you that changes may come and go but I'm going too
 
 <div class="chords">
-C/Am/G/F/C/G/C  
-C/Am/G/F/C/G/C  
-F/G/C  
-F/G/C step down Am  
-C/Am/G/F/C/G/C</div>
+  C/Am/G/F/C/G/C<br/>
+  C/Am/G/F/C/G/C<br/>
+  F/G/C<br/>
+  F/G/C step down Am<br/>
+  C/Am/G/F/C/G/C
+</div>

@@ -9,9 +9,11 @@ One word I did not understand
 And your laughter cut me off right at the knees  
 Laid me out to die on the sand
 
-<div class="chorus">So I built myself a tower  
-And I climbed up to the top  
-But it all came tumbling down</div>
+<div class="chorus">
+  So I built myself a tower<br/>
+  And I climbed up to the top<br/>
+  But it all came tumbling down
+</div>
 
 And we are locked inside our walls  
 And we look out our own windows  

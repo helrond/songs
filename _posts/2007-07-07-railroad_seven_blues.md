@@ -33,12 +33,15 @@ This train is no good for anyone
 This train is no good for anyone  
 It will run you down and wreck your mind, take all your money and your time  
 This train is no good for anyone
-<div class="chords">VERSE:  
-C  
-F/G7  
-C/F  
-C/G/C  
 
-BRIDGE:  
-C/F  
-C/G/C</div>
+<div class="chords">
+  VERSE:<br />
+  C<br />
+  F/G7<br />
+  C/F<br />
+  C/G/C<br />
+  <br />
+  BRIDGE:<br />
+  C/F<br />
+  C/G/C
+</div>

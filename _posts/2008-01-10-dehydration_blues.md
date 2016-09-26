@@ -27,8 +27,11 @@ There's a flood coming soon
 It will run through your worn out shoes  
 Wash away your dehydration blues  
 Wash away your dehydration blues
-<div class="chords">Am/G/Am  
-C/G/Am  
-C/G/F/E  
-Am/G/Am  
-Am/G/Am</div>
+
+<div class="chords">
+  Am/G/Am<br />
+  C/G/Am<br />
+  C/G/F/E<br />
+  Am/G/Am<br />
+  Am/G/Am
+</div>

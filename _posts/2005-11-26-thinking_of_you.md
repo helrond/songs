@@ -20,7 +20,8 @@ But you can find me here doing what I do best
 Sitting and thinking of you
 
 <div class="chords">
-C/G/Am  
-F/G  
-G7/C/Am  
-F/G/C</div>
+  C/G/Am<br/>
+  F/G<br/>
+  G7/C/Am<br/>
+  F/G/C
+</div>

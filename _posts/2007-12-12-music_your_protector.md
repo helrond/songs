@@ -16,10 +16,12 @@ But the bishops and counts are trembling in fear
 Thinking of a time when these walls will disappear  
 When time stood still
 
-<div class="chorus">There'll be blood on the altar; they'll be dancing on drums  
-There will be no more mysteries, only angry songs  
-In the dancing of the spheres find the dissonant strains  
-Make music your protector; take fire as your friend</div>
+<div class="chorus">
+  There'll be blood on the altar; they'll be dancing on drums<br />
+  There will be no more mysteries, only angry songs<br />
+  In the dancing of the spheres find the dissonant strains<br />
+  Make music your protector; take fire as your friend
+</div>
 
 Poverty it breeds with fear  
 The carnival takes to the city streets  
@@ -36,15 +38,18 @@ And dreaming of justice not fantasy
 When time stood still
 
 <div class="chorus">CHORUS</div>
-<div class="chords">VERSE:  
-Am/Em  
-G/F  
-Am/Em  
-F/G  
-C/G/C  
 
-CHORUS:  
-F/C/Am/G  
-F/C/Am/G  
-Am/G/F/G  
-F/G/F/G/C</div>
+<div class="chords">
+  VERSE:<br />
+  Am/Em<br />
+  G/F<br />
+  Am/Em<br />
+  F/G<br />
+  C/G/C<br />
+  <br />
+  CHORUS:<br />
+  F/C/Am/G<br />
+  F/C/Am/G<br />
+  Am/G/F/G<br />
+  F/G/F/G/C
+</div>

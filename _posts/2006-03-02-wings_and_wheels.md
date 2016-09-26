@@ -25,7 +25,8 @@ Dream out loud, let the universe resound
 Dream out loud, tell the world that this is holy ground
 
 <div class="chords">
-D/G/A/D/A  
-D/G/A  
-G/A/D/A/G  
-G/A/D/A/G/A</div>
+  D/G/A/D/A<br/>
+  D/G/A<br/>
+  G/A/D/A/G<br/>
+  G/A/D/A/G/A
+</div>

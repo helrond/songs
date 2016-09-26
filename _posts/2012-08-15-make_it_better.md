@@ -4,9 +4,11 @@ date: 2012-08-15
 layout: song
 categories: incomplete
 ---
-<div class="chorus">Make it up  
-Make it over  
-Make it better</div>
+<div class="chorus">
+  Make it up<br/>
+  Make it over<br/>
+  Make it better
+</div>
 
 When I first looked at the pieces  
 All I could see were my mistakes  

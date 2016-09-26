@@ -31,9 +31,12 @@ With no grounds for confidence
 What could I do  
 What could I do  
 I have no defense
-<div class="chords">C/Am  
-G/F  
-C/G  
-C/Am  
-G/Am  
-F/Dm/G</div>
+
+<div class="chords">
+  C/Am<br />
+  G/F<br />
+  C/G<br />
+  C/Am<br />
+  G/Am<br />
+  F/Dm/G
+</div>

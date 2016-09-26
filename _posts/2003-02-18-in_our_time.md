@@ -20,5 +20,6 @@ The battle cries ring hollow though I have the will to fight in our time, in our
 I've seen a wheel in a wheel, I've seen the Valley of Dry Bones but these are times I can't tell wrong from right
 
 <div class="chords">
-Capo II  
-G/D/Em/D/G</div>
+  Capo II<br/>
+  G/D/Em/D/G
+</div>

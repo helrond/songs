@@ -46,7 +46,8 @@ She said to watch I don't fall into enemy hands
 But I am occupied territory  
 
 <div class="chords">
-F/C  
-G/C  
-C/Am/F/C  
-C/G/C</div>
+  F/C<br/>
+  G/C<br/>
+  C/Am/F/C<br/>
+  C/G/C
+</div>

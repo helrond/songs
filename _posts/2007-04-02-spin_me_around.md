@@ -9,8 +9,10 @@ The mirror in the hallway, a broken telephone
 Where all of the absence and misplaced intentions don't seem too much to hold  
 Silence is a place and you go there alone
 
-<div class="chorus">Spin me around drop that needle down  
-You've got to find a way to say what you've got to say</div>
+<div class="chorus">
+  Spin me around drop that needle down<br/>
+  You've got to find a way to say what you've got to say
+</div>
 
 Silence is a place where you go when there's nowhere else  
 The drawbridge to your refuge, the last line of defense  
@@ -27,9 +29,10 @@ Silence is a place and you go there in love
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-D/A/Bm/G/A  
-D/A/Bm/G/A  
-G/A/D/A/Bm  
-G/A/Bm/G/D/A/D  
-
-G/D/A</div>
+  D/A/Bm/G/A<br/>
+  D/A/Bm/G/A<br/>
+  G/A/D/A/Bm<br/>
+  G/A/Bm/G/D/A/D<br/>
+  <br/>
+  G/D/A
+</div>

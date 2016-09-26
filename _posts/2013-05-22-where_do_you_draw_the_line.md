@@ -4,10 +4,12 @@ date: 2013-05-22
 layout: song
 categories: incomplete
 ---
-<div class="chorus">Where do you draw the line  
-In the bonds of blood or the arms of crime  
-Where do you draw the line  
-On the cross, the crescent or the hills of time</div>
+<div class="chorus">
+  Where do you draw the line<br/>
+  In the bonds of blood or the arms of crime<br/>
+  Where do you draw the line<br/>
+  On the cross, the crescent or the hills of time
+</div>
 
 bottom line
 
@@ -23,9 +25,9 @@ That you can carry everything
 But let noone else set the limits  
 To your circles of affection
 
-
-<div class="chords">G/Em/G  
-C/D  
-G/Em/G  
-C/D/G
+<div class="chords">
+  G/Em/G<br/>
+  C/D<br/>
+  G/Em/G<br/>
+  C/D/G
 </div>

@@ -26,7 +26,9 @@ I drifted further from the shore no matter how hard I rowed
 Wishing I could walk on water, know how full my nets might be  
 I was in the desert, but I thought I was on the sea
 
-<div class="chords">C/Am/G/C  
-Am/C/F/G  
-Am/C/F/G  
-C/Am/G/C</div>
+<div class="chords">
+  C/Am/G/C<br/>
+  Am/C/F/G<br/>
+  Am/C/F/G<br/>
+  C/Am/G/C
+</div>

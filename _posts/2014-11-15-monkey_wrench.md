@@ -14,10 +14,12 @@ And you're bound to shoot down everything that moves
 You've got ammunition, you know it can't be done  
 Things will only get worse and not improve
 
-<div class="chorus">Let's not blame it on the time before  
-Let's not wrack our brains for one more  
-Remote possiblity or the wildest thing we could conceive  
-Let's not talk about the monkey wrench no more</div>
+<div class="chorus">
+  Let's not blame it on the time before<br/>
+  Let's not wrack our brains for one more<br/>
+  Remote possiblity or the wildest thing we could conceive<br/>
+  Let's not talk about the monkey wrench no more
+</div>
 
 You go tearing buildings down, you make it hard to get around  
 In between the rubble and the noise  
@@ -25,12 +27,15 @@ And everything looks like a nail to the hammer of your brain
 Nothing could ever be enjoyed
 
 <div class="chorus">CHORUS</div>
-<div class="chords">G/C/G  
-G/D  
-G/C/G  
-G/D/G  
 
-G/D/C/C/D  
-G/D/C/C/D  
-G/D/Em/C  
-G/D/G/C/G</div>
+<div class="chords">
+  G/C/G<br/>
+  G/D<br/>
+  G/C/G<br/>
+  G/D/G<br/>
+  <br/>
+  G/D/C/C/D<br/>
+  G/D/C/C/D<br/>
+  G/D/Em/C<br/>
+  G/D/G/C/G
+</div>

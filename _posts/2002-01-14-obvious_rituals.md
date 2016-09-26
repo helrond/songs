@@ -14,10 +14,12 @@ They lied and they said you could stop when you wanted but I know you haven't a 
 The bastards they said there was money in dreams and it was yours to be had  
 But you took the bait, hook, line and sinker and now you can't go back
 
-<div class="chorus">It's not like it was before  
-It's not like heaven at all  
-It's not like it was before  
-It's not like heaven will fall</div>
+<div class="chorus">
+  It's not like it was before<br/>
+  It's not like heaven at all<br/>
+  It's not like it was before<br/>
+  It's not like heaven will fall
+</div>
 
 I've heard that your condition advanced and you cannot be saved  
 I got nothing but reasonable suspicion of those who say they're for you babe  
@@ -26,18 +28,22 @@ Believe but take full precaution that your faith decrease
 
 <div class="chorus">CHORUS</div>
 
-<div class="chorus">And one man's desert is another man's well  
-One man's heaven is another man's hell</div>
+<div class="chorus">
+  And one man's desert is another man's well<br/>
+  One man's heaven is another man's hell
+</div>
 
 I heard you at my back door last night begging for a hit  
 If you're looking for America I think this isn't it  
 And this isn't London or Paris France and this isn't Kalamazoo  
 It's not what you wanted it's not what you need but you're going to have to make do
 
-<div class="chorus">CHORUS
-
-Blood is thicker than water oil is thicker than blood  
-Clouds turn into rain rain turns dirt to mud</div>
+<div class="chorus">
+  CHORUS<br/>
+  <br/>
+  Blood is thicker than water oil is thicker than blood<br/>
+  Clouds turn into rain rain turns dirt to mud
+</div>
 
 You sit like a board in the corner with nothing to say  
 You act like you can't hear me talk but your lips are turning gray  
@@ -49,6 +55,7 @@ But you're about to hit rock bottom and you won't bounce my friend
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-VERSE: Dm/Am/E/Am  
-CHORUS: C/Am/F/G  
-BRIDGE: Am/G/F/E</div>
+  VERSE: Dm/Am/E/Am<br/>
+  CHORUS: C/Am/F/G<br/>
+  BRIDGE: Am/G/F/E
+</div>

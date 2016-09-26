@@ -9,10 +9,12 @@ And stones are everywhere for angry hands
 They're feeding the lions to the Christians this time  
 And the gates of Eden have been closed to man  
 
-<div class="chorus">We bear witness when we are sleeping  
-We bear witness with every waking thought  
-We bear witness and though I am not my father's son  
-We bear witness to the works of our God</div>
+<div class="chorus">
+  We bear witness when we are sleeping<br/>
+  We bear witness with every waking thought<br/>
+  We bear witness and though I am not my father's son<br/>
+  We bear witness to the works of our God
+</div>
 
 Hanoi Jane tells me there's nothing left to lose  
 Principle in trade for capital  
@@ -29,10 +31,11 @@ And if you hear the word you are mine
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/C/D/G  
-C/D/G  
-
-G/C/G  
-G/C/D  
-G/D/G/Em  
-G/D/G</div>
+  G/C/D/G<br/>
+  C/D/G<br/>
+  <br/>
+  G/C/G<br/>
+  G/C/D<br/>
+  G/D/G/Em<br/>
+  G/D/G
+</div>

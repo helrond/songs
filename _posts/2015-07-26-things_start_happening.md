@@ -15,9 +15,9 @@ A print from a foot from an ape
 An enigma, a legend, a fake
 
 <div class="chorus">
-	What did you see, what did you see  
-	When did things start happening  
-	What did you see, could it be  
+	What did you see, what did you see<br/>
+	When did things start happening<br/>
+	What did you see, could it be<br/>
 	You were just imagining
 </div>
 
@@ -32,11 +32,11 @@ The bullet, the badge and the gun
 An accident or the norm
 
 <div class="chords">
-	C/F/G  
-
-	C/G/C  
-	F/C  
-
-	C/Am/G  
+	C/F/G<br/>
+	<br/>
+	C/G/C<br/>
+	F/C<br/>
+	<br/>
+	C/Am/G<br/>
 	F/G/C
 </div>

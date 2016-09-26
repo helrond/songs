@@ -30,6 +30,6 @@ I've heard this one before, it goes ABC
 It's the same fucking song, in a slightly different key
 
 <div class="chords">
-G/C  
-D/G  
+  G/C<br/>
+  D/G<br/>
 </div>

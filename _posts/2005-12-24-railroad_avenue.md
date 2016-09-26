@@ -13,9 +13,11 @@ That the captains of industry heard every word
 But I've been busted and battered man, I have been abused  
 I'm mystified and confused  
 
-<div class="chorus">So I asked him who devised this game, who shot the sheriff, who was to blame  
-He said what you have heard is true they'll crucify you  
-On Railroad Avenue</div>
+<div class="chorus">
+  So I asked him who devised this game, who shot the sheriff, who was to blame<br/>
+  He said what you have heard is true they'll crucify you<br/>
+  On Railroad Avenue
+</div>
 
 She was thinking of the captain as she put on her face  
 But Smiling Jenny knew the admiral was lying in wait  
@@ -26,9 +28,11 @@ Said I to Jenny, I don't like the way you grin
 Oh sonny boy you've got a lot to learn  
 She said while my conscience burned
 
-<div class="chorus">How high's the water, momma, where is the past, well it's five feet high and rising fast  
-Say one more word my boy and they will bury you  
-On Railroad Avenue</div>
+<div class="chorus">
+  How high's the water, momma, where is the past, well it's five feet high and rising fast<br/>
+  Say one more word my boy and they will bury you<br/>
+  On Railroad Avenue
+</div>
 
 Mother Mary, said the ladybug, I'm flying from home  
 There's a coroner's convention down in San Antone  
@@ -40,16 +44,19 @@ Said the train conductor as he walked away
 Who's that stirring who's in my bed  
 I thought you were cold and dead
 
-<div class="chorus">Call me the jester, call me the maid, call John Henry back from the grave  
-You can find all that you need but not one single grain of truth  
-On Railroad Avenue  
-Call me a liar, call me a fool, a double agent, the hope of youth  
-You could get picked up, t-boned, curled, turn black and blue  
-On Railroad Avenue</div>
+<div class="chorus">
+  Call me the jester, call me the maid, call John Henry back from the grave<br/>
+  You can find all that you need but not one single grain of truth<br/>
+  On Railroad Avenue<br/>
+  Call me a liar, call me a fool, a double agent, the hope of youth<br/>
+  You could get picked up, t-boned, curled, turn black and blue<br/>
+  On Railroad Avenue
+</div>
 
 <div class="chords">
-Am/C  
-G/F  
-Riff: g-e-g--e-d-c--  
-
-C/G/F/G</div>
+  Am/C<br/>
+  G/F<br/>
+  Riff: g-e-g--e-d-c--<br/>
+  <br/>
+  C/G/F/G
+</div>

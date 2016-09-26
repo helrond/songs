@@ -7,10 +7,12 @@ categories: incomplete
 Silence reigns in the beauty parlor  
 Rusting Russian tanks and empty American shells
 
-<div class="chorus">Cash in Kabul (You know where we're at man)  
-Cash in Kabul (All day long)  
-Cash in Kabul (I just want the facts man)  
-Cash in Kabul (All night long)</div>
+<div class="chorus">
+  Cash in Kabul (You know where we're at man)<br />
+  Cash in Kabul (All day long)<br />
+  Cash in Kabul (I just want the facts man)<br />
+  Cash in Kabul (All night long)
+</div>
 
 And I walked in holding my guidebook
 

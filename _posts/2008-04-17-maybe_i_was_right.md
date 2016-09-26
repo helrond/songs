@@ -9,10 +9,12 @@ But in two years I'll be gone
 And maybe all the places I've been to  
 Only served to bring me here
 
-<div class="chorus">Maybe I was right  
-Maybe I was right  
-Maybe I was right  
-I was wrong</div>
+<div class="chorus">
+  Maybe I was right<br />
+  Maybe I was right<br />
+  Maybe I was right<br />
+  I was wrong
+</div>
 
 Maybe all the things that I have lost  
 Make room for the new  
@@ -36,7 +38,9 @@ Remember something else
 
 Mistakes I knew better than to make
 
-<div class="chords">C/Am  
-F/Dm  
-
-C/Am/C/G</div>
+<div class="chords">
+  C/Am<br />
+  F/Dm<br />
+  <br />
+  C/Am/C/G
+</div>

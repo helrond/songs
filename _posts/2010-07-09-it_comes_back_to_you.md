@@ -9,10 +9,12 @@ And bought a cup of coffee, light and sweet
 I thought about the traces of my traveling  
 About spending what was given to me
 
-<div class="chorus">Every word you've left unspoken  
-All you've bent and all you've broken  
-Everything you've forgotten to do  
-It comes back to you</div>
+<div class="chorus">
+  Every word you've left unspoken<br/>
+  All you've bent and all you've broken<br/>
+  Everything you've forgotten to do<br/>
+  It comes back to you
+</div>
 
 He must have known how it would end  
 For smashing people's gods is not a way of making friends  
@@ -35,12 +37,14 @@ What I've given will come back in a song
 
 <div class="chorus">CHORUS</div>
 
-<div class="chords">C/F/C  
-Am/C/Am/G  
-F/C/F  
-C/F/G  
-
-F/G/C  
-F/C/G  
-F/G/C/Am  
-F/G/C</div>
+<div class="chords">
+  C/F/C<br/>
+  Am/C/Am/G<br/>
+  F/C/F<br/>
+  C/F/G<br/>
+  <br/>
+  F/G/C<br/>
+  F/C/G<br/>
+  F/G/C/Am<br/>
+  F/G/C
+</div>

@@ -9,10 +9,12 @@ I know tomorrow's never far away
 I know the skies are blue in Boston  
 But New York City is cold and gray
 
-<div class="chorus">I know it's true (fact is stranger than fiction)  
-I know it's true (the amazing things I've heard)  
-I know it's true (we have exceeded all prediction)  
-I know it's true (this is a beautiful world)</div>
+<div class="chorus">
+  I know it's true (fact is stranger than fiction)<br/>
+  I know it's true (the amazing things I've heard)<br/>
+  I know it's true (we have exceeded all prediction)<br/>
+  I know it's true (this is a beautiful world)
+</div>
 
 I know I'm going to quit this drinking  
 I know my life is going to make some sense

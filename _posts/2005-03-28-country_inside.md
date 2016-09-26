@@ -9,10 +9,12 @@ Their roots against the concrete; something's got to give
 Standing in the doorway the sky opens wide  
 Outside is the city but I got country inside  
 
-<div class="chorus">Writing country songs is easy; you don't need a cheating heart  
-A gal who's gone and left you, a dog that's up and died  
-A truck that won't turn over, a horse running wild  
-Writing country songs is easy when you've got country inside</div>
+<div class="chorus">
+  Writing country songs is easy; you don't need a cheating heart<br/>
+  A gal who's gone and left you, a dog that's up and died<br/>
+  A truck that won't turn over, a horse running wild<br/>
+  Writing country songs is easy when you've got country inside
+</div>
 
 There's a dog outside the deli staring at the door  
 And I wonder who that someone is that he is waiting for  
@@ -29,12 +31,13 @@ I'm wishing I had more than the country inside
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/D/Em/C/G  
-G/D/Em/A7/D  
-C/G/C/G  
-C/G/C/D/G  
-
-C/G/C/G  
-G/D/Em/A7/D  
-C/G/C/G  
-G/D/Em/C/D/G</div>
+  G/D/Em/C/G<br/>
+  G/D/Em/A7/D<br/>
+  C/G/C/G<br/>
+  C/G/C/D/G<br/>
+  <br/>
+  C/G/C/G<br/>
+  G/D/Em/A7/D<br/>
+  C/G/C/G<br/>
+  G/D/Em/C/D/G
+</div>

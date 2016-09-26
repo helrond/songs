@@ -9,10 +9,12 @@ You will pass two pillars of salt that once were man and wife
 Flee from the ashes right into the mouth of the whale  
 Run from the voices that tell you what is good and what is real
 
-<div class="chorus">Run run run for your life  
-Even Mercury's wings won't save you now  
-Run run run for your life  
-As fast as you can to the heart of the night</div>
+<div class="chorus">
+  Run run run for your life<br/>
+  Even Mercury's wings won't save you now<br/>
+  Run run run for your life<br/>
+  As fast as you can to the heart of the night
+</div>
 
 Flee the beasts that tear your flesh rend you limb from limb  
 Tell me who your devil is tell me you're not him  
@@ -29,13 +31,14 @@ Go and ask the President to call in the troops
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-VERSE:  
---------  
---------  
--------- Am/G/Am  
-------0-  
---0h3---  
-
-CHORUS:  
-Am/G/Am  
-C/G/Am</div>
+  VERSE:<br/>
+  --------<br/>
+  --------<br/>
+  -------- Am/G/Am<br/>
+  ------0-<br/>
+  --0h3---<br/>
+  <br/>
+  CHORUS:<br/>
+  Am/G/Am<br/>
+  C/G/Am
+</div>

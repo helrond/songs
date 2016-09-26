@@ -9,10 +9,12 @@ As if the only cause worth fighting for is my own private life
 As if I could say that walking away is just acting polite  
 As if you were wrong and I was right
 
-<div class="chorus">I've been losing faith in the things that carry me  
-Losing my hope in the unseen  
-Losing love for my leaders but I still believe  
-In the size of infinity</div>
+<div class="chorus">
+  I've been losing faith in the things that carry me<br/>
+  Losing my hope in the unseen<br/>
+  Losing love for my leaders but I still believe<br/>
+  In the size of infinity
+</div>
 
 As if I could say things would be different with a change in regime  
 As if I could further both a compromise and my integrity  
@@ -29,12 +31,13 @@ As if I was in and you were out
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/D/Em/C/G/D/G  
-G/D/Em/C/G/D/G  
-C/D/G/C/Em  
-C/D/C/G  
-
-C/G  
-D/G  
-C/G  
-D/C/G</div>
+  G/D/Em/C/G/D/G<br/>
+  G/D/Em/C/G/D/G<br/>
+  C/D/G/C/Em<br/>
+  C/D/C/G<br/>
+  <br/>
+  C/G<br/>
+  D/G<br/>
+  C/G<br/>
+  D/C/G
+</div>

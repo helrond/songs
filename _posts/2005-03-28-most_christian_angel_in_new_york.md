@@ -9,10 +9,12 @@ I've done my share of drinking, drugging and screwing but not enough to send me 
 Pour the next round and I'll tell you another of the things I have seen in this town  
 And running around trying to keep out the devil has run me right into the ground
 
-<div class="chorus">Lift me up I am tired, I am weary  
-I am weak I am worn  
-Lift me up it is not easy  
-Being the most Christian angel in New York</div>
+<div class="chorus">
+  Lift me up I am tired, I am weary<br/>
+  I am weak I am worn<br/>
+  Lift me up it is not easy<br/>
+  Being the most Christian angel in New York
+</div>
 
 I'm not saying I am holy and righteous, but I have done better than most  
 Fronting my punk band - you might have seen us - called the Heavenly Host  
@@ -29,6 +31,7 @@ Take your complaints to the upstairs office; don't blame me, I just work here
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/D/C/D/G  
-
-C/G/D/G</div>
+  G/D/C/D/G<br/>
+  <br/>
+  C/G/D/G
+</div>

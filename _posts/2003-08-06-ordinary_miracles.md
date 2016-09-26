@@ -20,10 +20,11 @@ From the mouth of God in the heavens comes the words of a child
 I have spoken of visions at hand I've been baptized by desire
 
 <div class="chords">
-Intro:  
-C/G/Am/G/F/G/C  
-
-Verses:  
-C/G/Am/F/C/G/C  
-Am/G/F/G   
-C/G/Am/F/C/G/C</div>
+  Intro:<br/>
+  C/G/Am/G/F/G/C<br/>
+  <br/>
+  Verses:<br/>
+  C/G/Am/F/C/G/C<br/>
+  Am/G/F/G<br/>
+  C/G/Am/F/C/G/C
+</div>

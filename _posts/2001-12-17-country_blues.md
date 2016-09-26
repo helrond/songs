@@ -26,6 +26,7 @@ Billy joined the army, had a baby, went off to die in the war
 We all say he can sin no more
 
 <div class="chords">
-G/A/C/G  
-G/A/C/G  
-A/C/G</div>
+  G/A/C/G<br/>
+  G/A/C/G<br/>
+  A/C/G
+</div>

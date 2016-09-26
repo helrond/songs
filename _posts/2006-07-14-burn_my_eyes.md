@@ -30,7 +30,8 @@ And the power past all knowing clothed in sacrifice
 Break my heart with holy wisdom let me long for you again
 
 <div class="chords">
-E/A/E/B  
-E/A/E/B/E  
-A/E/B  
-E/A/E/B/E</div>
+  E/A/E/B<br/>
+  E/A/E/B/E<br/>
+  A/E/B<br/>
+  E/A/E/B/E
+</div>

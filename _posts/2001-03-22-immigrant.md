@@ -25,7 +25,8 @@ Five hundred miles out of Newark many more to come
 The place I am going is not my home
 
 <div class="chords">
-G / C / Am / D  
-G / C / Am / D  
-Em / G / C / D  
-Em / G / C / D</div>
+G/C/Am/D<br/>
+G/C/Am/D<br/>
+Em/G/C/D<br/>
+Em/G/C/D
+</div>

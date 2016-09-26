@@ -24,6 +24,8 @@ I work in a refrigerator, I am your ice box man
 I work in a refrigerator, I am an ice box man  
 When I touch you honey, can't even feel my hands
 
-<div class="chords">E  
-A/E  
-B/A/E</div>
+<div class="chords">
+  E<br/>
+  A/E<br/>
+  B/A/E
+</div>

@@ -5,6 +5,7 @@ layout: song
 categories: finished
 ---
 <div class="notes">Words by Dan Vaccaro, music by Hillel Arnold</div>
+
 Dreaming  
 I think I am dreaming again  
 I see a house, paint chipped and multicolored  
@@ -40,12 +41,13 @@ One by one, this house
 and then beyond
 
 <div class="chords">
-Em/C/G/D  
-Em/D  
-
--0-x---3-2--0---  
--2-x-------h2---  
--2-x-------h2---   
--0-x--------0---   
--0-x--------0---  
--0-x--------0---</div>
+  Em/C/G/D<br/>
+  Em/D<br/>
+  <br/>
+  -0-x---3-2--0---<br/>
+  -2-x-------h2---<br/>
+  -2-x-------h2---<br/>
+  -0-x--------0---<br/>
+  -0-x--------0---<br/>
+  -0-x--------0---
+</div>

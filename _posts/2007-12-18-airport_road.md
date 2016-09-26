@@ -9,10 +9,12 @@ At ninety miles per hour
 Tumbleweeds blow down ambush alley  
 And it will blow your confidence down
 
-<div class="chorus">Airport Road you stole my brother  
-Airport Road you took my friend  
-You say take it easy but you do not deceive me  
-I am not going back there again</div>
+<div class="chorus">
+  Airport Road you stole my brother<br />
+  Airport Road you took my friend<br />
+  You say take it easy but you do not deceive me<br />
+  I am not going back there again
+</div>
 
 Out on the highway just past midnight  
 The asphalt is cold as hell  

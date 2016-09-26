@@ -23,7 +23,10 @@ On the road my friend
 On the road my friend  
 You'll find heaven around every bend  
 On the road my friend
-<div class="chords">C/G/Am  
-F/G/C  
-F/G/C/Am  
-F/G/C</div>
+
+<div class="chords">
+  C/G/Am<br />
+  F/G/C<br />
+  F/G/C/Am<br />
+  F/G/C
+</div>

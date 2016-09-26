@@ -14,10 +14,12 @@ As Yankee as they come
 But when he made it down to Birmingham  
 He finally felt at home
 
-<div class="chorus">North and South  
-Breathe it in, let it out  
-North and South  
-I could never leave you now</div>
+<div class="chorus">
+  North and South<br />
+  Breathe it in, let it out<br />
+  North and South<br />
+  I could never leave you now
+</div>
 
 He was always out of rhythm  
 With those big city ways  
@@ -37,13 +39,15 @@ And I was home free, I had your country
 Locked in my sights
 
 <div class="chorus">CHORUS</div>
-<div class="chords">
-G/G7  
-C/D  
-G/C/G/C  
-G/D/G  
 
-C/D  
-G/D/Em  
-C/D  
-G/D/Em/C/G/D/G</div>
+<div class="chords">
+  G/G7<br />
+  C/D<br />
+  G/C/G/C<br />
+  G/D/G<br />
+  <br />
+  C/D<br />
+  G/D/Em<br />
+  C/D<br />
+  G/D/Em/C/G/D/G
+</div>

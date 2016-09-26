@@ -9,10 +9,12 @@ Because I'd bleed for you while I still can
 Because I'm a fool for chemistry  
 Because of you that's why gravity
 
-<div class="chorus">I know there are few heavenly bodies left  
-And apples on the tree  
-I'd settle for an asteroid  
-Or gravity</div>
+<div class="chorus">
+  I know there are few heavenly bodies left<br/>
+  And apples on the tree<br/>
+  I'd settle for an asteroid<br/>
+  Or gravity
+</div>
 
 Because trees grow up and rain falls down  
 Because I knew I was falling before I hit the ground  
@@ -36,7 +38,8 @@ Because of you that's why gravity
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/G/Am/G  
-
-F/G/C/Am  
-F/G/C</div>
+  C/G/Am/G<br/>
+  <br/>
+  F/G/C/Am<br/>
+  F/G/C
+</div>

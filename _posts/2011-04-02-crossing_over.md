@@ -11,9 +11,11 @@ And they'll leave you burning there after watching the crash
 But if you wait for the right moment, guard the throttle, grease the joints  
 You'll be crossing over at the switching point
 
-<div class="chorus">Keep your hand on the throttle  
-Pay with patience for time  
-And you will cross over easy to another line</div>
+<div class="chorus">
+  Keep your hand on the throttle<br/>
+  Pay with patience for time<br/>
+  And you will cross over easy to another line
+</div>
 
 Find someone to sing to
 

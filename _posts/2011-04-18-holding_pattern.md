@@ -10,10 +10,11 @@ Maintaining altitude until I run out of fuel
 I can only wait on that call
 
 <div class="chorus">
-And he says hold on  
-Just a little longer son  
-We'll get you safely down, just take another turn around  
-There is a right way for things to be done</div>
+  And he says hold on<br/>
+  Just a little longer son<br/>
+  We'll get you safely down, just take another turn around<br/>
+  There is a right way for things to be done
+</div>
 
 I've grown tired as hell waiting for that call  
 But I can't sleep because I'm waiting for that call  
@@ -30,12 +31,13 @@ Take another swing around and wait on that call
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/F/C  
-F/E  
-F/C/Am  
-F/G  
-
-Am/C  
-Am/G  
-Am/C/Am  
-F/G</div>
+  C/F/C<br/>
+  F/E<br/>
+  F/C/Am<br/>
+  F/G<br/>
+  <br/>
+  Am/C<br/>
+  Am/G<br/>
+  Am/C/Am<br/>
+  F/G
+</div>

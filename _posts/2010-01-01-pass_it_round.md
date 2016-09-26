@@ -9,10 +9,12 @@ Don't leave anything useful lying round
 And whatever you can spend is enough to get you in  
 To keep everything going round
 
-<div class="chorus">Pass it round, pass it round  
-There's so many empty bottles in this town  
-If you know how to fix what's broke, if you can pay more than you owe  
-And what you want to receive, pass it round</div>
+<div class="chorus">
+  Pass it round, pass it round<br/>
+  There's so many empty bottles in this town<br/>
+  If you know how to fix what's broke, if you can pay more than you owe<br/>
+  And what you want to receive, pass it round
+</div>
 
 Paying for your share
 

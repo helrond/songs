@@ -26,7 +26,8 @@ And none of this, none of this, none of this
 Will bring me down
 
 <div class="chords">
-C/Am/F/G  
-C/Am/F/G  
-Dm/G/Dm/G/Dm/F  
-G/C/F</div>
+  C/Am/F/G<br/>
+  C/Am/F/G<br/>
+  Dm/G/Dm/G/Dm/F<br/>
+  G/C/F
+</div>

@@ -15,9 +15,9 @@ Learned to take on my expenses
 And take off my shoes
 
 <div class="chorus">
-	Let's throw it against the wall, see if it will fall  
-	See how much more we can take  
-	Let's give it all away, pyaar honay dey  
+	Let's throw it against the wall, see if it will fall<br/>
+	See how much more we can take<br/>
+	Let's give it all away, pyaar honay dey<br/>
 	Just let it happen and see what it will make
 </div>
 
@@ -40,10 +40,10 @@ Someone to make a move
 another verse here  
 
 <div class="chords">
-	Em/G/D/Em  
-
-	Em/G/D/G/C  
-	G/C/D  
-	Em/G/D/G/C  
+	Em/G/D/Em<br/>
+	<br/>
+	Em/G/D/G/C<br/>
+	G/C/D<br/>
+	Em/G/D/G/C<br/>
 	G/C/G
 </div>

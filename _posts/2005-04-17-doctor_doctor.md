@@ -21,8 +21,9 @@ Doctor doctor won't you tell me please
 The worst of my addictions is that I am addicted at all
 
 <div class="chords">
-A/B / A/B / A/B / A/B / F#  (x2)  
-E/F#/B/E  
-A/F#/B  
-E/F#/B/E  
-E/F#</div>
+  A/B / A/B / A/B / A/B / F#  (x2)<br/>
+  E/F#/B/E<br/>
+  A/F#/B<br/>
+  E/F#/B/E<br/>
+  E/F#
+</div>

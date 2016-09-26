@@ -16,10 +16,12 @@ On my new flat screen tv.
 I'm payin fewer taxes now,  
 So I bought a big ol' SUV.
 
-<div class="chorus">Freedom freedom blah blah blah  
-Freedom blah freedom blah freedom blah blah  
-Blah freedom blah freedom freedom blah blah  
-Freedom freedom freedom freedom blah blah blah</div>
+<div class="chorus">
+  Freedom freedom blah blah blah<br/>
+  Freedom blah freedom blah freedom blah blah<br/>
+  Blah freedom blah freedom freedom blah blah<br/>
+  Freedom freedom freedom freedom blah blah blah
+</div>
 
 Everything is wonderful,  
 No more porn upon the tube.  
@@ -36,12 +38,13 @@ Could do the same to them security moms.
 <div class="chords">CHORUS</div>
 
 <div class="chords">
-G/C/G  
-G/D/G  
-G/C/G  
-G/D/G  
-
-C/G  
-G/D  
-G/C/G   
-G/D/G</div>
+  G/C/G<br/>
+  G/D/G<br/>
+  G/C/G<br/>
+  G/D/G<br/>
+  <br/>
+  C/G<br/>
+  G/D<br/>
+  G/C/G<br/>
+  G/D/G
+</div>

@@ -20,7 +20,8 @@ You said that things were this way forever and will be again next year
 Then you go turning wine to water and saying the end is near  
 
 <div class="chords">
-G/Em/C/G/G/D/G  
-G/Em/C/G/G/D/G  
-Em/D/C/D  
-G/Em/C/G/G/D/G</div>
+  G/Em/C/G/G/D/G<br/>
+  G/Em/C/G/G/D/G<br/>
+  Em/D/C/D<br/>
+  G/Em/C/G/G/D/G
+</div>

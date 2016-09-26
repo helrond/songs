@@ -13,10 +13,12 @@ Caught in the essence of business transaction lost in euphoric visions and deeds
 We've got what you want even though you can't tell for all of your pain, for all of your ails  
 Inside the tent the barker is shouting out come on in, we've got Jesus for sale
 
-<div class="chorus">Come on inside, come on inside  
-It's dry and warm and we're really nice  
-You'll learn to be happy and not to think twice  
-And Jesus is always at the right price</div>
+<div class="chorus">
+  Come on inside, come on inside<br/>
+  It's dry and warm and we're really nice<br/>
+  You'll learn to be happy and not to think twice<br/>
+  And Jesus is always at the right price
+</div>
 
 Now for a short time only down at Mickey D's get your very own Last Supper Happy Meal  
 Includes foot washing bowl or Holy Grail all of this for only 5.53
@@ -52,5 +54,6 @@ Don't try what Judas did, you too will fail Pick up your chips, Jesus ain't for 
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G / C / G/ G / A7 / D  
-G / C / D /G / D7 / G</div>
+  G/C/G/G/A7/D<br/>
+  G/C/D/G/D7/G
+</div>

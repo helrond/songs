@@ -9,35 +9,41 @@ And a man sits there dozing listening for the night to fall
 While across the street the Black Marias haul in the killers, pimps and vagabonds  
 Crowds will gather for a new disaster, lovers kiss and children turn to clowns
 
-<div class="chorus">Now he's been round to many places, has seen his share  
-He has taken many pictures, proving he was there  
-What could be better  
-What could be better  
-What could be better  
-Than life through the eye</div>
+<div class="chorus">
+  Now he's been round to many places, has seen his share<br />
+  He has taken many pictures, proving he was there<br />
+  What could be better<br />
+  What could be better<br />
+  What could be better<br />
+  Than life through the eye
+</div>
 
 Stalking down the darkened streets at midnight a 4x5 Speed Graphic round his neck  
 Looking for a shot, some light, an angle; the perfect murder, fire or wreck  
 Around the edge of every picture there's a darkness creeping in  
 And a subject frozen sharp and focused in unconscious language gesturing
 
-<div class="chorus">All the fire escapes and theaters, sirens and bells  
-All the headlines in the paper, bleeding what they sell
+<div class="chorus">
+  All the fire escapes and theaters, sirens and bells<br />
+  All the headlines in the paper, bleeding what they sell<br />
+  <br />
+  CHORUS<br />
+  <br />
+  He had photographs and tabloid papers like the ancient Greeks had families<br />
+  He put a signature on his creation and took a stab at immortality<br />
+  <br />
+  CHORUS
+</div>
 
-CHORUS  
-
-He had photographs and tabloid papers like the ancient Greeks had families  
-He put a signature on his creation and took a stab at immortality
-
-CHORUS</div>
-
-<div class="chords">C/G/Am/G  
-Dm/F/C/G  
-
-C/G  
-Am/G  
-
-C/F  
-C/F  
-C/F  
-Am/G</div>
+<div class="chords">
+  C/G/Am/G<br />
+  Dm/F/C/G<br />
+  <br />
+  C/G<br />
+  Am/G<br />
+  <br />
+  C/F<br />
+  C/F<br />
+  C/F<br />
+  Am/G
+</div>

@@ -14,10 +14,12 @@ There's nothing left to say
 And so she lies about her age  
 And sleeps the livelong day
 
-<div class="chorus">If the sky should fill with fire hey Angelina don't you cry  
-The tide run out the stakes run high hey Angelina don't you cry  
-The gilded cross the bloody eye hey Angelina don't you cry  
-The time has come to choose your side hey Angelina don't you cry</div>
+<div class="chorus">
+  If the sky should fill with fire hey Angelina don't you cry<br/>
+  The tide run out the stakes run high hey Angelina don't you cry<br/>
+  The gilded cross the bloody eye hey Angelina don't you cry<br/>
+  The time has come to choose your side hey Angelina don't you cry
+</div>
 
 Angelina says that she's  
 Been driven from her home  
@@ -32,6 +34,7 @@ To get up off the floor
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-A/D/A/D/A/D/E/A  
-
-A/A/D/A/E/E/C#m/A</div>
+  A/D/A/D/A/D/E/A<br/>
+  <br/>
+  A/A/D/A/E/E/C#m/A
+</div>

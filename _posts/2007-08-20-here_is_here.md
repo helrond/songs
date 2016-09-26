@@ -9,9 +9,11 @@ Her friends want to move to New York
 My sister lives in San Francisco  
 But her heart is still in El Salvador
 
-<div class="chorus">Here is here  
-And now and then  
-You've been wondering where you've been</div>
+<div class="chorus">
+  Here is here<br />
+  And now and then<br />
+  You've been wondering where you've been
+</div>
 
 My brother wants to get away from Canton  
 He doesn't care for France or Italy  
@@ -26,11 +28,14 @@ I want to wear dark sunglasses
 And drive down the Champs Elysees
 
 <div class="chorus">CHORUS</div>
-<div class="chords">G/C  
-D/G  
-G/Am  
-D/G  
 
-C/D  
-G/Em  
-C/D/G/D/G</div>
+<div class="chords">
+  G/C<br />
+  D/G<br />
+  G/Am<br />
+  D/G<br />
+  <br />
+  C/D<br />
+  G/Em<br />
+  C/D/G/D/G
+</div>

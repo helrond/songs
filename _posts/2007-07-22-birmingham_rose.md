@@ -14,10 +14,12 @@ To swing her do-si-do
 And with empty pockets, worn out shoes  
 They crawled off alone
 
-<div class="chorus">None could outsmart or claim her heart  
-Or follow the way she goes  
-None is as tender, none is as fierce  
-As my Birmingham Rose</div>
+<div class="chorus">
+  None could outsmart or claim her heart<br />
+  Or follow the way she goes<br />
+  None is as tender, none is as fierce<br />
+  As my Birmingham Rose
+</div>
 
 Grew corn and beans and babies  
 Out of that rocky ground  
@@ -39,12 +41,15 @@ As long as trees grow from these hills
 And rain falls from the sky
 
 <div class="chorus">CHORUS</div>
-<div class="chords">G/C  
-G/D  
-C/D7/G/C  
-G/D/G  
 
-G/C/G/C  
-G/D/D7  
-C/D7/G/Em  
-C/D/G</div>
+<div class="chords">
+  G/C<br />
+  G/D<br />
+  C/D7/G/C<br />
+  G/D/G<br />
+  <br />
+  G/C/G/C<br />
+  G/D/D7<br />
+  C/D7/G/Em<br />
+  C/D/G
+</div>

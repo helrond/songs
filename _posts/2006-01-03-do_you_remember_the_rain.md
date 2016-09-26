@@ -27,13 +27,14 @@ And how it broke, how hard it fell
 Do you remember the rain
 
 <div class="chords">
-C/F/G  
-Am/F/G  
-
-C/G/F  
-F/G/Am  
-F/G/C/G/Am  
-F/G  
-
-F/E/Am/G  
-F/G</div>
+  C/F/G<br/>
+  Am/F/G<br/>
+  <br/>
+  C/G/F<br/>
+  F/G/Am<br/>
+  F/G/C/G/Am<br/>
+  F/G<br/>
+  <br/>
+  F/E/Am/G<br/>
+  F/G
+</div>

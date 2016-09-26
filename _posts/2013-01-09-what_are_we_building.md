@@ -9,10 +9,12 @@ Planted flowers in the desert and called that heaven
 They let the details gather with the passage of time  
 Laid down their memories and rested their minds
 
-<div class="chorus">What are we building with the earth and the sky  
-Who will prosper, how will the prophets die  
-What is polished, what is worn  
-What are we building, who are we building for</div>
+<div class="chorus">
+  What are we building with the earth and the sky<br/>
+  Who will prosper, how will the prophets die<br/>
+  What is polished, what is worn<br/>
+  What are we building, who are we building for
+</div>
 
 There's a tree that comes to mind each time I think about forgetting  
 How it stood beside those graves with only silence as a blessing  
@@ -24,9 +26,11 @@ For time shapes every space and grains of sand hold up the ocean
 The things that we have built will go on living until they die  
 Our lives are made of moments, only moments are our lives
 
-<div class="chords">Am/C/Dm/G  
-
-F/C/G  
-F/C/G  
-F/C/Dm  
-F/G/Am</div>
+<div class="chords">
+  Am/C/Dm/G<br/>
+  <br/>
+  F/C/G<br/>
+  F/C/G<br/>
+  F/C/Dm<br/>
+  F/G/Am
+</div>

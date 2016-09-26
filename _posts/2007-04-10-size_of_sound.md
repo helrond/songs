@@ -14,11 +14,13 @@ Jumping all over Kingdom Come
 She brought this hard world right down to its knees  
 I can hear her singing now; I believe she's still singing
 
-<div class="chorus">Heard it in the thunder, heard it in the rain  
-Drift through the fences, roll across the plains  
-Hum through the airwaves and rumble underground  
-Tell me what could be (what could be)  
-What could be the size of that sound</div>
+<div class="chorus">
+  Heard it in the thunder, heard it in the rain<br/>
+  Drift through the fences, roll across the plains<br/>
+  Hum through the airwaves and rumble underground<br/>
+  Tell me what could be (what could be)<br/>
+  What could be the size of that sound
+</div>
 
 Squeezing out the hope in each half-remembered line  
 Waging war with his fingers and a whiskey-soaked mind  
@@ -40,13 +42,14 @@ I can hear him singing now; I believe he's still singing
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/Am/F/C  
-C/Am/F/G  
-Am/F/C/Am  
-G  
-
-Am/F/C/F  
-Am/F/C/G  
-Am/F/C/Am  
-C/G  
-G/C</div>
+  C/Am/F/C<br/>
+  C/Am/F/G<br/>
+  Am/F/C/Am<br/>
+  G<br/>
+  <br/>
+  Am/F/C/F<br/>
+  Am/F/C/G<br/>
+  Am/F/C/Am<br/>
+  C/G<br/>
+  G/C
+</div>

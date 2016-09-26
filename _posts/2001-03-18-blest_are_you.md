@@ -9,10 +9,12 @@ I could swim if I weren't trapped under this sea
 Maybe this desert will dry up in my dreams  
 And this song will drown out the screams
 
-<div class="chorus">Call me weak  
-Call me a fool  
-What he said was  
-Blest are you</div>
+<div class="chorus">
+  Call me weak<br/>
+  Call me a fool<br/>
+  What he said was<br/>
+  Blest are you
+</div>
 
 I had a woman down in Mexico  
 Things were hard and one day she let go  
@@ -29,5 +31,6 @@ And end these days of falling in between
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-E/F#  
-B/A/E</div>
+  E/F#<br/>
+  B/A/E
+</div>

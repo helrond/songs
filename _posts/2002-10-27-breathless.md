@@ -26,9 +26,10 @@ I tell you I'd give it all for more but I've given more for less
 If I am clay without your breath with you I am breathless
 
 <div class="chords">
-G / G/B / Em / C / D  
-G / G/B / Em / C / D  
-C / G / G/B / Em  
-C / G / G/B / Em  
-C / G / G / G/B / Em  
-C / G / D / G / D / G</div>
+  G/G/B/Em/C/D<br/>
+  G/G/B/Em/C/D<br/>
+  C/G/G/B/Em<br/>
+  C/G/G/B/Em<br/>
+  C/G/G/G/B/Em<br/>
+  C/G/D/G/D/G
+</div>

@@ -9,10 +9,12 @@ For an answer who is there to call
 Monuments and altars, what are they for  
 But fallacies waiting to fall
 
-<div class="chorus">And the people are building and the house it is strong  
-Windows pulsating with light  
-The music and laughter it goes on and on  
-In those beautiful houses through the night</div>
+<div class="chorus">
+  And the people are building and the house it is strong<br />
+  Windows pulsating with light<br />
+  The music and laughter it goes on and on<br />
+  In those beautiful houses through the night
+</div>
 
 Every farmer leaves his lines in the field  
 Geometry, chaos and time  
@@ -32,10 +34,13 @@ Only by the strength of our longing and praise
 Will Paradises be made
 
 <div class="chorus">CHORUS</div>
-<div class="chords">F/C/Am/G  
-F/C/G  
 
-Am/G/Am/G  
-Am/G/Am  
-Am/G/Am/G  
-Am/G/C</div>
+<div class="chords">
+  F/C/Am/G<br />
+  F/C/G<br />
+  <br />
+  Am/G/Am/G<br />
+  Am/G/Am<br />
+  Am/G/Am/G<br />
+  Am/G/C
+</div>

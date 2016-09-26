@@ -14,10 +14,12 @@ But you reel me in as you're turning your back
 To me and the dark side of you  
 Is something I could not possibly lack
 
-<div class="chorus">You made the best of me bring me down low  
-You made me feel I was all on my own  
-Made me a liar and broke my health  
-You made me do it all to myself</div>
+<div class="chorus">
+  You made the best of me bring me down low<br/>
+  You made me feel I was all on my own<br/>
+  Made me a liar and broke my health<br/>
+  You made me do it all to myself
+</div>
 
 Made me choose between my friends and you  
 Dressed up as responsibility

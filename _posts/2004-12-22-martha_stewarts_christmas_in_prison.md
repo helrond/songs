@@ -11,10 +11,12 @@ I had turkey and pistols carved out of wood
 I done tried some baking but it's hard without cream  
 My brands on your shelf, and my show's on your screen.
 
-<div class="chorus">Wait aw	hile for my return to TV  
-The Department of Justice has nothing on me  
-Email me, cell phone me, dump the shares now  
-I'm wheelin' and dealin' and appealin', by God</div>
+<div class="chorus">
+  Wait awhile for my return to TV<br/>
+  The Department of Justice has nothing on me<br/>
+  Email me, cell phone me, dump the shares now<br/>
+  I'm wheelin' and dealin' and appealin', by God
+</div>
 
 My website has posted a Holiday greetin'  
 So please buy my china though I won't be eatin'  
@@ -31,9 +33,10 @@ I'll probably get homesick I love you, goodnight.
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/C/G/D7  
-
-D/C/G  
-C/G/D  
-G/C  
-G/D/G</div>
+  G/C/G/D7<br/>
+  <br/>
+  D/C/G<br/>
+  C/G/D<br/>
+  G/C<br/>
+  G/D/G
+</div>

@@ -14,8 +14,9 @@ I rode as far as those wheels would let me go
 But I settled down in Kansas in those fields of waving grain  
 When I heard that whistle blowing I said here comes the train
 
-<div class="chords">G/Em/C/G  
-G/Em/A/D  
-G/Em/C/G  
-G/Em/D/G
+<div class="chords">
+  G/Em/C/G<br/>
+  G/Em/A/D<br/>
+  G/Em/C/G<br/>
+  G/Em/D/G
 </div>

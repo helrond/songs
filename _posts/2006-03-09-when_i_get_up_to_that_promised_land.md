@@ -23,7 +23,8 @@ When I get up to that Promised Land
 ...every deal will be a winning hand
 
 <div class="chords">
-G  
-G/D  
-G/C  
-G/D/G</div>
+  G<br/>
+  G/D<br/>
+  G/C<br/>
+  G/D/G
+</div>

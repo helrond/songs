@@ -30,9 +30,11 @@ And I know
 Yes I know  
 I'd do it again
 
-<div class="chords">C/Am  
-F/G  
-C/Am  
-F/G  
-Am/G  
-Am/G</div>
+<div class="chords">
+  C/Am<br/>
+  F/G<br/>
+  C/Am<br/>
+  F/G<br/>
+  Am/G<br/>
+  Am/G
+</div>

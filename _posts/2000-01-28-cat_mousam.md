@@ -11,10 +11,12 @@ You can walk to the world's end
 You can walk back home and  
 But you can't walk half a day with me
 
-<div class="chorus">And you'll never get to these convictions  
-Don't even try  
-Disprove these predictions  
-Or are you just going to die</div>
+<div class="chorus">
+  And you'll never get to these convictions<br/>
+  Don't even try<br/>
+  Disprove these predictions<br/>
+  Or are you just going to die
+</div>
 
 You can call me a criminal  
 Before I even get tried  
@@ -35,12 +37,13 @@ You don't even look like you're having fun
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-VERSE:
--5-5-5-------  
--5-5-5-------  
--5-5-5-------  
--7-5-7-------  
--7-5-7-------  
--5-5-5-0h3p0-  
-
-CHORUS: C / G / D / Am </div>
+  VERSE:<br/>
+  -5-5-5-------<br/>
+  -5-5-5-------<br/>
+  -5-5-5-------<br/>
+  -7-5-7-------<br/>
+  -7-5-7-------<br/>
+  -5-5-5-0h3p0-<br/>
+  <br/>
+  CHORUS: C/G/D/Am
+</div>

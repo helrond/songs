@@ -9,10 +9,12 @@ Searching for a new Eden
 With heaven on their minds, swords and bullets blessed  
 Destiny manifest
 
-<div class="chorus">I'm not looking for a new heaven  
-I don't need a promised land  
-Has this earth been given us to conquer  
-Do we belong to the land</div>
+<div class="chorus">
+  I'm not looking for a new heaven<br/>
+  I don't need a promised land<br/>
+  Has this earth been given us to conquer<br/>
+  Do we belong to the land
+</div>
 
 Sifting through the smoking suburbs looking for some kind of trace  
 Oh the accidents of arson and grace  
@@ -29,10 +31,11 @@ The line of barges turning back
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/G/Am/E/Am  
-F/G/C  
-
-F/G/C/Am  
-F/G/C  
-F/G/B7/Am  
-C/G/C</div>
+  C/G/Am/E/Am<br/>
+  F/G/C<br/>
+  <br/>
+  F/G/C/Am<br/>
+  F/G/C<br/>
+  F/G/B7/Am<br/>
+  C/G/C
+</div>

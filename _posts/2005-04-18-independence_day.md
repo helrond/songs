@@ -9,10 +9,12 @@ You've been lying like a thrift store suit and it don't fit you well
 You've gone and shouted wolf one too many times  
 I'll be damned if I believe this I'll be damned if he is dead
 
-<div class="chorus">I'm breaking orbit, cutting into speed  
-Gone independent of petty gravity  
-Dawn is descending, I'm abdicating dreams  
-On Independence Day</div>
+<div class="chorus">
+  I'm breaking orbit, cutting into speed<br/>
+  Gone independent of petty gravity<br/>
+  Dawn is descending, I'm abdicating dreams<br/>
+  On Independence Day
+</div>
 
 You're kings of wind and thunder and lords of the tomb  
 You'll crack the bell of freedom and blow the trump of doom  
@@ -29,12 +31,13 @@ The sun came down on a summer day but I am not deaf or blind
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/G/F/C/E/Am/G  
-C/G/F/C/E/Am  
-C/G/F/G  
-C/G/F/C/F/G/C  
-
-Am/G/Dm/G  
-Am/G/Dm/G  
-A/G/Dm/G  
-A/G</div>
+  C/G/F/C/E/Am/G<br/>
+  C/G/F/C/E/Am<br/>
+  C/G/F/G<br/>
+  C/G/F/C/F/G/C<br/>
+  <br/>
+  Am/G/Dm/G<br/>
+  Am/G/Dm/G<br/>
+  A/G/Dm/G<br/>
+  A/G
+</div>

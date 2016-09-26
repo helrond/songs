@@ -33,9 +33,10 @@ Somewhere in between the sky and the sea I am
 Diving into the clouds
 
 <div class="chords">
-D/A/G/A  
-D/G/A  
-D/A/G/A  
-Bm/E/A  
-G/A/D/A/G  
-D/A/D</div>
+  D/A/G/A<br/>
+  D/G/A<br/>
+  D/A/G/A<br/>
+  Bm/E/A<br/>
+  G/A/D/A/G<br/>
+  D/A/D
+</div>

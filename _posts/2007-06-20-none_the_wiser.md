@@ -14,10 +14,12 @@ And I knew that the world could be saved
 And I thought about sin, I had ideals then  
 When I was twenty one
 
-<div class="chorus">Oh, I please forgive me  
-Oh, I was young  
-Oh, I grow none the wiser  
-The older I become</div>
+<div class="chorus">
+  Oh, I please forgive me<br />
+  Oh, I was young<br />
+  Oh, I grow none the wiser<br />
+  The older I become
+</div>
 
 When I was twenty four I was reckless and bored  
 And I stole every word that I spoke  
@@ -37,12 +39,15 @@ And each day I will try to be more like a child
 When I am twenty nine
 
 <div class="chorus">CHORUS</div>
-<div class="chords">C/G/C/F  
-C/G/C  
-C/G/Am/F  
-C/G/C  
 
-C/G/Am  
-C/G/F  
-C/G/Am/F  
-C/G/C</div>
+<div class="chords">
+  C/G/C/F<br />
+  C/G/C<br />
+  C/G/Am/F<br />
+  C/G/C<br />
+  <br />
+  C/G/Am<br />
+  C/G/F<br />
+  C/G/Am/F<br />
+  C/G/C
+</div>

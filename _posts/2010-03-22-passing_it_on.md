@@ -14,10 +14,12 @@ And the calendar was covered in names
 It was snowing in March in Alabama  
 As if we needed a reminder things had changed
 
-<div class="chorus">I still think of you  
-What was left behind after you'd gone  
-It's not a matter of blame or credit  
-But passing it on</div>
+<div class="chorus">
+  I still think of you<br/>
+  What was left behind after you'd gone<br/>
+  It's not a matter of blame or credit<br/>
+  But passing it on
+</div>
 
 And the messages were automated calls  
 On behalf of your pharmacist  

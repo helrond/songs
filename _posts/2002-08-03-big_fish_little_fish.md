@@ -9,8 +9,10 @@ Black fish blue fish old fish new fish a fish is a fish is a fish
 Sad fish glad fish very very bad fish fish from here to there  
 Fat fish thin fish wearing yellow hat fish strange things everywhere  
 
-<div class="chorus">When it's over it's over when it's through it's through  
-When you're fighting and you don't know what for admit that you lose</div>
+<div class="chorus">
+  When it's over it's over when it's through it's through<br/>
+  When you're fighting and you don't know what for admit that you lose
+</div>
 
 In the sea you've got two kinds of fish, big ones, little ones  
 The big ones are sharks and such that kill and maim and steal  
@@ -45,8 +47,9 @@ Little fish eaten by big fish is someone else's prey
 On the end of a line the biggest fish is not a white whale
 
 <div class="chords">
-C/G6/Am/G (pull off c)  
-C/G/Am  
-
-C/G/Am/C/G/Am  
-C/G/E7/Am/C/G</div>
+  C/G6/Am/G (pull off c)<br/>
+  C/G/Am<br/>
+  <br/>
+  C/G/Am/C/G/Am<br/>
+  C/G/E7/Am/C/G
+</div>

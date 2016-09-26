@@ -20,10 +20,12 @@ Running won't save you any
 Running won't save you any  
 Running won't save you anymore
 
-<div class="chorus">Down down like a fugitive to justice  
-Down like a stone  
-Down like fear down like thunder  
-Down like hell</div>
+<div class="chorus">
+  Down down like a fugitive to justice<br/>
+  Down like a stone<br/>
+  Down like fear down like thunder<br/>
+  Down like hell
+</div>
 
 There's a pilot alone over the south Pacific  
 There's a tidal wave coming down  
@@ -46,10 +48,11 @@ Running won't save you anymore
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-G/C/D  
-Am  
-C  
-Am/D  
-
-G/D/C/D  
-G/D/C</div>
+  G/C/D<br/>
+  Am<br/>
+  C<br/>
+  Am/D<br/>
+  <br/>
+  G/D/C/D<br/>
+  G/D/C
+</div>

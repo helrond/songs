@@ -14,10 +14,12 @@ They will dance they will shake
 Find their partners and mend all their breaks  
 And the bones will awake
 
-<div class="chorus">Everything turns  
-Everything breaks, rises and burns  
-Everything turns  
-We will return</div>
+<div class="chorus">
+  Everything turns<br/>
+  Everything breaks, rises and burns<br/>
+  Everything turns<br/>
+  We will return
+</div>
 
 All the shaky dreams  
 All the numbers and wheels  
@@ -37,13 +39,16 @@ Befriend emptiness love the obscured
 When you turn towards truth
 
 <div class="chorus">CHORUS</div>
-<div class="chords">Am/G/Am  
-Am/G/C  
-Am/G/C/Am  
-Am/G/Am  
-(Am/F/G)  
 
-C/G/Am/G  
-F/C/Am/G  
-C/G/Am/G  
-C/G/C</div>
+<div class="chords">
+  Am/G/Am<br/>
+  Am/G/C<br/>
+  Am/G/C/Am<br/>
+  Am/G/Am<br/>
+  (Am/F/G)<br/>
+  <br/>
+  C/G/Am/G<br/>
+  F/C/Am/G<br/>
+  C/G/Am/G<br/>
+  C/G/C
+</div>
