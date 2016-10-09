@@ -39,6 +39,9 @@ Someone to make a move
 
 another verse here  
 
+snow in sindh  
+The ghost of John Denver out on the pier
+
 <div class="chords">
 	Em/G/D/Em<br/>
 	<br/>
