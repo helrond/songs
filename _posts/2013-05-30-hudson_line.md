@@ -43,7 +43,7 @@ I've been such a fool
 <div class="chorus">
   In this city where it never rains<br/>
   And we are always at war<br/>
-  The enemy is impossible to find
+  I can't even blame myself this time
 </div>
 
 <div class="chords">
