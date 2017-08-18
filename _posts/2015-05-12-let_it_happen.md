@@ -40,7 +40,8 @@ Someone to make a move
 another verse here  
 
 snow in sindh  
-The ghost of John Denver out on the pier
+The ghost of John Denver out on the pier  
+A place that is far from everything  
 
 <div class="chords">
 	Em/G/D/Em<br/>
