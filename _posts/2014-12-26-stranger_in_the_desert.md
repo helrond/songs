@@ -7,7 +7,7 @@ categories: finished
 <div class="notes">at Joshua Tree</div>
 
 Strangers in the desert where are you bound?  
-Do you know he place where the lightning comes down  
+Do you know the place where the lightning comes down  
 Tell me who has built these mountains high  
 Will you go my way? Will you lend me your light?
 
@@ -18,7 +18,7 @@ Pulling at my steps through the loose sand
 
 <div class="chorus">
 	When you are gone, I know you were there<br/>
-	A coyote running through my prayers<br/>
+	A coyote, a solar flare<br/>
 	And I know one day all will be revealed<br/>
 	And the space between mountains and sky will disappear
 </div>
