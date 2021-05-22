@@ -16,9 +16,9 @@ Got lost down in the valley
 That's where I feell asleep  
 
 <div class="chorus">
-Light travels east to west</br>
-Rivers run where there is less</br>
-All the time you take you will never lose</br>
+Light travels east to west<br/>
+Rivers run where there is less<br/>
+All the time you take you will never lose<br/>
 Wherever you are headed, the journey it finds you
 </div>
 
@@ -33,8 +33,8 @@ I was frozen by its power
 Unlearning everything I'd read
 
 <div class="chords">
-C/G</br>
-F/C/G</br>
-</br>
-F/C/G</br>
+C/G<br/>
+F/C/G<br/>
+<br/>
+F/C/G<br/>
 </div>
