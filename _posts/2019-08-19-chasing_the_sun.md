@@ -1,6 +1,6 @@
 ---
 title: Chasing the Sun
-date: 2016-08-19
+date: 2019-08-19
 layout: song
 categories: incomplete
 ---
@@ -16,9 +16,9 @@ Got lost down in the valley
 That's where I feell asleep  
 
 <div class="chorus">
-Light travels east to west
-Rivers run where there is less
-All the time you take you will never lose
+Light travels east to west  
+Rivers run where there is less  
+All the time you take you will never lose  
 Wherever you are headed, the journey it finds you
 </div>
 
