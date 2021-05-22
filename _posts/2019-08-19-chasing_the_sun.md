@@ -13,11 +13,11 @@ On things that I had done
 Went into the mountains  
 To find the highest peak  
 Got lost down in the valley  
-That's where I feell asleep  
+That's where I fell asleep  
 
 <div class="chorus">
 Light travels east to west<br/>
-Rivers run where there is less<br/>
+Rivers are dispossessed<br/>
 All the time you take you will never lose<br/>
 Wherever you are headed, the journey it finds you
 </div>
@@ -25,12 +25,12 @@ Wherever you are headed, the journey it finds you
 I followed the river  
 Heading upstream  
 And a flood came down the valley  
-Washed me out to sea  
+Took me out to sea  
 
 I went towards the sunrise  
-To move my timeline ahead  
-I was frozen by its power  
-Unlearning everything I'd read
+To shift my timeline  
+The light took me with its power  
+And I could only shine
 
 <div class="chords">
 C/G<br/>
