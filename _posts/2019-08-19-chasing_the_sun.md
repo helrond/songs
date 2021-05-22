@@ -2,7 +2,7 @@
 title: Chasing the Sun
 date: 2019-08-19
 layout: song
-categories: incomplete
+categories: finished
 ---
 
 Went down south last summer  
