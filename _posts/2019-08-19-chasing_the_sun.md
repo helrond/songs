@@ -7,30 +7,30 @@ categories: finished
 
 Went down south last summer  
 Chasing the sun  
-Looking for some new light  
-On things that I had done  
+Working for the captain  
+Made some friends and I buried some  
 
-Went into the mountains  
-To find the highest peak  
-Got lost down in the valley  
+Went north into the mountains  
+Running from the police  
+Blasting tunnels into hard rock  
 That's where I fell asleep  
 
 <div class="chorus">
 Light travels east to west<br/>
-Rivers are dispossessed<br/>
-All the time you take you will never lose<br/>
+Rivers lose the waters they possess<br/>
+All the time you take all the ways you move<br/>
 Wherever you are headed, the journey it finds you
 </div>
 
-I followed the river  
+Followed the river  
 Heading upstream  
-And a flood came down the valley  
-Took me out to sea  
+The wind led me through the forest  
+There was no one to be seen  
 
 I went towards the sunrise  
-To shift my timeline  
-The light took me with its power  
-And I could only shine
+Trying to get ahead  
+And I wished that I was somewhere  
+That was alive or dead
 
 <div class="chords">
 C/G<br/>
