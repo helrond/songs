@@ -31,9 +31,9 @@ Do you only move when nothing else works
 As the last resort
 
 Do you always move on when it's over  
--  
+~ ~ ~  
 Do you ever look over your shoulder  
--  
+~ ~ ~  
 
 Like going home  
 
