@@ -36,7 +36,7 @@ Impossible
 
 <div class="chorus">
   All of their lives<br/>
-  All the hearts they have move<br/>
+  All the hearts they have moved<br/>
   They have burned so bright<br/>
   I don't know what to do
 </div>
