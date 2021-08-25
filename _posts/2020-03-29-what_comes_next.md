@@ -16,13 +16,13 @@ Do you only break down when you feel it
 Slipping from your hand
 
 <div class="chorus">
-  I can feel when things are changing<br/>
+  I can feel things are changing<br/>
   But I do not know the effects<br/>
-  I can feel that I have changed<br/>
+  I can feel I have changed<br/>
   But I don’t know what comes next
 </div>
 
-Do you only turn to take the measure 
+Do you only turn to take the measure  
 Do you only turn against the tide  
 Do you only turn in the right weather  
 Season and time
@@ -41,8 +41,8 @@ Impossible
   I don't know what to do
 </div>
 
-Do you only rise out of the morning 
-Do you only rise against your own 
+Do you only rise out of the morning  
+Do you only rise against your own  
 Do you only rise up without warning  
 Like going home
 
