@@ -7,30 +7,27 @@ categories: finished
 
 Went down south last summer  
 Chasing the sun  
-Working for the captain  
-Made some friends and I buried some  
+Looking for some new light  
+A place to start and time to be done
 
-Went north into the mountains  
-Running from the police  
-Blasting tunnels into hard rock  
-That's where I fell asleep  
+North into the mountains  
+To change the scene  
+But everything reminded me  
+Of somewhere I had already been
 
 <div class="chorus">
-Light travels east to west<br/>
-Rivers lose the waters they possess<br/>
+You can never catch the light<br/>
+Or step into the same river twice<br/>
 All the time you take all the ways you move<br/>
-Wherever you are headed, the journey it finds you
+Wherever you are headed, the journey follows<br/>
 </div>
 
-Followed the river  
-Heading upstream  
-The wind led me through the forest  
-There was no one to be seen  
+I followed the river  
+Backwards to its source  
+And I saw that it had taken  
+The available course 
 
-I went towards the sunrise  
-Trying to get ahead  
-And I wished that I was somewhere  
-That was alive or dead
+<div class="chorus">Chorus</div>
 
 <div class="chords">
 C/G<br/>
