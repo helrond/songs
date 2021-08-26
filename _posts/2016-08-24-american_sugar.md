@@ -26,9 +26,9 @@ Just take it to the limit man, you're living on a prayer
 
 <div class="chorus">CHORUS</div>
 
-It comes in hard and steals away your mind
-You will forget everything, you'll go deaf and blind
-Then you'll queue it up and do it all again
+It comes in hard and steals away your mind  
+You will forget everything, you'll go deaf and blind  
+Then you'll queue it up and do it all again  
 So will your family, so will your friends
 
 <div class="chorus">CHORUS</div>
