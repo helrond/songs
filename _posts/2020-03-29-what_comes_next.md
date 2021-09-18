@@ -2,7 +2,7 @@
 title: What Comes Next
 date: 2020-03-29
 layout: song
-categories: incomplete
+categories: finished
 ---
 
 Do you only cry for no good reason  
