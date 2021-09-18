@@ -2,7 +2,7 @@
 title: American Sugar
 date: 2016-08-24
 layout: song
-categories: incomplete
+categories: finished
 ---
 
 They're flying it in on a DC-10 tonight  
@@ -22,7 +22,7 @@ If it called or if it knocked before you let it in
 Got the hookup from the kid who made that trip  
 Came back to the homeland with the latest hits  
 You got your headphones on and your hands up in the air  
-Just take it to the limit man, you're living on a prayer
+Just like a virgin, you're living on a prayer
 
 <div class="chorus">CHORUS</div>
 
