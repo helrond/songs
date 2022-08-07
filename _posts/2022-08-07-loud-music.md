@@ -1,3 +1,9 @@
+---
+title: Loud Music
+date: 2021-08-07
+layout: song
+categories: incomplete
+---
 Everybody needs to turn it up sometimes   
 Playing your favorite song shouldn’t be a crime  
 Everybody needs to get loud  
