@@ -8,7 +8,7 @@ categories: finished
 They're flying it in on a DC-10 tonight  
 And it will be all over by daylight  
 You won't know how it got under your skin  
-If it called or if it knocked before you let it in
+If they called or if they knocked before you let them in
 
 <div class="chorus">
   Sugar<br/>
@@ -27,7 +27,7 @@ Just like a virgin, you're living on a prayer
 <div class="chorus">CHORUS</div>
 
 It comes in hard and steals away your mind  
-You will forget everything, you'll go deaf and blind  
+You'll forget everything, go deaf and blind  
 Then you'll queue it up and do it all again  
 So will your family, so will your friends
 
