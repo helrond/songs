@@ -7,29 +7,33 @@ categories: incomplete
 
 Don't turn your back on the ocean  
 Or a wave will take you in  
-Battled for you with the current  
-The undertow will win
+You are no match for that current  
+To the undertow you are nothing
 
-Don't turn your back on the ocean  
-Or you'll let the moment pass  
-You'll be stranded with nothing  
-But regret of the past
-
-Don't turn your back on the ocean  
-You don't know what's watching you  
-Waiting for the moment  
-You least expect it to
+<div class="chorus">
+  You got yourself out there<br/>
+  And there's nothing that can save you now<br/>
+  Nothing that can save you<br/>
+</div>
 
 Don't turn your back on the ocean  
 When there's nowhere else to go  
-There are winds to bring  
+There are winds and waves to bring  
 The weary traveler home
+
+<div class="chorus">CHORUS</div>
 
 Don't turn your back on the ocean  
 When you hear the siren's call  
-She is out there waiting  
-She will catch you when you fall
+When her arms reach out to you  
+There'll be nowhere else to fall
+
+<div class="chorus">CHORUS</div>
 
 <div class="chords">
-  C/Am/F/G
+  C/Am/F/G<br/>
+  <br/>
+  F/G/Am<br/>
+  F/G<br/>
+  F/G/C<br/>
  </div>
