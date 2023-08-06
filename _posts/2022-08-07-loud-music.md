@@ -6,7 +6,7 @@ categories: incomplete
 ---
 Everybody needs to turn it up sometimes   
 Playing your favorite song shouldn’t be a crime  
-Everybody needs to get loud and lose themselves in the sound  
+You needs to get loud get lost in the sound  
 Everybody needs to turn it up sometimes   
 
 <div class="chorus">
@@ -17,15 +17,15 @@ Everybody needs to turn it up sometimes
 </div>
 
 Everybody needs to take the microphone  
-To hear their voice coming through loud in stereo  
-Everybody’s got something to say to an audience from a stage  
+To hear their voice coming through in stereo  
+You got things to say, an audience, a stage  
 Everybody needs to take the microphone  
 
 <div class="chorus">CHORUS</div>
 
 If you know you are never wrong  
-And you don’t want to have to hear someone else’s song  
-Turn that speaker up to ten you’ll never have to hear noone again  
+And you don’t want to hear someone else’s song  
+Turn it up to ten you’ll never have to hear noone again  
 If you know you are never wrong  
 
 <div class="chorus">CHORUS</div>
@@ -36,7 +36,7 @@ If you know you are never wrong
   C/D/C/D<br/>
   D/G/D/G<br/>
   <br/>
-  G<br/>
+  D/G<br/>
   G/Em<br/>
   D<br/>
   C/D/G<br/>
