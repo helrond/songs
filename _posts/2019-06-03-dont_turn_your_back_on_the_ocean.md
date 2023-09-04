@@ -16,17 +16,17 @@ To the undertow you are nothing
   Nothing that can save you<br/>
 </div>
 
-Don't turn your back on the ocean  
-When there's nowhere else to go  
-There are winds and waves to bring  
-The weary traveler home
+There are tides in the ocean  
+That will pull you far from shore  
+And winds to carry you  
+Where you have never been before
 
 <div class="chorus">CHORUS</div>
 
-Don't turn your back on the ocean  
-When you hear the siren's call  
-When her arms reach out to you  
-There'll be nowhere else to fall
+I lost myself by the ocean  
+To the sound of a sea birds's call  
+When your arms reached out to me  
+There was nowhere else to fall
 
 <div class="chorus">CHORUS</div>
 
