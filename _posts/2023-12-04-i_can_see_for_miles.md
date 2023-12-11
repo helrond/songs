@@ -5,12 +5,12 @@ layout: song
 categories: incomplete
 ---
 It's two stories up to the roof of this house  
-To the rusting rebar and crows  
+Rusting rebar and crows  
 From here on a day when the haze burns off  
 You can see all the way to the coast  
 From here to the coast  
 
-There's cats in the alley and they're going wild  
+In the alley down below the cats are going wild  
 They know what's cooking  
 I can close my eyes and see it all now  
 Without even looking  
@@ -26,7 +26,7 @@ Without looking
 On a roof nearby her uncle has a farm  
 A flock of pigeons and some hens  
 They strut around like they own the town  
-Like they don't know how it ends  
+They don't know how it's gonna ends  
 It's gonna end  
 
 <div class="chorus">CHORUS</div>
