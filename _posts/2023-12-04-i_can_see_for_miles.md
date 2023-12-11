@@ -40,14 +40,14 @@ Waiting for me
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-  C/Am
-  F/G
-  C/Am
-  F/G
-  F/G/C
-
-  Am/C
-  Am/C/G
-  Am/G
-  Am
+  C/Am<br/>
+  F/G<br/>
+  C/Am<br/>
+  F/G<br/>
+  F/G/C<br/>
+  <br/>
+  Am/C<br/>
+  Am/C/G<br/>
+  Am/G<br/>
+  Am<br/>
 </div>
