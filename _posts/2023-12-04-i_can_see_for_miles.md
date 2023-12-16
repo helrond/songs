@@ -23,7 +23,7 @@ Without looking
   I can see for miles<br />
 </div>
 
-On a roof nearby her uncle has a farm  
+On a roof nearby there is a farm  
 A flock of pigeons and some hens  
 They strut around like they own the town  
 They don't know how it's gonna ends  
@@ -31,11 +31,11 @@ It's gonna end
 
 <div class="chorus">CHORUS</div>
 
-We climbed the stairs at Frere Hall  
+You can climb the stairs at Frere Hall  
 Up to the Sadequin gallery  
 Across the street behind razor wire  
-Waits the abandoned embassy
-Waiting for me
+The abandoned embassy
+Alone and empty
 
 <div class="chorus">CHORUS</div>
 
