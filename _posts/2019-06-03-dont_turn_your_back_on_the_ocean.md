@@ -28,7 +28,11 @@ To the sound of a sea birds's call
 When your arms reached out to me  
 There was nowhere else to fall
 
-<div class="chorus">CHORUS</div>
+<div class="chorus">
+  I got my self out here<br/>
+  And there's nothing that will save me now<br/>
+  Nothing that will save me<br/>
+</div>
 
 <div class="chords">
   C/Am/F/G<br/>
