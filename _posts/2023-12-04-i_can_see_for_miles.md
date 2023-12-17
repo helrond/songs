@@ -34,7 +34,7 @@ It's gonna end
 You can climb the stairs at Frere Hall  
 Up to the Sadequin gallery  
 Across the street behind razor wire  
-The abandoned embassy
+The abandoned embassy  
 Alone and empty
 
 <div class="chorus">CHORUS</div>
