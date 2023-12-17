@@ -4,24 +4,33 @@
 /*
 /*****************************************************************************/
 
+@page {
+  margin: 0.5in;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+p, .chorus, .chords {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
 a:link:after, a:visited:after {
     content: "";
 }
 
-.site .title a {
+.container {
+  margin: 0;
+}
+
+.navbar {
     display: none;
 }
 
 footer {
     display: none;
-}
-
-.icons {
-  display:none;
-}
-
-.breadcrumb {
-  display:none;
 }
 
 /*****************************************************************************/
@@ -30,29 +39,32 @@ footer {
 /*
 /*****************************************************************************/
 
-hr {
+.list__title {
+  display: none;
+}
+
+.search {
+  display: none;
+}
+
+.song-list__title {
   display:none;
 }
 
-#song-list .well {
+.song-list__icons {
   display:none;
 }
 
-.song-list-content {
-  width:100%;
+.song-list__content {
+  width:100% !important;
+}
+
+.offcanvas-end {
+  border-left: none !important;
 }
 
 .list-group {
   margin-bottom: 0;
-}
-
-.panel {
-  border: none;
-  top:0 !important;
-}
-
-.panel-body {
-  padding: 15px 0;
 }
 
 /*****************************************************************************/
@@ -61,31 +73,20 @@ hr {
 /*
 /*****************************************************************************/
 
-#song {
+/* #song {
  text-align: left;
+} */
+
+.song__icons {
+  display: none;
 }
 
-.date {
-	color: #666;
-	padding-bottom: .5em;
-	font-size: 85%;
-}
-
-.notes {
+.song .notes {
   font-style:italic;
   padding-bottom: 10px;
 }
 
-.chorus {
+.song .chorus {
 	padding-left:1em;
   padding-bottom:1em;
-}
-
-.chords {
-  /*font-family: Courier, monotype;*/
-	padding-top:1em;
-}
-
-.song-list-title {
-    display:none;
 }

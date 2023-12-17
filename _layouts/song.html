@@ -2,21 +2,16 @@
 layout: default
 ---
 <div class="song">
-	<ol class="breadcrumb">
-	  <li><a href="/">home</a></li>
-	  <li><a href=/{{page.categories}}>{{ page.categories }}</a></li>
-	  <li class="active">{{ page.title }}</li>
-	</ol>
-	<div class="icons btn-group pull-right" role="group">
-	    <a href="#" class="btn btn-default song-print"><span class="glyphicon glyphicon-print" aria-hidden="true"></span></a>
+	<div class="song__icons float-end">
+	    <button class="btn btn-outline-dark song-print" onclick="window.print()">
+			<i class="bi-printer-fill"></i>
+		</button>
 	 </div>
-	<h1>
+	<h1 class="mb-0">
 		{{ page.title }}
 	</h1>
-	<div class="song-date">
-		{{ page.date | date_to_string }}
-	</div>
-	<div class="lyrics">
+	<p class="song__date mb-2">{{ page.date | date_to_string }}</p>
+	<div class="song__lyrics">
 		{{ content }}
 	</div>
 </div>

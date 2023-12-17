@@ -1,0 +1,28 @@
+<div 
+    id="{{post.id}}" 
+    data-identifier={{ post.id }} 
+    class="song-list__content offcanvas offcanvas-end pt-2" 
+    aria-labelledby="{{post.id}}-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-9">
+                <h2 id="{{post.id}}-header" class="mb-0">{{ post.title }}</h2>
+                <p class="song__date mb-2">{{ post.date | date_to_string }}</p>
+                <div class="song-list__song">{{ post.content }}</div>
+            </div>
+            <div class="col-12 col-md">
+                <div class="song-list__icons btn-group float-end" role="group">
+                    <button class="btn btn-outline-dark list-print" onclick="window.print()">
+                        <i class="bi-printer-fill"></i>
+                    </button>
+                    <a class="btn btn-outline-dark" href="{{ post.url }}">
+                        <i class="bi-link"></i>
+                    </a>
+                    <button class="btn btn-outline-dark list-close">
+                        <i class="bi-fullscreen-exit" data-bs-dismiss="offcanvas"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

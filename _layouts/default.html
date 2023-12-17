@@ -26,67 +26,20 @@
    <meta property="music:musician" content="https://www.facebook.com/hillel.arnold" />
 
    <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" >
-   <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
-
-   <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
-   <script type="text/javascript" src="/script/showhide.js"></script>
-   <script type="text/javascript" src="/script/github-commits-widget.js"></script>
-   <script type="text/javascript" src="/script/bootstrap.min.js"></script>
-   <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
-   <script type="text/javascript">
-   $(document).ready(function () {
-     var options = {
-       valueNames: [ 'title' ]
-     };
-
-     var songList = new List('song-list', options);
-
-     $('#clear-search').click(function() {
-       $('#query').val('');
-       songList.search();
-       $('#clear-search').hide();
-     });
-
-   });
-   </script>
-
-   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-   <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-   <![endif]-->
 </head>
 <body>
-  <nav class="navbar navbar-inverse">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">songs.hillelarnold.com</a>
-      </div>
-      <div id="navbar" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">
-          <li><a href="{{ site.url }}/finished">finished</a></li>
-          <li><a href="{{ site.url }}/incomplete">incomplete</a></li>
-        </ul>
-      </div><!--/.nav-collapse -->
-    </div><!--/.container-fluid -->
-  </nav>
-  <div class="container-fluid">
-
+  {% include navbar.html %}
+  
+  <div class="container">
     {{ content }}
-
-    <hr>
-    <footer>
-      <p>All songs licensed by <a href="http://www.hillelarnold.com">Hillel Arnold</a> under a <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a><img class="pull-right"src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt="Creative Commons BY-SA License"/></p>
-    </footer>
   </div>
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
 </body>
 </html>

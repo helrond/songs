@@ -2,29 +2,19 @@
 layout: default
 title: songs.hillelarnold.com &raquo; finished
 ---
+
+<h1 class="list__title">Finished Songs</h1>
+
 <div id="song-list">
 
   {% include search.html %}
 
-<div class="list list-group">
-  {% for post in site.categories.finished %}
-    <a data-identifier={{ post.id }} href="#" class="song-list-title list-group-item">
-      <h5 class="title">{{ post.title }}
-      <small>{{ post.date | date_to_string }}</small></h5>
-    </a>
-  {% endfor %}
-</div>
-{% for post in site.categories.finished %}
-  <div data-identifier={{ post.id }} class="song-list-content col-md-8 pull-right panel panel-default">
-    <div class="panel-body">
-      <div class="icons btn-group pull-right" role="group">
-        <a href="#" class="btn btn-default list-print"><span class="glyphicon glyphicon-print" aria-hidden="true"></span></a>
-        <a href={{ post.url }} class="btn btn-default"><span class="glyphicon glyphicon-link" aria-hidden="true"></span></a>
-        <a href="#" class="btn btn-primary list-close"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></a>
-      </div>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <div class="content">{{ post.content }}</div>
-    </div>
+  <div class="list list-group">
+    {% for post in site.categories.finished %}
+      {% include song_title.html post=post %}
+    {% endfor %}
   </div>
-{% endfor %}
+  {% for post in site.categories.finished %}
+    {% include song_content.html post=post %}
+  {% endfor %}
 </div>
