@@ -30,7 +30,7 @@ Do you only stop when it starts feeling impossible
 </div>
 
 Do you only rise out of the morning, do you only rise against your own  
-Do you only rise without a warning, like going home
+Do you only rise without a warning
 
 <div class="chorus">CHORUS</div>
 
