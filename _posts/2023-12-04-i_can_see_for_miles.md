@@ -26,7 +26,7 @@ Without looking
 On a roof nearby there is a farm  
 A flock of pigeons and some hens  
 They strut around like they own the town  
-They don't know how it's gonna ends  
+Like things will never end  
 It's gonna end  
 
 <div class="chorus">CHORUS</div>
@@ -35,19 +35,20 @@ You can climb the stairs at Frere Hall
 Up to the Sadequin gallery  
 Across the street behind razor wire  
 The abandoned embassy  
-Alone and empty
+Crumbles in its sleep
 
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-  C/Am<br/>
-  F/G<br/>
-  C/Am<br/>
-  F/G<br/>
-  F/G/C<br/>
+  Capo II (in A)<br/>
+  G/Em<br/>
+  C/D<br/>
+  G/Em<br/>
+  C/D<br/>
+  C/D/G<br/>
   <br/>
-  Am/C<br/>
-  Am/C/G<br/>
-  Am/G<br/>
-  Am<br/>
+  Em/G<br/>
+  Em/G/D<br/>
+  Em/D<br/>
+  Em<br/>
 </div>
