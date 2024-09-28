@@ -2,7 +2,7 @@
 title: Loud Music
 date: 2021-08-07
 layout: song
-categories: incomplete
+categories: finished
 ---
 Everybody needs to turn it up sometimes   
 Playing your favorite song shouldn’t be a crime  
