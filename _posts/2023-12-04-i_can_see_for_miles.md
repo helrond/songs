@@ -2,7 +2,7 @@
 title: I Can See for Miles
 date: 2023-12-04
 layout: song
-categories: incomplete
+categories: finished
 ---
 It's two stories up to the roof of this house  
 Rusting rebar and crows  
