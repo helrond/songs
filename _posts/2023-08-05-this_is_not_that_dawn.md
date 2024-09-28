@@ -36,6 +36,19 @@ This is not that dawn
 Think I heard the sounds move the the air  
 Heard those voices everywhere
 
+Diversity  
+Aesthetics of change without the reality  
+Representation  
+Keeping the door open  
+Who’s your audience and how did they get in
+
+This ain't the first and it won't be the last
+
+Believing it would be different this time  
+The bitterness of falsehood  
+The arrogance of claiming difference  
+We know better  
+This time this time
 
 <div class="chords">
 F/C/G/Am<br/>
@@ -46,9 +59,3 @@ F/C/G/Am<br/>
 Am/G<br/>
 F/G/Am<br/>
 </div>
-
-Diversity  
-Aesthetics of change without the reality  
-Representation  
-Keeping the door open  
-Who’s your audience and how did they get their seats  

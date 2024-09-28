@@ -25,6 +25,7 @@ You'll find heaven around every bend
 On the road my friend
 
 <div class="chords">
+  Capo 4<br/>
   C/G/Am<br />
   F/G/C<br />
   F/G/C/Am<br />

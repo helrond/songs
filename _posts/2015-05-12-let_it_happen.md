@@ -9,11 +9,6 @@ It will happen to you
 But by then it was too late  
 I'd been taken in too
 
-I had learned to love the traffic  
-Learned to breathe the fumes  
-Learned to take on my expenses  
-And take off my shoes
-
 <div class="chorus">
 	Let's throw it against the wall, see if it will fall<br/>
 	See how much more we can take<br/>
@@ -43,11 +38,21 @@ snow in sindh
 The ghost of John Denver out on the pier  
 A place that is far from everything  
 
+Chanting with the thousands out there on the beach  
+Abdullah Shah Gazi come and rescue me  
+
+Keep it clean, keep it green  
+Prove your identity  
+
 <div class="chords">
 	Em/G/D/Em<br/>
 	<br/>
 	Em/G/D/G/C<br/>
 	G/C/D<br/>
 	Em/G/D/G/C<br/>
-	G/C/G
+	G/C/G<br/>
+	<br/>
+	In D, capo 2<br/>
+	Am/C/F<br/>
+	G/Am
 </div>
