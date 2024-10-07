@@ -41,5 +41,6 @@ What can’t you quit, what owns you?
 Weakness as an invitation to love
 
 We’re all fundamentally weak and frail, if we owned that for ourselves would we be better to other people?
+We're born dependent
 
 Poverty and annihilation
