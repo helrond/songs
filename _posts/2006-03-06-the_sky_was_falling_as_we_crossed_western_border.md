@@ -19,7 +19,8 @@ You were dancing on the shore
 And though the wind had blown us nearly on the rock's teeth  
 We were neither created nor destroyed
 
-If it looks like war and it talks like war and it walks like war and it smells like war
+If it looks like war and it talks like war and it walks like war and it smells like war  
+The enemy is the one who looks just like you  
 
 God willing and the creek don't rise
 
@@ -27,3 +28,6 @@ If love is a game it's the first one to zero that takes
 Everything but the girl  
 Is it finite like energy and matter or as vast  
 As an open hand
+
+Pull up your stakes and get out of town  
+There's a flood coming down  

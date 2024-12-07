@@ -30,7 +30,7 @@ Need some answers
 I've got 9 to 5 cancer  
 Come on Cisco lay it down
 
-There's a line on the edge of town it starts ________________  
+There's a line on the edge of town it starts when you put your guidebook down  
 Hey Cisco lay it down
 
 Where are all the unions  

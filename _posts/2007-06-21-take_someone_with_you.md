@@ -23,3 +23,6 @@ All the things you've got to tell
 
 Home is always somewhere in between  
 Our feet and the ground
+
+Just on the strength of your feet  
+And the courage of your lungs

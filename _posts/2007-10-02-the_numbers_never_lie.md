@@ -20,14 +20,21 @@ So pack up your papers and leave
 You take your numbers, I'll take my time  
 Consider it a deal
 
-That is no way to live a life; in an  
-Alphabetical scheme  
-Every time you write it down  
-Please remember me
+There is an order to all subjects  
+And a line that they fall in  
+There's a field for every question  
+You could ever imagine  
 
-I won't ask you what you want it for
+There's a path to every story
+A trail to discovery
 
-discovery
+I want to know just what you need  
+Not what you want it for 
+
+There's a time for every station
+
+code  
+format
 
 <div class="chords">
   G/D/Em<br />

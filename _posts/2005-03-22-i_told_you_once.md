@@ -29,6 +29,8 @@ Go on and lay your burden down, it's not heavy, it's not _________
 I've heard this one before, it goes ABC  
 It's the same fucking song, in a slightly different key
 
+breaking laws of your own invention and calling it transgression
+
 <div class="chords">
   G/C<br/>
   D/G<br/>

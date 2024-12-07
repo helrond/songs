@@ -10,16 +10,17 @@ And you can't hear it on the radio
 
 
 <div class="chorus">
-  Turn it on, tune on it<br />
+  Turn it on, tune on in<br />
   It will bring you to your knees and into sin<br />
-  Blasting birds right out of the say<br />
+  Blasting birds right out of the sky<br />
   That border radio
 </div>
 
 DJs are afraid  
 Wolfman  
 AP and the girls  
-On the X
+On the X  
+Turn your radio on
 
 <div class="chords">
   C/F/C<br />
@@ -28,7 +29,7 @@ On the X
   Am/G/C<br />
   <br />
   F / G / C<br />
-  F / G / C / Am / G<br />
+  F / G / Am / G / F<br />
   F / G / C / G/B / Am<br />
-F / G / C
+  F / G / C
 </div>

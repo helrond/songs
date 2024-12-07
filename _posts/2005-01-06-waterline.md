@@ -39,3 +39,8 @@ Let me give in
 Is this divine intention or human design  
 Are we out of step with this creation or  
 Right in time
+
+Above my head a seagull  
+Loops across the sky  
+And I'd be up there too  
+If I could only fly
