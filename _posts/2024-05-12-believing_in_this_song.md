@@ -4,10 +4,15 @@ date: 2024-05-12
 layout: song
 categories: incomplete
 ---
-Wrote this song in a war  
-When you hear it there will be more  
-Wrote this song in fading light  
-As the edges faded from sight
+As I write the bombs fall  
+Late in the day at the end of the year  
+And I sing it now for you  
+To take the ed off of my fears
+
+You and I we’ve had our share  
+Filled our days up with worries and care  
+And I know somehow  
+All the best are behind us now
 
 <div class="chorus">
     When we’ve spent what we have taken<br/>
@@ -17,37 +22,23 @@ As the edges faded from sight
     Believing in this song
 </div>
 
-I hear them coming now  
-Wave after wave, breaking on down  
-There’s nothing that will last  
-Disaster is coming on thick and fast
+Everything comes to an end  
+The way it evaporates is full of suffering  
+We go alone to our end  
+Travel with me until then
 
-You and I we’ve had our share  
-Filled our days up with worries and care  
-And I know somehow  
-All the best are behind us now
+<div class="chorus">CHORUS</div>
 
-Wrote this song for myself  
-To keep me company when everything fell  
-Wrote this song for you  
-I believe you’ll be there too
+As I sing the bombs fall  
+On another day in another year  
+I wrote this song for you  
+To dispel all of our fear
 
-
-Late in the day/late in the year
-
-I've grown old  
-I've grown scared  
-And I can only change one of those
-
-Nobody gets out of this world alive  
-What scares me is being alive when the world ends  
-I don't want to live to see its end
-
-Here in the abyss
+<div class="chorus">CHORUS</div>
 
 <div class="chords">
-C/G/Am<br/>
-F/C/Am/G<br/>
-<br/>
-F/C/G
+    C/G/Am<br/>
+    F/C/Am/G<br/>
+    <br/>
+    F/C/G
 </div>
