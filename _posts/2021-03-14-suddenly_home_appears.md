@@ -4,33 +4,46 @@ date: 2021-03-14
 layout: song
 categories: incomplete
 ---
-You could be miles away  
-From everything you know  
-Speaking a foreign language  
-Wearing unfamiliar clothes
+You could be miles away from everything you know  
+Speaking a foreign language, wearing unfamiliar clothes  
+You could be in a place you don't know at all  
+And suddenly you realize you've been here before
 
-You've been here before
+<div class="chorus">
+    Home from where you came<br/>
+    Is a story not just a name<br/>
+    Oh so suddenly<br/>
+    Home appears
+</div>
 
-The place where the people you care about  
-Are waiting for you
+It hits you on a corner where the traffic rushes by  
+Not the dust or the exhaust that brings a tear to your eye  
+Not the way the crows hold a grudge against you  
+Or the flame on the stove the brightest shade of blue
 
-laundry out to dry  
-out the side door the cats are asking for scraps  
-the stove burns the lowest flame of blue
+<div class="chorus">
+    And home might be in people, not in places<br/>
+    But places they sneak up on you<br/>
+    And home might be the place where those people<br/>
+    You care about are waiting for you
+</div>
 
-in the back yard a building’s going up  
-and the windows are closed against the dust
+No matter where you go some places are always near  
+Even though I can never disappear  
+To tread the length of ground you will have to cover  
+To get from one point to another
 
-books that smell of mold (it’s not really mold, it’s cheap paper denigrating)
+<div class="chorus">CHORUS</div>
 
-I’ve always felt that home was in people not places  
-But places have a way of sneaking up on you
-
-And later walking in the forest we saw a sign that read  
-Two years ago a leopard was spotted here
-
-When you go into town, everyone looks at you
-
-This ain’t your home, you can’t disappear here
-
-Sympathy won’t feed you
+<div class="chords">
+    G/Em/C/G<br/>
+    C/G/D (G)<br/>
+    <br/>
+    C/G<br/>
+    Em/D (G)<br/>
+    <br/>
+    C/G<br/>
+    B7/Em<br/>
+    C/G<br/>
+    G/D
+</div>
