@@ -5,42 +5,50 @@ layout: song
 categories: incomplete
 ---
 How do you show your weakness  
-What makes you afraid
+What makes you afraid  
+What's the worst that can be assumed  
+How do you handle uncertainty
 
-How do you hold your weakness  
-What makes it disappear
+<div class="chorus">
+    Let me invite you in, come on and take everything<br/>
+    I want to keep nothing to myself<br/>
+    Let me speak honestly, I depend on what I cannot see<br/>
+    You do the same for yourself
+</div>
 
-How do you know your weakness  
-What does it make you do
+Where do you hold your weakness  
+What makes it disappear  
+How do they know you're even there
+What do you hold dear  
 
-How do they know you’re there
+When do you know your weakness  
+What can't you quit  
+Is it respect or victimhood  
+That's got you in it's grip
 
-What is it responding to
+Feeling small  
 
-Who do you have tasting your food 
+Weaving webs
 
-Are you ready to take the first shot  
-Did you bet on retaliation 
+And now on top of everything  
+You want to be a victim too
+
+You only mean to offend  
+Finding new ways to take offense 
 
 Do you crack the bones and suck out the marrow  
 Do you swallow it whole  
 Do you spit out the seeds
 
-Shut down the discos
 
-What’s the worst that you assume
+Security in poverty and annihilation  
+Who do you have tasting your food  
+Are you ready to take the first shot  
+Or did you bet on retaliation  
 
-Barking at the bigger dogs
-
-Respect 
-
-The universe is unfinished
-
-What can’t you quit, what owns you?
-
-Weakness as an invitation to love
-
-We’re all fundamentally weak and frail, if we owned that for ourselves would we be better to other people?
-We're born dependent
-
-Poverty and annihilation
+<div class="chords">
+    C/Am/F/G<br/>
+    <br/>
+    Am/Em/Am/Em<br/>
+    C/F/G
+</div>
