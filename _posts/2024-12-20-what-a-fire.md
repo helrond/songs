@@ -16,7 +16,7 @@ And every fall the people passing by said
 
 You stood among the traffic and you breathed it in  
 Shedding what could not be taken in  
-You grew so tall from that spark in the soil
+You grew so tall from that spark in the soil  
 Weathered storms and failing limbs   
 
 <div class="chorus">CHORUS</div>
