@@ -11,7 +11,7 @@ And my ears ringing
 Wondering what's come over the wire  
 While I was sleeping  
 
-I wake up with a guilty mind
+I wake up with a guilty mind  
 Full of regrets  
 The things that I remember  
 I wish I could forget  
@@ -35,7 +35,7 @@ And I've had a few too many
 More than I deserve  
 
 I wake up with a mouth of sand  
-And the bombs falling  
+And bombs falling down like rain  
 It's happened before and   
 It's gonna happen again  
 
