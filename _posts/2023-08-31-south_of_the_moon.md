@@ -41,5 +41,5 @@ What good was that anyhow
 <div class="chords">
     Am/C/G/D<br/>
     <br/>
-    G/D/C/G<br/>
+    G/C/D/G<br/>
 </div>
