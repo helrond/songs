@@ -7,7 +7,7 @@ categories: incomplete
 You stood there on the mountainside year upon year  
 Your hollow holding shrines  
 Your branches sheltered poets, philosophers and djinns  
-And every fall the people passing by said
+The world came just to pass you by
 
 <div class="chorus">
   What a fire<br />
@@ -15,9 +15,9 @@ And every fall the people passing by said
 </div>
 
 You stood among the traffic and you breathed it in  
-Shedding what could not be taken in  
-You grew so tall from that spark in the soil  
-Weathered storms and failing limbs   
+Shedding what could not be absorbed  
+You grew so tall in foreign soil  
+No storm left you disturbed
 
 <div class="chorus">CHORUS</div>
 
@@ -30,8 +30,8 @@ Weathered storms and failing limbs
 
 You took in everything the world had to give  
 With wonder and curiosity  
-With the radio on and the news laid out  
-There was never enough to see
+You had the radio on and the paper piled up  
+In search of history
 
 <div class="chorus">CHORUS</div>
 

@@ -4,10 +4,10 @@ date: 2024-05-12
 layout: song
 categories: incomplete
 ---
-As I write the bombs fall  
+Wrote this in a war  
 Late in the day at the end of the year  
-And I sing it now for you  
-To take the ed off of my fears
+And I sing this for you  
+To take the edge of my fears
 
 You and I we’ve had our share  
 Filled our days up with worries and care  
@@ -22,17 +22,17 @@ All the best are behind us now
     Believing in this song
 </div>
 
-Everything comes to an end  
-The way it evaporates is full of suffering  
-We go alone to our end  
-Travel with me until then
+Everything gets old  
+And the journey there is hard and cold  
+Everything ends  
+But won't you travel with me until then
 
 <div class="chorus">CHORUS</div>
 
-As I sing the bombs fall  
+Sang this song in a war  
 On another day in another year  
-I wrote this song for you  
-To dispel all of our fear
+I wrote it for you  
+To take the edge of your fear
 
 <div class="chorus">CHORUS</div>
 

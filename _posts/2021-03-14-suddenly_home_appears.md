@@ -16,10 +16,10 @@ And suddenly you realize you've been here before
     Home appears
 </div>
 
-It hits you on a corner where the traffic rushes by  
+Standing at the borderline the traffic rushes by  
 Not the dust or the exhaust that brings a tear to your eye  
-Not the way the crows hold a grudge against you  
-Or the flame on the stove the brightest shade of blue
+Not the crows that hold a grudge against you  
+Or the flame on the stove that burns the brightest shade of blue
 
 <div class="chorus">
     And home might be in people, not in places<br/>
