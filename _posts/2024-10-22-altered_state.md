@@ -2,7 +2,7 @@
 title: Altered State
 date: 2024-10-22
 layout: song
-categories: incomplete
+categories: finished
 ---
 <div class="notes">Started in 2008</div>
 

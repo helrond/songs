@@ -2,7 +2,7 @@
 title: South of the Moon
 date: 2023-08-31
 layout: song
-categories: incomplete
+categories: finished
 ---
 So you made it to the moon  
 Where you gonna go now  
@@ -17,8 +17,8 @@ Or to take you home
 <div class="chorus">
     Singing every word you know with that cosmic radio<br/>
     Shout into the solar winds you can't go home again<br/>
-    Way down in the south of the moon and from your mouth<br/>
-    There will come the words you know: where do you go
+    Way down in the south of the moon you'll find it out<br/>
+    You'll have nothing to show, nowhere to go
 </div>
 
 So you made it to the moon  
@@ -27,8 +27,8 @@ Nowhere left to go now that everybody knows
 What you've become
 
 So you made it to the moon  
-There's nothing for you here  
-Nothing to make you rich or help dispel the myth  
+There's nothing here  
+Nothing to make you rich or help confirm the myth  
 Of your darkest fears
 
 <div class="chorus">CHORUS</div>
