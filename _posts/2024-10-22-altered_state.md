@@ -42,6 +42,8 @@ It's gonna happen again
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
+  capo 2<br/>
+  <br/>
   C/G<br/>
   F/C<br />
   F/C<br />
