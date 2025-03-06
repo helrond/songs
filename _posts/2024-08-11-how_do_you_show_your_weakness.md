@@ -11,9 +11,9 @@ How do you handle uncertainty
 
 <div class="chorus">
     Let me invite you in, come on and take everything<br/>
-    I want to keep nothing to myself<br/>
+    There is nothing I want to keep myself<br/>
     Let me speak honestly, I depend on what I cannot see<br/>
-    You do the same for yourself
+    Can you do the same yourself
 </div>
 
 Where do you hold your weakness  
