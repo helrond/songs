@@ -10,6 +10,21 @@ Don't matter what they say
 It don't matter if it was faith or science  
 Or drugs that got you there
 
+Believe in possibility  
+The end of days  
+Believe the lies that get you through  
+Your darkest days
+
+Believe infinity  
+The last word you will hear  
+Believe in passing thoughts  
+Hold on to memory
+
+Believe the way they make you feel  
+But don't believe your eyes  
+Believe that nothing lasts  
+That you can still get higher
+
 <div class="chorus">
     Hallucination<br/>
     Seeing things that are not there<br/>
@@ -28,31 +43,11 @@ You're already there
     After the fire is gone
 </div>
 
-Nothing is believable now
-
-Somebody had strong words for you  
-They called you a liar  
-But you were only playing the odds  
-\-  
-
-You can play with numbers  
-Like you can play with minds  
-Erase the distance between  
-Imagination and time
-
-Faithful hearts believing  
-In things they cannot see  
-Machines using numbers to make  
-Things that seem so real
-
-There was something you said that I should have written down 
-
-We who are comfortable in this world  
-The question is will it be enough?
-
-Begging for minimums  
 Using complication as a weapon  
+
 When do you start the clock  
+The clock that's stopped  
+
 Let’s make our intentions plain
 
 Looking for warmth and a place to hide  
