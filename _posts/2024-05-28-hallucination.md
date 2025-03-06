@@ -36,13 +36,6 @@ You're better off that way
 Can't make a fool of a believer  
 You're already there
 
-<div class="chorus">
-    The rumble of thunder  
-    Before the storm  
-    Or the smell of smoke  
-    After the fire is gone
-</div>
-
 Using complication as a weapon  
 
 When do you start the clock  
@@ -50,13 +43,8 @@ The clock that's stopped
 
 Let’s make our intentions plain
 
-Looking for warmth and a place to hide  
-a lizard in the light
-
 People say where there’s smoke there’s fire  
 But you can smell the smoke after the fire is gone
-
-Protect your reputation over your integrity
 
 … and the riderless horse
 
