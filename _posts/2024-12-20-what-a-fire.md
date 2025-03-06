@@ -22,10 +22,10 @@ No storm left you disturbed
 <div class="chorus">CHORUS</div>
 
 <div class="chorus">
-  Now there's a haze all around<br />
-  Could it be the fire this time<br />
-  The way the seasons turn<br />
-  Or my failing eyes
+  When will it come for me<br/>
+  Make me nothing but ashes and dust<br/>
+  Where will it carry me<br/>
+  Beyond the limits of time and trust
 </div>
 
 You took in everything the world had to give  
