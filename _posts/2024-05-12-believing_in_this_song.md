@@ -9,11 +9,6 @@ Late in the day at the end of the year
 And I sing this for you  
 To take the edge of my fears
 
-You and I we’ve had our share  
-Filled our days up with worries and care  
-And I know somehow  
-All the best are behind us now
-
 <div class="chorus">
     When we’ve spent what we have taken<br/>
     And we’re left burned and forsaken<br/>
@@ -22,8 +17,8 @@ All the best are behind us now
     Believing in this song
 </div>
 
-Everything gets old  
-And the journey there is hard and cold  
+You and I we’ve had our share  
+Filled our days up with worries and care  
 Everything ends  
 But won't you travel with me until then
 
@@ -41,4 +36,8 @@ To take the edge of your fear
     F/C/Am/G<br/>
     <br/>
     F/C/G
+    <br/>
+    Em/Am<br/>
+    Em/Am<br/>
+    Em/Am/G
 </div>
