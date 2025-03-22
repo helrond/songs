@@ -5,25 +5,10 @@ layout: song
 categories: incomplete
 ---
 
-Believe what you want to see  
-Don't matter what they say  
-It don't matter if it was faith or science  
-Or drugs that got you there
-
-Believe in possibility  
-The end of days  
-Believe the lies that get you through  
-Your darkest days
-
-Believe infinity  
-The last word you will hear  
-Believe in passing thoughts  
-Hold on to memory
-
-Believe the way they make you feel  
-But don't believe your eyes  
-Believe that nothing lasts  
-That you can still get higher
+Believe what you can't see no matter what they say  
+If it was faith or fact or drugs that got you there
+Believe in consequence, the impending demise  
+Believe in anything but don't believe your eyes  
 
 <div class="chorus">
     Hallucination<br/>
@@ -31,24 +16,20 @@ That you can still get higher
     Hallucination
 </div>
 
-Believe what you can't see  
-You're better off that way  
-Can't make a fool of a believer  
-You're already there
+Believe the thoughts that tag along on your darkest trip  
+That you can make it to the moon without a spaceship
+Believe everything you've been taught is nothing but a lie  
+Believe the way it makes you feel, believe you can get higher
 
-Using complication as a weapon  
+Believe in possibility, mercy and grace  
+Believe the lies that get you through these darkened days  
+Believe infinity; the last word you will hear  
+Believe in passing thoughts, keep hold of memory
 
-When do you start the clock  
-The clock that's stopped  
-
-Let’s make our intentions plain
-
-People say where there’s smoke there’s fire  
-But you can smell the smoke after the fire is gone
-
-… and the riderless horse
-
-Who is hallucinating, you or me?
+Believe what you can't see, you're better off that way  
+Can't make a fool of a believer when you're already there
+Believe the math that won't add up, in fiction before fact
+Believe it has all happened before and we're just going back
 
 <div class="chords">
     Am/G/D<br/>
