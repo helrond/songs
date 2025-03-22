@@ -22,7 +22,7 @@ Or to take you home
 </div>
 
 So you made it to the moon  
-There's nowhere left to run  
+There's no place to run  
 Nowhere left to go now that everybody knows  
 What you've become
 
