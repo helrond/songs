@@ -15,9 +15,9 @@ The world came just to pass you by
 </div>
 
 You stood among the traffic and you breathed it in  
-Shedding what could not be absorbed  
-You grew so tall in foreign soil  
-No storm left you disturbed
+No matter how the winds would swirl  
+Your roots went deep and your branches spread  
+All around the world
 
 <div class="chorus">CHORUS</div>
 
@@ -30,8 +30,8 @@ No storm left you disturbed
 
 You took in everything the world had to give  
 With wonder and curiosity  
-You had the radio on and the paper piled up  
-In search of history
+The radio on and the papers piled up  
+You went looking for history
 
 <div class="chorus">CHORUS</div>
 
