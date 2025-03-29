@@ -7,7 +7,7 @@ categories: incomplete
 
 Believe what you can't see no matter what they say  
 If it was faith or fact or drugs that showed you the way  
-Believe in consequence, the impending demise  
+Believe in consequence, impending demise  
 Believe in anything but don't believe your eyes  
 
 <div class="chorus">
@@ -20,6 +20,8 @@ Believe in possibility, mercy and grace
 Believe the lies that get you through these darkened days  
 Believe infinity; the last word you will hear  
 Believe in passing thoughts, keep hold of memory
+
+<div class="chorus">CHORUS</div>
 
 Believe what you can't see, you're better off that way  
 Can't make a fool of someone who believes in what they say  
