@@ -15,9 +15,9 @@ The world came just to pass you by
 </div>
 
 You stood among the traffic and you breathed it in  
-No matter how the winds would swirl  
+For sustenance you sought the poorest land  
 Your roots went deep and your branches spread  
-All around the world
+You marked the sea, the sky, the strand
 
 <div class="chorus">CHORUS</div>
 
@@ -30,8 +30,8 @@ All around the world
 
 You took in everything the world had to give  
 With wonder and curiosity  
-The radio on and the papers piled up  
-You went looking for history
+An archaeologist of your own design  
+Excavating history
 
 <div class="chorus">CHORUS</div>
 
