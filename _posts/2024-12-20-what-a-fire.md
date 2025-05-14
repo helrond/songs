@@ -6,7 +6,7 @@ categories: incomplete
 ---
 You stood there on the mountainside year upon year  
 Your hollow holding shrines  
-Your branches sheltered poets, philosophers and djinns  
+You sheltered poets, philosophers and djinns  
 The world came just to pass you by
 
 <div class="chorus">
@@ -15,8 +15,8 @@ The world came just to pass you by
 </div>
 
 You stood among the traffic and you breathed it in  
-For sustenance you sought the poorest land  
-Your roots went deep and your branches spread  
+You sought the poorest land  
+The roots went deep and your branches spread  
 You marked the sea, the sky, the strand
 
 <div class="chorus">CHORUS</div>
@@ -36,10 +36,10 @@ Excavating history
 <div class="chorus">CHORUS</div>
 
 <div class="chords">
-  Am/G/F/G<br />
+  Em/D/C/D<br />
   <br />
-  C/Am<br />
-  G<br />
+  G/Em<br />
+  D<br />
   <br />
-  F/C/Am/G
+  C/G/Em/D
 </div>
