@@ -25,7 +25,7 @@ Believe in passing thoughts, hold onto memory
 
 Believe what you can't see, you're better off that way  
 Can't make a fool of someone who believes in what they say  
-Everything you've been taught is nothing but a lie  
+When everything you've been told is nothing but a lie  
 Believe the way it makes you feel, believe you can still get higher
 
 <div class="chords">
