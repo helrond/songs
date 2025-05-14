@@ -2,7 +2,7 @@
 title: Hallucination
 date: 2024-05-28
 layout: song
-categories: incomplete
+categories: finished
 ---
 
 Believe what you can't see no matter what they say  
