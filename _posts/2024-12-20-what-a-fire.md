@@ -2,7 +2,7 @@
 title: What a Fire
 date: 2024-12-20
 layout: song
-categories: incomplete
+categories: finished
 ---
 You stood there on the mountainside year upon year  
 Your hollow holding shrines  
