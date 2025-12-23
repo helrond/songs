@@ -14,6 +14,13 @@ This once was the shore
 Everything that is to come  
 And all that went before
 
+<div class="chorus">
+    And the bones, the bones you said they're good<br/>
+    And you built your house upon that rock, without thinking that you stood<br/>
+    On the bones of death and war<br/>
+    Or put your faith in something that took it all and asked for more<br/>
+</div>
+
 This once was a cloud  
 This once was the land  
 This once was an ancient ruin  
@@ -28,5 +35,10 @@ But never did see
     Em/D<br/>
     C/Am<br/>
     Em/D<br/>
-    Em/B7/Em
+    Em/B7/Em<br/>
+    <br/>
+    C/G/D/Em
+    C/G/D/Bm
+    C/G/D/Em
+    C/G/D/C
 </div>
