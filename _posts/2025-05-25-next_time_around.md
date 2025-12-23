@@ -1,6 +1,6 @@
 ---
-title: Next Time Arou d
-date: 2024-05-25
+title: Next Time Around
+date: 2025-05-25
 layout: song
 categories: finished
 ---
