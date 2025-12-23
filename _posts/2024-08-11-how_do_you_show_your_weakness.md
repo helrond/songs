@@ -4,47 +4,32 @@ date: 2024-08-11
 layout: song
 categories: incomplete
 ---
-How do you show your weakness  
-What makes you afraid  
-What's the worst that can be assumed  
-How do you handle uncertainty
+You showed your weakness and gave yourself away  
+When you walked into the room like you are not afraid  
+You've never been known for meekness or thought to suffer doubts  
+The way you're talking now it's like you're acting it out
 
 <div class="chorus">
     Let me invite you in, come on and take everything<br/>
-    There is nothing I want to keep myself<br/>
+    I want nothing for myself<br/>
     Let me speak honestly, I depend on what I cannot see<br/>
     Can you do the same yourself
 </div>
 
-Where do you hold your weakness  
-What makes it disappear  
-How do they know you're even there
-What do you hold dear  
+You showed your weakness and gave yourself away  
+With all these sounds that vanish in the air  
+You've confused the things you want and the things that you can't quit  
+You want to be the victim and you want the biggest stick
 
-When do you know your weakness  
-What can't you quit  
-Is it respect or victimhood  
-That's got you in it's grip
+You showed your weakness and gave yourself away  
+Demanding attention and requiring care
+Never too old for cheapness, scratching that itch
+You made a contest of fears, then gave the winner rich
 
-Feeling small  
-
-Weaving webs
-
-And now on top of everything  
-You want to be a victim too
-
-You only mean to offend  
-Finding new ways to take offense 
-
-Do you crack the bones and suck out the marrow  
-Do you swallow it whole  
-Do you spit out the seeds
-
-
-Security in poverty and annihilation  
-Who do you have tasting your food  
-Are you ready to take the first shot  
-Or did you bet on retaliation  
+You showed your weakness and gave yourself away
+You've signed over things that can never be repaid
+Everything is impeachable and nothing you do makes sense
+You offer only insults and take only offense
 
 <div class="chords">
     C/Am/F/G<br/>
