@@ -5,12 +5,12 @@ layout: song
 categories: finished
 ---
 So you made it to the moon  
-Where you gonna go now  
+Where to now  
 You hitched a ride to the edge of nowhere  
 What good was that anyhow
 
 So you made it to the moon  
-There's nobody here to show  
+There's no one to show  
 No one to hear you brag, to salute that flag  
 Or to take you home
 
@@ -34,7 +34,7 @@ Of your darkest fears
 <div class="chorus">CHORUS</div>
 
 So you made it to the moon  
-Where you gonna go now  
+Where to now  
 You hitched a ride to the edge of nowhere  
 What good was that anyhow
 
