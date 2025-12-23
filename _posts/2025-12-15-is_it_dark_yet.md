@@ -1,6 +1,6 @@
 ---
 title: Is it Dark Yet?
-date: 2025-12-22
+date: 2025-12-15
 layout: song
 categories: incomplete
 ---
