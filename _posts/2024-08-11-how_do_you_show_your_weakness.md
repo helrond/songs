@@ -22,13 +22,13 @@ You've confused the things you want and the things that you can't quit
 You want to be the victim and you want the biggest stick
 
 You showed your weakness and gave yourself away  
-Demanding attention and requiring care
-Never too old for cheapness, scratching that itch
+Demanding attention and requiring care  
+Never too old for cheapness, scratching that itch  
 You made a contest of fears, then gave the winner rich
 
-You showed your weakness and gave yourself away
-You've signed over things that can never be repaid
-Everything is impeachable and nothing you do makes sense
+You showed your weakness and gave yourself away  
+You've signed over things that can never be repaid  
+Everything is impeachable and nothing you do makes sense  
 You offer only insults and take only offense
 
 <div class="chords">
