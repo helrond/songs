@@ -11,7 +11,7 @@ And my ears ringing
 Wondering what's come over the wire  
 While I was sleeping  
 
-I wake up with a guilty mind  
+I wake up with a hollow mind  
 Full of regrets  
 The things that I remember  
 I wish I could forget  
