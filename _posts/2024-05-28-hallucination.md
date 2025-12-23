@@ -34,8 +34,8 @@ Believe the way it makes you feel, believe you can still get higher
 
 <div class="chorus">
     Hallucination<br/>
-    Seeing things that could be there<br/>
-    Hallucination
+    Seeing things that could be there (What if it was)<br/>
+    Hallucination (Not the way you remembered it)
 </div>
 
 <div class="chorus">
