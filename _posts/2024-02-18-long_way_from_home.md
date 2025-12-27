@@ -1,5 +1,5 @@
 ---
-title: Fringes
+title: Long Way from Home
 date: 2024-02-18
 layout: song
 categories: incomplete
@@ -9,19 +9,7 @@ Come on and take a ride with me
 You wanna get out where you can't be found  
 Come on and take a ride with me
 
-<div class="chorus">
-    Broken things out on the fringe<br/>
-    I'll take them anyday<br/>
-    With broken strings and these clipped wings<br/>
-    I'll fly away
-</div>
-
-<div class="chorus">
-    I'll take you to that other place
-    I'll take you where the highway fades
-    In the spaces left behind
-    That's where you will find peace of mind
-</div>
+<div class="chorus">A long way from home</div>
 
 You want to see a highway through the heart of town  
 Come on and take a ride with me  
@@ -38,12 +26,18 @@ Come on and take a ride with me
 You want to see the future that's waiting for you  
 Come on and take a ride with me
 
+You want to meet the lovers assassins and cooks  
+You want to see what the futures got in store for you  
+You want to see what’s waiting for you  
+Know where the highway takes you to  
+I've seen faces smile and frown  
+I’ve seen the leaves turn gold and brown  
+Lonesome valley  
+Darkened valley  
+
 <div class="chords">
     Am/G/Am<br/>
     C/G/Am<br/>
     <br/>
-    F/G/C/Am<br/>
-    F/G/C<br/>
-    F/G/C/Am<br/>
-    F/G/Am
+    chorus chords to come
 </div>
