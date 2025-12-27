@@ -6,9 +6,9 @@ categories: incomplete
 ---
 
 How did you get here when you can't even swim  
-\-  
-\-  
-\-  
+Way out here in the middle of a lake  
+Sure there's a ferry but who would walk onto that thing  
+Without knowing which port it was going to make 
 
 What made you stay the winter, believing in the spring  
 \-  
