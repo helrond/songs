@@ -5,30 +5,25 @@ layout: song
 categories: incomplete
 ---
 You showed your weakness and gave yourself away  
-When you walked into the room like you are not afraid  
-You've never been known for meekness or thought to suffer doubts  
-The way you're talking now it's like you're acting it out
+When you walked into the room like you were not afraid  
+You've never been known for keeping the worst from coming out  
+The way you're talking now you're leaving no doubt
 
 <div class="chorus">
     Let me invite you in, come on and take everything<br/>
     I want nothing for myself<br/>
     Let me speak honestly, I depend on what I cannot see<br/>
-    Can you do the same yourself
+    Can you say the same yourself
 </div>
 
-You showed your weakness and gave yourself away  
-With all these sounds that vanish in the air  
-You've confused the things you want and the things that you can't quit  
-You want to be the victim and you want the biggest stick
+You want it all and you want it to be fair  
+You demand attention that is delivered as care  
+Confused desire with what you can't quit  
+You made a contest of your fears, then gave the winner rich
 
-You showed your weakness and gave yourself away  
-Demanding attention and requiring care  
-Never too old for cheapness, scratching that itch  
-You made a contest of fears, then gave the winner rich
-
-You showed your weakness and gave yourself away  
-You've signed over things that can never be repaid  
-Everything is impeachable and nothing you do makes sense  
+How could you not know better, it only goes one way  
+When you sign up for debts there is no way to repay  
+You've made a virtue of ignoring commmon sense  
 You offer only insults and take only offense
 
 <div class="chords">
