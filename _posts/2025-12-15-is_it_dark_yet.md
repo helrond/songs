@@ -19,8 +19,8 @@ Do they also shiver, is there hatred in their hearts
 
 Come sit beside me, tell me all you feel  
 We have reached the age where wounds no longer heal  
-I know each winter could be the last  
-I wonder if we have the means to make today the past  
+I wonder if each winter could be the last  
+If there is a future we can make our past  
 
 <div class="chorus">CHORUS</div>
 
