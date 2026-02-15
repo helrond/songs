@@ -16,14 +16,14 @@ And all that went before
 
 <div class="chorus">
     And the bones, the bones you said they're good<br/>
-    And you built your house upon that rock, without thinking that you stood<br/>
+    And you built your house upon that rock, not thinking that it stood<br/>
     On the bones of death and war<br/>
-    Or put your faith in something that took it all and asked for more<br/>
+    Or gave it all to something that only asked for more<br/>
 </div>
 
 This once was a cloud  
 This once was the land  
-This once was an ancient ruin  
+This once was a ruin  
 Buried in the sand
 
 This once was the end  
@@ -37,8 +37,8 @@ But never did see
     Em/D<br/>
     Em/B7/Em<br/>
     <br/>
-    C/G/D/Em
-    C/G/D/Bm
-    C/G/D/Em
+    C/G/D/Em<br/>
+    C/G/D/Bm<br/>
+    C/G/D/Em<br/>
     C/G/D/C
 </div>
