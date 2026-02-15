@@ -18,7 +18,7 @@ Come on and take a ride with me
 
 You want to see the buildings turn their backs on you  
 Come on and take a ride with me  
-You want to see the wreckage and the misfits too
+You want to see the wreckage and the misfits too  
 Come on an take a ride with me
 
 You want to see something new  
