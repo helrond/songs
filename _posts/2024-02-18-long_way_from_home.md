@@ -11,33 +11,35 @@ Come on and take a ride with me
 
 <div class="chorus">A long way from home</div>
 
-You want to see a highway through the heart of town  
-Come on and take a ride with me  
-You want to see the place where the light comes down  
-Come on and take a ride with me
-
 You want to see the buildings turn their backs on you  
 Come on and take a ride with me  
 You want to see the wreckage and the misfits too  
-Come on an take a ride with me
-
-You want to see something new  
-Come on and take a ride with me  
-You want to see the future that's waiting for you  
 Come on and take a ride with me
 
-You want to meet the lovers assassins and cooks  
-You want to see what the futures got in store for you  
-You want to see what’s waiting for you  
-Know where the highway takes you to  
-I've seen faces smile and frown  
-I’ve seen the leaves turn gold and brown  
-Lonesome valley  
-Darkened valley  
+<div class="chorus">A long way from home</div>
+
+Have you met the lovers, assassins and cooks  
+Come on and take a ride with me  
+Have you torn the page out of that book  
+Come on and take a ride with me
+
+<div class="chorus">
+I've seen faces smile and frown</br>
+I've seen the lonesome valley and the golden crown</br>
+I've seen the leaves turn gold and brown</br>
+I've seen the place where the light comes down</br>
+</div>
+
+<div class="chorus">A long way from home</div>
+
+Do you know where this highway takes you to  
+Come on and take a ride with me  
+Do you know what's out there waiting for you  
+Come on and take a ride with me
 
 <div class="chords">
     Am/G/Am<br/>
     C/G/Am<br/>
     <br/>
-    chorus chords to come
+    C/D/Am
 </div>

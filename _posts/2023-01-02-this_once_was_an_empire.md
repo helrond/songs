@@ -18,13 +18,15 @@ And all that went before
     And the bones, the bones you said they're good<br/>
     And you built your house upon that rock, not thinking that it stood<br/>
     On the bones of death and war<br/>
-    Or gave it all to something that only asked for more<br/>
+    You gave it all to something that only asked for more<br/>
 </div>
 
 This once was a cloud  
 This once was the land  
 This once was a ruin  
 Buried in the sand
+
+<div class="chorus">CHORUS</div>
 
 This once was the end  
 This once was the dream  
