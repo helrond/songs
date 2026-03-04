@@ -40,7 +40,7 @@ But never did see
     Em/B7/Em<br/>
     <br/>
     C/G/D/Em<br/>
-    C/G/D/Bm<br/>
+    C/G/D<br/>
     C/G/D/Em<br/>
-    C/G/D/C
+    C/G/D/Em
 </div>
