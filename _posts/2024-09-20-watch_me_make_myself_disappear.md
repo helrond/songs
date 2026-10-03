@@ -2,7 +2,7 @@
 title: Watch Me Make Myself Disappear
 date: 2024-09-20
 layout: song
-categories: incomplete
+categories: finished
 ---
 Watch me make myself disappear  
 Watch me climb inside of your ear  
@@ -39,6 +39,6 @@ There is nowhere that I will not be
     <br/>
     C/D<br/>
     C/D<br/>
-    C/G/D<br/>
-    G
+    G/D/Em<br/>
+    C/A/C
 </div>
