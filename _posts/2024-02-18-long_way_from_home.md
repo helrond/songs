@@ -24,10 +24,10 @@ Have you torn the page out of that book
 Come on and take a ride with me
 
 <div class="chorus">
-I've seen faces smile and frown</br>
-I've seen the lonesome valley and the golden crown</br>
-I've seen the leaves turn gold and brown</br>
-I've seen the place where the light comes down</br>
+I've seen faces smile and frown<br/>
+I've seen the lonesome valley and the golden crown<br/>
+I've seen the leaves turn gold and brown<br/>
+I've seen the place where the light comes down<br/>
 </div>
 
 <div class="chorus">A long way from home</div>
@@ -42,4 +42,6 @@ Come on and take a ride with me
     C/G/Am<br/>
     <br/>
     C/D/Am
+    <br/>
+    C/D/F/E
 </div>
