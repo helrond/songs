@@ -26,6 +26,11 @@ This once was the land
 This once was a ruin  
 Buried in the sand
 
+This once was a river  
+This once was the sea  
+This once was the sign  
+That showed the way to me  
+
 <div class="chorus">CHORUS</div>
 
 This once was the end  
