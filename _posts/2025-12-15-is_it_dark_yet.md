@@ -2,7 +2,7 @@
 title: Is it Dark Yet
 date: 2025-12-15
 layout: song
-categories: incomplete
+categories: finished
 ---
 
 Looking out my window into open space  
