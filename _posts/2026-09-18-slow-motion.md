@@ -5,28 +5,36 @@ layout: song
 categories: incomplete
 ---
 
-I've been falling in my dreams  
-And it feels fine to me  
-But I wake up on the floor  
-Aching and sore
-
-They're saying things you can't believe  
-It's never gonna happen here  
-But there's abductions on your street  
-Executions on TV
+Yesterday I was a child  
+Reckless and wild  
+There was no past to regret  
+Or fear of what would happen next  
+Now I'm a complicated man  
+Full of mistakes and mislaid plans
 
 <div class="chorus">
   In slow motion<br/>
   It's coming at you all the time<br/>
   In slow motion<br/>
-  How's it gonna feel, how's it gonna feel<br/>
-  How's it gonna feel when it arrives
+  How's it gonna be, how's it gonna be<br/>
+  How's it gonna be when it arrives
 </div>
 
-Every year those winds blow  
-It's a fact everybody knows  
-But there's a city burned to ash  
-\--
+Every year the oceans rise  
+Rivers run dry  
+The seasons change  
+In unusual ways  
+Storms are waiting for your plans  
+Floods are lurking behind dams
+
+It starts out ruthless and small  
+A conversation in the hall  
+Then it's everything all the time  
+That makes you think you're gonna lose your mind    
+Someone's abducted on your street  
+There's executions on TV
+
+
 
 If you slow a train wreck down  
 And turn off the sound  
@@ -40,16 +48,13 @@ It always feels like things will last
 
 slow trauma
 
-The flood's been waiting behind the dam  
-Every dam is a flood waiting to happen
-
-Conversations in the halls
-
 <div class="chords">
   D<br/>
   G/D<br/>
   Bm/D<br/>
-  G/D<br/>
+  G/A<br/>
+  Em/A<br/>
+  Em/A<br/>
   <br/>
   G/A/D<br/>
   Em/A<br/>
