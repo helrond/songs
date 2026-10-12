@@ -46,13 +46,13 @@ Every dam is a flood waiting to happen
 Conversations in the halls
 
 <div class="chords">
-  D
-  G/D
-  Bm/D
-  G/D
-
-  G/A/D
-  Em/A
-  G/A/D
+  D<br/>
+  G/D<br/>
+  Bm/D<br/>
+  G/D<br/>
+  <br/>
+  G/A/D<br/>
+  Em/A<br/>
+  G/A/D<br/>
   Em/Bm/Em/D/Em/A/D
 </div>
