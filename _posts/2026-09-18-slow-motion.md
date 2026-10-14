@@ -27,37 +27,30 @@ In unusual ways
 Storms are waiting for your plans  
 Floods are lurking behind dams
 
-It starts out ruthless and small  
-A conversation in the hall  
+<div class="chorus">CHORUS</div>
+
+Started out ruthless and small  
+Conversations in the hall  
 Then it's everything all the time  
-That makes you think you're gonna lose your mind    
+Makes you think you're gonna lose your mind    
 Someone's abducted on your street  
 There's executions on TV
 
-
-
-If you slow a train wreck down  
-And turn off the sound  
-Man it looks beautiful  
-But it don't feel that way at all
-
-When you're going with the flow  
-You lose track of where you want to go  
-You never feel it happen fast  
-It always feels like things will last
-
-slow trauma
+<div class="chorus">CHORUS</div>
 
 <div class="chords">
-  D<br/>
-  G/D<br/>
-  Bm/D<br/>
-  G/A<br/>
-  Em/A<br/>
-  Em/A<br/>
+  Capo V (in F)
   <br/>
-  G/A/D<br/>
-  Em/A<br/>
-  G/A/D<br/>
-  Em/Bm/Em/D/Em/A/D
+  C<br/>
+  F/C<br/>
+  Am/G<br/>
+  F/G<br/>
+  Dm/G<br/>
+  Dm/G<br/>
+  <br/>
+  F/G/C<br/>
+  Dm/G<br/>
+  F/G/C<br/>
+  Dm/Am/Dm/C<br/>
+  Dm/G/C
 </div>
