@@ -8,7 +8,9 @@ categories: incomplete
 I was thinking about the death of democracy  
 Looking up into the midday sun  
 Up above the hawks were circling  
-Waiting for their chance   
+Waiting for their opportunity to come  
+I've been waiting for some kind of chance  
+For the right circumstance
 
 <div class="chorus">
   Everything<br/>
@@ -16,16 +18,35 @@ Waiting for their chance
   Already happening here<br/>
 </div>
 
+Up north the glaciers weep into lakes  
+The floods are due in a month's time  
+Out east they're talking secession again  
+And reinforcements have just arrived  
+Feels like I've seen this one before  
+I know the game I know the score
+
+In the capital city things are going fine  
+For the grifters and the cons  
+The machinery of state has been left unattended  
+And it's rusting in the midday sun  
+It feels like just a matter of time  
+Before this is your and mine
+
+I've heard all those stories of past glories  
+Rock and roll on the TV shows
+
 On the east coast they are up with the sun  
 Working hard to get that dough  
 Our evening had already begun  
 We were thinking about television shows
 
 The paper tells the story in freshly printed words  
+Of unsolved murders, water rights  
 And I turn right to the games and fold the pages over  
 And find a place with a breeze and some light  
 
-Time must be observed in order to occur
+Time must take away all that you were  
+Be seen in order to occur
 
 Expecting things to go wrong
 
@@ -41,11 +62,6 @@ You've got to know who's reliable
   All the magic in the world<br/>
   I should have known, could have known it could be mine<br/>
 </div>
-
-Years ago they were the talk of this city  
-In the Excelsior and Metropole  
-Now I walk in circles all around the ground  
-Thinking about the path of rock and roll
 
 <div class="chords">
   C/Am/F/C<br/>
