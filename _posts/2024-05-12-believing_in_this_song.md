@@ -4,10 +4,10 @@ date: 2024-05-12
 layout: song
 categories: incomplete
 ---
-Wrote this in a war  
-Late in the day at the end of the year  
-And I sing this for you  
-To take the edge of my fears
+I have never known a world  
+Without a war fought in my name  
+I've been kept comfortable  
+But I didn't ask for any of them
 
 <div class="chorus">
     When we’ve spent what we have taken<br/>
@@ -19,15 +19,15 @@ To take the edge of my fears
 
 You and I we’ve had our share  
 Filled our days up with worries and care  
-Everything ends  
-But won't you travel with me until then
+But we've never paid the price  
+Laid it all out there and rolled the dice
 
 <div class="chorus">CHORUS</div>
 
-Sang this song in a war  
-On another day in another year  
-I wrote it for you  
-To take the edge of your fear
+I believe there is a world  
+With enough, without war  
+I believe we'll make it there  
+In my lifetime, if not in yours
 
 <div class="chorus">CHORUS</div>
 
@@ -35,7 +35,7 @@ To take the edge of your fear
     C/G/Am<br/>
     F/C/Am/G<br/>
     <br/>
-    F/C/G
+    F/C/G (x4)<br/>
     <br/>
     Em/Am<br/>
     Em/Am<br/>
