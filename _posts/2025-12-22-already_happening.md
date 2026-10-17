@@ -6,11 +6,11 @@ categories: incomplete
 ---
 
 I was thinking about the death of democracy  
-Looking up into the midday sun  
+Looking up into the morning sun  
 Up above the hawks were circling  
-Waiting for their opportunity to come  
-I've been waiting for some kind of chance  
-For the right circumstance
+Waiting for their chance to come  
+The future it is coming on fast  
+There's no use living in the past
 
 <div class="chorus">
   Everything<br/>
@@ -20,7 +20,7 @@ For the right circumstance
 
 Up north the glaciers weep into lakes  
 The floods are due in a month's time  
-Out east they're talking secession again  
+The west coast is talking independence  
 And reinforcements have just arrived  
 Feels like I've seen this one before  
 I know the game I know the score
@@ -32,40 +32,18 @@ And it's rusting in the midday sun
 It feels like just a matter of time  
 Before this is your and mine
 
-I've heard all those stories of past glories  
-Rock and roll on the TV shows
-
-On the east coast they are up with the sun  
-Working hard to get that dough  
-Our evening had already begun  
-We were thinking about television shows
-
 The paper tells the story in freshly printed words  
 Of unsolved murders, water rights  
 And I turn right to the games and fold the pages over  
 And find a place with a breeze and some light  
-
-Time must take away all that you were  
-Be seen in order to occur
-
-Expecting things to go wrong
-
-You can't expect things to go the way that you want  
 You've got to make some friends and improvise  
-You've got to know who's reliable
-
-<div class="chorus">
-  All the words left to say<br/>
-  All tomorrows yesterday<br/>
-  I could have heard it, could have heard it if I tried<br/>
-  All the things that we have heard<br/>
-  All the magic in the world<br/>
-  I should have known, could have known it could be mine<br/>
-</div>
+You've got to know how to survive
 
 <div class="chords">
   C/Am/F/C<br/>
   F/Am/G<br/>
+  F/C/G<br/>
+  F/C/G<br/>
   <br/>
   C<br/>
   F/C<br/>
