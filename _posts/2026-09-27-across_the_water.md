@@ -11,7 +11,7 @@ As the evening gathered round
 
 Drifting out over the water  
 I heard that lonesome tune  
-Before the lights of the incoming ferry  
+Before the lights of the arriving ferry  
 Had even come into view
 
 <div class="chorus">
@@ -26,10 +26,10 @@ The wind that cuts you clean in two
 The currents twisting the tiller  
 Rocks lurking out of view
 
-But I know that the ferryman  
-Will get us all safely there  
-As he hums just loud enough for himself  
-There is no other harm to bear
+I want to be there with you  
+I want to make myself well known  
+With the orphans of infinity  
+Across the water I will make my home
 
 <div class="chorus">CHORUS</div>
 
@@ -44,11 +44,6 @@ I believe this song will carry me over
 And bring me back again
 
 <div class="chorus">CHORUS</div>
-
-I want to be there with you  
-I want to make myself well known  
-With the orphans of infinity  
-Across the water I will make my home
 
 <div class="chords">
   G/C<br/>
