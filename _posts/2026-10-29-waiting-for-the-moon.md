@@ -13,36 +13,37 @@ What will it take to make it whole again
   How long have we been waiting for the moon<br/>
   And the dawn that follows is it coming soon<br/>
   How long have we been praying full of doubts<br/>
-  That forgiveness might be ours before our time runs out 
+  That forgiveness might be ours before time runs out 
 </div>
 
-Take a silent thing and make it shout  
-Scream into the void and let it all hang out  
+Take a silent thing and make it scream  
+Like nothing could wake you from that dream  
 Get all of that noise into every ear  
 Who will listen, what will they hear
 
-Take the smaller thing that makes you scared  
-Put it on a pedestal out in the square  
-Let it rust, let it split  
-Let the pigeons roost all over it
+Take everything that frightens you  
+Put them out into the square on public view  
+Let them fade, let them rust  
+Let the pigeons roost, let them be caked in dust
 
 <div class="chorus">
   How long have we been in this fight<br/>
   Kicking at the darkness, hoping for daylight<br/>
-  How long have we been taking all the blame<br/>
+  How long have we accepted blame<br/>
   All the thing you keep inside you got to call them by their name
 </div>
 
 <div class="chords">
-Em/C/D (intro/gaps)<br/>
+Capo 4 (in E)
+Am/F/G (intro/gaps)<br/>
 <br/>
-Em/C/D/Em/C/D<br/>
-Em/C/D/Em/C/D<br/>
-G/D/Em/C/D<br/>
-Em/C/D/Em/C/D<br/>
+Am/F/G/Am/F/G<br/>
+Am/F/G/Am/F/G<br/>
+C/G/Am/F/G<br/>
+Am/F/G/Am/F/G<br/>
 <br/>
-G/C<br/>
-Em/D<br/>
-G/C<br/>
-Em/D/Em
+C/G<br/>
+Am/G<br/>
+C/G<br/>
+Am/D/Am
 </div>
