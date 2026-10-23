@@ -34,7 +34,8 @@ Let the pigeons roost, let them be caked in dust
 </div>
 
 <div class="chords">
-Capo 4 (in E)
+Capo 4 (in E)<br/>
+<br/>
 Am/F/G (intro/gaps)<br/>
 <br/>
 Am/F/G/Am/F/G<br/>
