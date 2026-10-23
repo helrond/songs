@@ -21,10 +21,14 @@ Like nothing could wake you from that dream
 Get all of that noise into every ear  
 Who will listen, what will they hear
 
+<div class="chorus">CHORUS</div>
+
 Take everything that frightens you  
 Put them out into the square on public view  
 Let them fade, let them rust  
 Let the pigeons roost, let them be caked in dust
+
+<div class="chorus">CHORUS</div>
 
 <div class="chorus">
   How long have we been in this fight<br/>
