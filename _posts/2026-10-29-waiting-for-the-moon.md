@@ -6,7 +6,7 @@ categories: incomplete
 ---
 Take a fragile thing, see how it breaks  
 Watch as it collapses, see what it takes  
-From this bag of bones, blood and skin  
+This bag of bones, blood and skin  
 What will it take to make it whole again
 
 <div class="chorus">
@@ -17,16 +17,16 @@ What will it take to make it whole again
 </div>
 
 Take a silent thing and make it scream  
-Like nothing could wake you from that dream  
+Loud enough to wake you from that dream  
 Get all of that noise into every ear  
 Who will listen, what will they hear
 
 <div class="chorus">CHORUS</div>
 
-Take everything that frightens you  
+Take all of those things that frighten you  
 Put them out into the square on public view  
 Let them fade, let them rust  
-Let the pigeons roost, let them be caked in dust
+Let the pigeons roost, let them turn to dust
 
 <div class="chorus">CHORUS</div>
 
@@ -34,7 +34,7 @@ Let the pigeons roost, let them be caked in dust
   How long have we been in this fight<br/>
   Kicking at the darkness, hoping for daylight<br/>
   How long have we accepted blame<br/>
-  All the thing you keep inside you got to call them by their name
+  All the things you keep inside you got to call them by their name
 </div>
 
 <div class="chords">
@@ -47,8 +47,8 @@ Am/F/G/Am/F/G<br/>
 C/G/Am/F/G<br/>
 Am/F/G/Am/F/G<br/>
 <br/>
-C/G<br/>
+C/F<br/>
 Am/G<br/>
-C/G<br/>
-Am/D/Am
+C/F<br/>
+Am/G/Am
 </div>
