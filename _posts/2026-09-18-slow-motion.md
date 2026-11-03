@@ -29,9 +29,9 @@ Floods are lurking behind dams
 
 <div class="chorus">CHORUS</div>
 
-Started out ruthless and small  
+Starts out ruthless and small  
 Conversations in the hall  
-Then it's everything all the time  
+Then it's everywhere all the time  
 Makes you think you're gonna lose your mind    
 Someone's abducted on your street  
 There's executions on TV
@@ -43,7 +43,7 @@ There's executions on TV
   <br/>
   C<br/>
   F/C<br/>
-  Am/G<br/>
+  Am/C<br/>
   F/G<br/>
   Dm/G<br/>
   Dm/G<br/>
